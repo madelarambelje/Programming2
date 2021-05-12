@@ -1,6 +1,7 @@
 from Bio import Entrez
 import sys
 import multiprocessing as mp
+import argparse
 
 Entrez.email = "m.a.delarambelje@gmail.com"
 Entrez.api_key = "922bc25a747c178a595054ac75fa5b0f8508"
@@ -26,6 +27,9 @@ def download_save(RefID):
     handle = Entrez.efetch(db="pubmed", id=RefID, retmode='xml')
     with open(f'output/{RefID}.xml','wb') as f:
         f.write(handle.read())
+
+
+
 
 if __name__ == "__main__":
     RefIds = get_reference(pmid)

@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">18335118</PMID>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>03</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2008</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1526-3711</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Mar</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The journal of contemporary dental practice</Title>
+                <ISOAbbreviation>J Contemp Dent Pract</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The effect of topical application of pure honey on radiation-induced mucositis: a randomized clinical trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>40-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">Radiation-induced mucositis is an early effect of head and neck radiotherapy. Mucositis can cause ulcers, and patients may experience pain and dysphasia which need treatment. The aim of this study is to evaluate the effect of pure natural honey on radiation induced mucositis.</AbstractText>
+                <AbstractText Label="METHODS AND MATERIALS" NlmCategory="METHODS">In this randomized single blind (examiner blind) clinical trial 40 patients with head and neck cancer requiring radiation to the oropharyngeal mucosa were randomly assigned to two groups. Twenty patients assigned to the study group received honey, while both the study and control groups received standard head and neck radiation therapy based on a standard protocol. In the study group patients were instructed to take 20 ml of honey 15 minutes before radiation therapy, then again at intervals of 15 minutes and six hours after radiation. In the control group patients were instructed to rinse with 20 ml of saline before and after radiation. Patients were evaluated weekly for progression of mucositis using the Oral Mucositis Assessing Scale (OMAS). Data were analyzed using the independent t-test, Mann-Whitney, and Friedman tests.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A significant reduction in mucositis among honey-received patients compared with controls (p=0.000) occurred.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Within the limits of this study the results showed the application of natural honey is effective in managing radiation induced mucositis.</AbstractText>
+                <AbstractText Label="CLINICAL SIGNIFICANCE" NlmCategory="CONCLUSIONS">Natural honey is a product with rich nutritional qualities that could be a pleasant, simple, and economic modality for the management of radiation mucositis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Motallebnejad</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oral Medicine of Faculty of Dentistry at Babol University of Medical Sciences in Babol, Iran. mmotallebnejad@yahoo.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Akram</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moghadamnia</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moulana</LastName>
+                    <ForeName>Z</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Omidi</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>J Contemp Dent Pract</MedlineTA>
+            <NlmUniqueID>101090552</NlmUniqueID>
+            <ISSNLinking>1526-3711</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>D</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D016371" MajorTopicYN="N">Cranial Irradiation</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006722" MajorTopicYN="Y">Honey</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D052016" MajorTopicYN="N">Mucositis</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009959" MajorTopicYN="N">Oropharyngeal Neoplasms</DescriptorName>
+                <QualifierName UI="Q000532" MajorTopicYN="N">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011832" MajorTopicYN="N">Radiation Injuries</DescriptorName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011867" MajorTopicYN="N">Radioisotope Teletherapy</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016037" MajorTopicYN="N">Single-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018709" MajorTopicYN="N">Statistics, Nonparametric</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013280" MajorTopicYN="N">Stomatitis</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18335118</ArticleId>
+            <ArticleId IdType="pii">1526-3711-493</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

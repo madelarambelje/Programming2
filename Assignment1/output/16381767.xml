@@ -1,0 +1,210 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16381767</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>03</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0144-8420</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>115</Volume>
+                    <Issue>1-4</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Radiation protection dosimetry</Title>
+                <ISOAbbreviation>Radiat Prot Dosimetry</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Assessment by cytogenetic analysis of the radioprotection properties of propolis extract.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>461-4</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Propolis obtained from honeybee hives has been used in folk medicine as an anti-inflammatory, anti-carcinogenic or immunomodulatory agent. In animal studies, the radioprotector effect of propolis has been attributed to its free-radical scavenging properties. The present study was carried out to show the protective properties of propolis extract against DNA damage induced by gamma irradiation. The evaluation of the radioprotective effect of propolis has been carried out by the analysis of chromosome aberration induction after several doses of gamma rays. The results of an analysis in the presence of ethanol extract of propolis (EEP) were compared with the dose-effect calibration curve for gamma-rays by analysis of chromosome aberrations without propolis, a decrease in the radiation-induced chromosome aberrations has been observed to be higher than 50% for all the doses.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Montoro</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Servicio de Protección Radiológica, Hospital la Fe, Av/Campanar no. 21, Valencia, 46009, Spain. almonpas@doctor.upv.es</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Almonacid</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Serrano</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saiz</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barquinero</LastName>
+                    <ForeName>J F</ForeName>
+                    <Initials>JF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barrios</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Verdú</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pérez</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Villaescusa</LastName>
+                    <ForeName>J I</ForeName>
+                    <Initials>JI</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Radiat Prot Dosimetry</MedlineTA>
+            <NlmUniqueID>8109958</NlmUniqueID>
+            <ISSNLinking>0144-8420</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011837">Radiation-Protective Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9009-62-5</RegistryNumber>
+                <NameOfSubstance UI="D011429">Propolis</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002869" MajorTopicYN="N">Chromosome Aberrations</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="Y">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020732" MajorTopicYN="N">Cytogenetic Analysis</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004247" MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004307" MajorTopicYN="N">Dose-Response Relationship, Radiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008214" MajorTopicYN="N">Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="Y">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011429" MajorTopicYN="N">Propolis</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011829" MajorTopicYN="N">Radiation Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011832" MajorTopicYN="N">Radiation Injuries</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011835" MajorTopicYN="N">Radiation Protection</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011836" MajorTopicYN="N">Radiation Tolerance</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011837" MajorTopicYN="N">Radiation-Protective Agents</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011874" MajorTopicYN="N">Radiometry</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>3</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16381767</ArticleId>
+            <ArticleId IdType="pii">115/1-4/461</ArticleId>
+            <ArticleId IdType="doi">10.1093/rpd/nci026</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

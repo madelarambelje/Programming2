@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">22408302</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>10</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">0976-9382</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>32</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Ayu</Title>
+                <ISOAbbreviation>Ayu</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Protective effect of Yashtimadhu (Glycyrrhiza glabra) against side effects of radiation/chemotherapy in head and neck malignancies.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>196-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/0974-8520.92579</ELocationID>
+            <Abstract>
+                <AbstractText>One of the very common side effects of Radiation/Chemotherapy especially of the head and neck malignancies is mucositis. Cancer therapy or the cancer itself may cause changes in the body chemistry that results in loss of appetite, pain, nausea, vomiting, diarrhea and very common mucositis which makes eating difficult. Loss of appetite is followed by an undesirable loss of weight due to insufficient amount of calories every day which can lead to loss of muscle mass and strength and other complications by causing interruptions of medical therapy, impeding effective cancer therapy. Mucositis cause decreased immunity and quality of life as well as poor tolerance to surgery and altered efficacy of Chemotherapy and Radiotherapy. The present study is designed with the objective to minimize the radiation induced mucositis, skin reaction, xerostomia, change in voice etc. with an Ayurvedic preparation Yashtimadhu Ghrita (processed ghee). Total 75 patients were randomly divided into four groups and drugs were administered: Group A with local application of Yashtimadhu powder and honey in the oral cavity for few minutes prior to radiotherapy along with oral intake of Yashtimadhu Ghrita; Group B with only local application of the Yashtimadhu powder and honey in the oral cavity; Group C patients administered with only local application of honey in the oral cavity; Group D on conventional modern medication controlled group. All these patients under four groups had received Radiotherapy and Chemotherapy for maximum duration of 7 weeks. Mucositis and Skin reactions were observed in 100% of patients with varying degree. The intensity of Radiation and Chemotherapy induced mucositis was reduced to a great extent by the trial drug. Yashtimadhu (Glycyrrhiza glabra) can be used effectively in prevention and treatment of oral mucositis post radiation and chemotheraphy in patients of cancer, especially of the head and neck region. It proves beneficial in two ways: (i) there were no interruptions in the treatment, and (ii) food intake was not severely affected leading to maintenance of nutritional status of the patients.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Das</LastName>
+                    <ForeName>Debabrata</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Medical Officer, Shilong, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>S K</ForeName>
+                    <Initials>SK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chandola</LastName>
+                    <ForeName>H M</ForeName>
+                    <Initials>HM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Ayu</MedlineTA>
+            <NlmUniqueID>7605807</NlmUniqueID>
+            <ISSNLinking>0974-8520</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Head and neck cancer</Keyword>
+            <Keyword MajorTopicYN="N">Yashtimadhu ghrita</Keyword>
+            <Keyword MajorTopicYN="N">oral mucositis</Keyword>
+            <Keyword MajorTopicYN="N">radio-chemotherapy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22408302</ArticleId>
+            <ArticleId IdType="doi">10.4103/0974-8520.92579</ArticleId>
+            <ArticleId IdType="pii">Ayu-32-196</ArticleId>
+            <ArticleId IdType="pmc">PMC3296340</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20832243</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>03</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1399-0020</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>39</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of oral and maxillofacial surgery</Title>
+                <ISOAbbreviation>Int J Oral Maxillofac Surg</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of topical honey on limitation of radiation-induced oral mucositis: an intervention study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1181-5</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ijom.2010.05.014</ELocationID>
+            <Abstract>
+                <AbstractText>Radiation therapy for oral carcinoma is therapeutically useful in dose of at least 6000 cGy but causes mucositis that severely interferes with oral function. The literature indicates that honey appears to promote wound healing, so the authors investigated whether its anti-inflammatory properties might limit the severity of radiation-induced oral mucositis. A single-blinded, randomized, controlled clinical trial was carried out to compare the mucositis-limiting qualities of honey with lignocaine. A visual assessment scale permitted scoring of degrees of mucositis and statistical evaluation of the results was performed using the χ(2) test. Only 1 of 20 patients in the honey group developed intolerable oral mucositis compared with the lignocaine group, indicating that honey is strongly protective (RR=0.067) against the development of mucositis. The proportion of patients with intolerable oral mucositis was lower in the honey group and this was statistically significant (p=0.000). Honey applied topically to the oral mucosa of patients undergoing radiation therapy appears to provide a distinct benefit by limiting the severity of mucositis. Honey is readily available, affordable and well accepted by patients making it useful for improving the quality of life in irradiated patients.</AbstractText>
+                <CopyrightInformation>Copyright © 2010 International Association of Oral and Maxillofacial Surgeons. Published by Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Khanal</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oral Surgery, People's Dental College, Kathmandu, Nepal.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baliga</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uppal</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>09</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Denmark</Country>
+            <MedlineTA>Int J Oral Maxillofac Surg</MedlineTA>
+            <NlmUniqueID>8605826</NlmUniqueID>
+            <ISSNLinking>0901-5027</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000779">Anesthetics, Local</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>98PI200987</RegistryNumber>
+                <NameOfSubstance UI="D008012">Lidocaine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>D</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Int J Oral Maxillofac Surg. 2011 Nov;40(11):1335-6; author reply 1235</RefSource>
+                <PMID Version="1">21700426</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000287" MajorTopicYN="N">Administration, Topical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000779" MajorTopicYN="N">Anesthetics, Local</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016009" MajorTopicYN="N">Chi-Square Distribution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016371" MajorTopicYN="N">Cranial Irradiation</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006722" MajorTopicYN="Y">Honey</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008012" MajorTopicYN="N">Lidocaine</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009062" MajorTopicYN="N">Mouth Neoplasms</DescriptorName>
+                <QualifierName UI="Q000532" MajorTopicYN="N">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D052016" MajorTopicYN="N">Mucositis</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011832" MajorTopicYN="N">Radiation Injuries</DescriptorName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016037" MajorTopicYN="N">Single-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013280" MajorTopicYN="N">Stomatitis</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>09</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2010</Year>
+                <Month>05</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20832243</ArticleId>
+            <ArticleId IdType="pii">S0901-5027(10)00347-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ijom.2010.05.014</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

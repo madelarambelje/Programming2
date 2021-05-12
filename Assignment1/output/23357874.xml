@@ -1,0 +1,220 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23357874</PMID>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1347-8648</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>121</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of pharmacological sciences</Title>
+                <ISOAbbreviation>J Pharmacol Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Oral mucosal adhesive films containing royal jelly accelerate recovery from 5-fluorouracil-induced oral mucositis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>110-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Oral mucositis induced by chemotherapy or radiotherapy has an impact upon quality-of-life, is dose-limiting for chemotherapy, and causes considerable morbidity. We evaluated the effect of royal jelly (RJ) on 5-fluorouracil (5-FU)-induced oral mucositis in hamsters. Oral mucositis was induced in hamsters through a combination of 5-FU treatment and mild abrasion of the cheek pouch. RJ was contained in chitosan-sodium alginate film (RJ film). Films were attached to the oral mucosa and the healing process examined by measuring the area of mucositis, myeloperoxidase (MPO) activity, microscopic aspects, and RT-PCR for detection of pro-inflammatory cytokines (tumor necrosis factor-α, interleukin-1β). Furthermore, we evaluated the radical-scavenging activity of RJ and generation of keratinocyte growth factor from human periodontal ligament fibroblasts. RJ films (10%, 30%) significantly improved recovery from 5-FU-induced damage, reduced MPO activity and the production of pro-inflammatory cytokines. Additionally, RJ showed radical-scavenging activity. These data suggest that topical application of films that contain RJ had a healing effect on the severe oral mucositis induced by 5-FU and that the effect was caused by the anti-inflammatory or anti-oxidative activities of RJ.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Watanabe</LastName>
+                    <ForeName>Shinichi</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Pharmacy, Ehime University Hospital, Ehime, Japan. kinnin@m.ehime-u.ac.jp</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suemaru</LastName>
+                    <ForeName>Katsuya</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Takechi</LastName>
+                    <ForeName>Kenshi</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaji</LastName>
+                    <ForeName>Hiroaki</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Imai</LastName>
+                    <ForeName>Kimie</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Araki</LastName>
+                    <ForeName>Hiroaki</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>01</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>J Pharmacol Sci</MedlineTA>
+            <NlmUniqueID>101167001</NlmUniqueID>
+            <ISSNLinking>1347-8613</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000269">Adhesives</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005227">Fatty Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016166">Free Radical Scavengers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D053583">Interleukin-1beta</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014409">Tumor Necrosis Factor-alpha</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>126469-10-1</RegistryNumber>
+                <NameOfSubstance UI="D051523">Fibroblast Growth Factor 7</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.11.1.7</RegistryNumber>
+                <NameOfSubstance UI="D009195">Peroxidase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>L497I37F0C</RegistryNumber>
+                <NameOfSubstance UI="C058787">royal jelly</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>U3P01618RT</RegistryNumber>
+                <NameOfSubstance UI="D005472">Fluorouracil</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000269" MajorTopicYN="N">Adhesives</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002610" MajorTopicYN="N">Cheek</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006224" MajorTopicYN="N">Cricetinae</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005227" MajorTopicYN="N">Fatty Acids</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051523" MajorTopicYN="N">Fibroblast Growth Factor 7</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005472" MajorTopicYN="N">Fluorouracil</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016166" MajorTopicYN="N">Free Radical Scavengers</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053583" MajorTopicYN="N">Interleukin-1beta</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009061" MajorTopicYN="N">Mouth Mucosa</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009195" MajorTopicYN="N">Peroxidase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013280" MajorTopicYN="N">Stomatitis</DescriptorName>
+                <QualifierName UI="Q000139" MajorTopicYN="Y">chemically induced</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014409" MajorTopicYN="N">Tumor Necrosis Factor-alpha</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23357874</ArticleId>
+            <ArticleId IdType="pii">DN/JST.JSTAGE/jphs/12181FP</ArticleId>
+            <ArticleId IdType="doi">10.1254/jphs.12181fp</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

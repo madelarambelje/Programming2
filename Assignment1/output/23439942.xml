@@ -1,0 +1,202 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">23439942</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>02</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0973-1075</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>18</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Indian journal of palliative care</Title>
+                <ISOAbbreviation>Indian J Palliat Care</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluating the effectiveness of topical application of natural honey and benzydamine hydrochloride in the management of radiation mucositis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>190-5</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4103/0973-1075.105689</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Radiation mucositis is an early effect of head and neck radiotherapy. Mucositis can cause ulcers, and patients may experience pain and dysphagia which need proper management. This study was conducted in 60 patients with oral malignancy.</AbstractText>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">To evaluate the effect of natural honey and 0.15% benzydamine hydrochloride on onset and severity of radiation mucositis and to compare it with control.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">This study was conducted in the Department of Oral Medicine and Radiology, Tamilnadu Government Dental College and Hospital, Chennai, from April to December 2010. The sample size comprised of 60 patients, of both genders, diagnosed with oral malignancy clinically and histopathologically and planned for radiotherapy. The patients were assigned into three groups by random sampling. Each group consisted of 20 patients. Group 1 patients were instructed for topical application of natural honey, groups 2 and 3 were instructed for topical application of 0.15% benzydamine hydrochloride and 0.9% normal saline respectively. The onset of mucositis and the severity of mucositis were graded during the course of the radiotherapy and two weeks after radiotherapy, with WHO mucositis grading in all the three groups and statistically analysed with SPSS version 11 software.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A significant reduction in mucositis in honey-received patients compared with 0.15% benzydamine hydrochloride, 0.9% normal saline applied patients occurred. The differences between the groups were statistically significant (P &lt; 0.001).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Pure natural honey can be an effective agent in managing radiation induced oral mucositis. Honey could be a simple, potent and inexpensive agent, which is easily available, and it can be a better therapeutic agent in managing radiation mucositis in developing countries like India for the management of this morbidity.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jayachandran</LastName>
+                    <ForeName>Sadaksharam</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oral Medicine and Radiology, Tamilnadu Government Dental College and Hospital, Chennai, Tamil Nadu, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Balaji</LastName>
+                    <ForeName>Narasimhan</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>India</Country>
+            <MedlineTA>Indian J Palliat Care</MedlineTA>
+            <NlmUniqueID>101261221</NlmUniqueID>
+            <ISSNLinking>0973-1075</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Benzydamine hydrochloride</Keyword>
+            <Keyword MajorTopicYN="N">Natural honey</Keyword>
+            <Keyword MajorTopicYN="N">Oral malignancy</Keyword>
+            <Keyword MajorTopicYN="N">Radiation mucositis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23439942</ArticleId>
+            <ArticleId IdType="doi">10.4103/0973-1075.105689</ArticleId>
+            <ArticleId IdType="pii">IJPC-18-190</ArticleId>
+            <ArticleId IdType="pmc">PMC3573473</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Vopr Onkol. 2000;46(6):748-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11219953</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Oral Maxillofac Surg. 2010 Dec;39(12):1181-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20832243</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Support Care Cancer. 2003 Apr;11(4):242-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12673463</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Community Nurs. 2003 Dec;8(12):S14-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14700007</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer. 1981 Jan 1;47(1):207-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7459811</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Surg. 1983 Mar;145(3):374-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6837863</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Oral Surg. 1985 Oct;14(5):416-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3932235</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Burns. 1998 Mar;24(2):157-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9625243</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Paediatr. 1998 Apr;87(4):429-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9628301</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Zentralbl Veterinarmed A. 1998 Apr;45(3):181-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9673575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Oral Rehabil. 1998 Aug;25(8):630-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9781867</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Support Oncol. 2004 Nov-Dec;2(6 Suppl 3):3-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15605918</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Contemp Dent Pract. 2008;9(3):40-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18335118</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Laryngol Otol. 2009 Feb;123(2):223-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18485252</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Clin Microbiol Infect Dis. 2001 Oct;20(10):758-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11757984</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

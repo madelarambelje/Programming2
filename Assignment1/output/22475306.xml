@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22475306</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>09</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>10</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1521-0669</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>29</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pediatric hematology and oncology</Title>
+                <ISOAbbreviation>Pediatr Hematol Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Honey and a mixture of honey, beeswax, and olive oil-propolis extract in treatment of chemotherapy-induced oral mucositis: a randomized controlled pilot study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>285-92</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3109/08880018.2012.669026</ELocationID>
+            <Abstract>
+                <AbstractText>In spite of being one of the most investigated subjects among supportive care in cancer, no therapy has been found effective in treatment of chemotherapy-induced oral mucositis. Based on the observations that honey bees products have anti-inflammatory and wound healing effects, the present study tried to evaluate the effect of topical application of honey and a mixture of honey, olive oil-propolis extract, and beeswax (HOPE) in treatment of oral mucositis. This was a randomized controlled clinical trial conducted on 90 patients with acute lymphoblastic leukemia and oral mucositis grades 2 and 3. The mean age of enrolled patients was 6.9 years. The patients were assigned into 3 equal treatment groups: Honey, HOPE, and control groups. Topical treatment for each patient consists of honey, HOPE, and benzocaine gel for honey, HOPE, and control groups, respectively. Recovery time in grade 2 mucositis was significantly reduced in the honey group as compared with either HOPE or controls (P &lt; .05). In grade 3 mucositis, recovery time did not differ significantly between honey and HOPE (P = 0.61) but compared with controls, healing was faster with either honey or HOPE (P &lt; .01). Generally, in both grades of mucositis, honey produced faster healing than either HOPE or controls (P &lt; .05). Based on our results that showed that honey produced faster healing in patients with grade 2/3 chemotherapy-induced mucositis, we recommend using honey and possibly other bee products and olive oil in future therapeutic trials targeting chemotherapy-induced mucositis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Abdulrhman</LastName>
+                    <ForeName>Mamdouh</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatrics, Faculty of Medicine, Ain Shams University, Cairo, Egypt. mamdouh565@hotmail.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Elbarbary</LastName>
+                    <ForeName>Nancy Samir</ForeName>
+                    <Initials>NS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahmed Amin</LastName>
+                    <ForeName>Dina</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saeid Ebrahim</LastName>
+                    <ForeName>Rania</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT01431729</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Pediatr Hematol Oncol</MedlineTA>
+            <NlmUniqueID>8700164</NlmUniqueID>
+            <ISSNLinking>0888-0018</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000069463">Olive Oil</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010938">Plant Oils</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014885">Waxes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>2ZA36H0S2V</RegistryNumber>
+                <NameOfSubstance UI="C038228">beeswax</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9009-62-5</RegistryNumber>
+                <NameOfSubstance UI="D011429">Propolis</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000287" MajorTopicYN="N">Administration, Topical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000970" MajorTopicYN="N">Antineoplastic Agents</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004359" MajorTopicYN="N">Drug Therapy, Combination</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006722" MajorTopicYN="Y">Honey</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000069463" MajorTopicYN="N">Olive Oil</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010865" MajorTopicYN="N">Pilot Projects</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010938" MajorTopicYN="N">Plant Oils</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011429" MajorTopicYN="N">Propolis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013280" MajorTopicYN="N">Stomatitis</DescriptorName>
+                <QualifierName UI="Q000139" MajorTopicYN="N">chemically induced</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014885" MajorTopicYN="N">Waxes</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22475306</ArticleId>
+            <ArticleId IdType="doi">10.3109/08880018.2012.669026</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

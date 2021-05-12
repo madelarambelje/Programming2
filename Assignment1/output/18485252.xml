@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">18485252</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>04</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>02</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1748-5460</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>123</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of laryngology and otology</Title>
+                <ISOAbbreviation>J Laryngol Otol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Honey as topical prophylaxis against radiochemotherapy-induced mucositis in head and neck cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>223-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1017/S0022215108002478</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">To evaluate the efficacy of pure natural honey as prophylaxis against radiochemotherapy-induced mucositis, through clinical scoring of oral and oropharyngeal mucositis, and culturing of pathogenic oral and oropharyngeal microbes.</AbstractText>
+                <AbstractText Label="PATIENTS AND METHODS" NlmCategory="METHODS">The study was done in Assiut University Hospital, Egypt, between January 2005 and July 2006. Forty patients diagnosed with head and neck cancer were entered into the trial. Enrolled patients were randomised to either the treatment group, receiving concomitant chemotherapy and radiotherapy (with a significant area of directly visible oral and/or oropharyngeal mucosa included in the radiation fields) plus prior topical application of pure natural honey, or the control group, receiving concomitant chemotherapy and radiotherapy without honey. Patients were evaluated clinically every week to assess development of radiation mucositis. Aerobic cultures and candida colonisation assessment were undertaken, via oral and oropharyngeal swabs, prior to and at the completion of irradiation, and when infection was evident.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In the treatment group, no patients developed grade four mucositis and only three patients (15 per cent) developed grade three mucositis. In the control group, 13 patients (65 per cent) developed grade three or four mucositis (p &lt; 0.05). Candida colonisation was found in 15 per cent of the treatment group and 60 per cent of the control group, either during or after radiotherapy (p = 0.003). Positive cultures for aerobic pathogenic bacteria were observed in 15 per cent of the treatment group and 65 per cent of the control group, during or after radiotherapy (p = 0.007).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This study shows that prophylactic use of pure natural honey was effective in reducing mucositis resulting from radiochemotherapy in patients with head and neck cancer.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rashad</LastName>
+                    <ForeName>U M</ForeName>
+                    <Initials>UM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Otolaryngology, Oncology, Faculty of Medicine, Assiut University, Egypt. urashad2008@yahoo.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Al-Gezawy</LastName>
+                    <ForeName>S M</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>El-Gezawy</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Azzaz</LastName>
+                    <ForeName>A N</ForeName>
+                    <Initials>AN</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>05</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Laryngol Otol</MedlineTA>
+            <NlmUniqueID>8706896</NlmUniqueID>
+            <ISSNLinking>0022-2151</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000891">Anti-Infective Agents, Local</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000287" MajorTopicYN="N">Administration, Topical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000891" MajorTopicYN="N">Anti-Infective Agents, Local</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003131" MajorTopicYN="N">Combined Modality Therapy</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006258" MajorTopicYN="N">Head and Neck Neoplasms</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000532" MajorTopicYN="Y">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006722" MajorTopicYN="Y">Honey</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009061" MajorTopicYN="N">Mouth Mucosa</DescriptorName>
+                <QualifierName UI="Q000528" MajorTopicYN="Y">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D052016" MajorTopicYN="N">Mucositis</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011832" MajorTopicYN="N">Radiation Injuries</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18485252</ArticleId>
+            <ArticleId IdType="pii">S0022215108002478</ArticleId>
+            <ArticleId IdType="doi">10.1017/S0022215108002478</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
