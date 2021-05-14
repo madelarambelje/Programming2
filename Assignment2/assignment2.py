@@ -64,7 +64,7 @@ def runserver(fn, data):
         try:
             result = shared_result_q.get_nowait()
             results.append(result)
-            print("Got result!", result)
+            #print("Got result!", result)
             if len(results) == len(data):
                 print("Got all results!")
 
@@ -72,6 +72,13 @@ def runserver(fn, data):
         except queue.Empty:
             time.sleep(1)
             continue
+
+    for job in results:
+    	article_id = job['job']["arg"]
+    	print(article_id)
+    	article = (job['result'])
+    	with open(f'{article_id}.xml','wb') as f:
+    	    f.write(article)
     # Tell the client process no more data will be forthcoming
     print("Time to kill some peons!")
     shared_job_q.put(POISONPILL)
@@ -80,7 +87,6 @@ def runserver(fn, data):
     time.sleep(5)
     print("Aaaaaand we're done for the server!")
     manager.shutdown()
-    print(results)
 
 def make_client_manager(ip, port, authkey):
     """ Create a manager for a client. This manager connects to a server on the
@@ -140,6 +146,7 @@ def peon(job_q, result_q):
         except queue.Empty:
             print("sleepytime for", my_name)
             time.sleep(1)
+    #print(result.items())
 
 
 def get_reference(pmid,num):
@@ -159,7 +166,7 @@ def get_reference(pmid,num):
 def download_save(RefID):
     '''Download reference ID yielded by get_reference'''
     handle = Entrez.efetch(db="pubmed", id=RefID, retmode='xml')
-    return handle
+    return handle.read()
 
     # with open(f'output/{RefID}.xml','wb') as f:
     #     f.write(handle.read())
@@ -171,7 +178,7 @@ if __name__ == "__main__":
     POISONPILL = "MEMENTOMORI"
     ERROR = "DOH"
     IP = 'localhost'
-    PORTNUM = args.portnumber
+    PORTNUM = 3000
     AUTHKEY = b'whathasitgotinitspocketsesss?'
     data = ["Always", "look", "on", "the", "bright", "side", "of", "life!"]
 
