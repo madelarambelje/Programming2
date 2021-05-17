@@ -178,7 +178,7 @@ if __name__ == "__main__":
     POISONPILL = "MEMENTOMORI"
     ERROR = "DOH"
     IP = 'localhost'
-    PORTNUM = 3000
+    PORTNUM = args.portnumber
     AUTHKEY = b'whathasitgotinitspocketsesss?'
     data = ["Always", "look", "on", "the", "bright", "side", "of", "life!"]
 
