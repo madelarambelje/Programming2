@@ -21,7 +21,7 @@ args, pmid = parser.parse_known_args()
 print(pmid)
 
 
-def make_server_manager(port, authkey):
+def make_server_manager(ip, port, authkey):
     """ Create a manager for the server, listening on the given port.
         Return a manager object with get_job_q and get_result_q methods.
     """
@@ -37,15 +37,15 @@ def make_server_manager(port, authkey):
     QueueManager.register('get_job_q', callable=lambda: job_q)
     QueueManager.register('get_result_q', callable=lambda: result_q)
 
-    manager = QueueManager(address=('', port), authkey=authkey)
+    manager = QueueManager(address=(ip, port), authkey=authkey)
     manager.start()
     print('Server started at port %s' % port)
     return manager
 
 
-def runserver(fn, data):
+def runserver(fn, data, IP, PORTNUM, AUTHKEY):
     # Start a shared manager server and access its queues
-    manager = make_server_manager(PORTNUM, b'whathasitgotinitspocketsesss?')
+    manager = make_server_manager(IP, PORTNUM, AUTHKEY)
     shared_job_q = manager.get_job_q()
     shared_result_q = manager.get_result_q()
 
@@ -88,7 +88,7 @@ def runserver(fn, data):
     print("Aaaaaand we're done for the server!")
     manager.shutdown()
 
-def make_client_manager(ip, port, authkey):
+def make_client_manager(ip ,port, authkey):
     """ Create a manager for a client. This manager connects to a server on the
         given address and exposes the get_job_q and get_result_q methods for
         accessing the shared queues from the server.
@@ -107,7 +107,7 @@ def make_client_manager(ip, port, authkey):
     return manager
 
 
-def runclient(num_processes):
+def runclient(num_processes, IP, PORTNUM, AUTHKEY):
     manager = make_client_manager(IP, PORTNUM, AUTHKEY)
     job_q = manager.get_job_q()
     result_q = manager.get_result_q()
@@ -177,7 +177,7 @@ if __name__ == "__main__":
 
     POISONPILL = "MEMENTOMORI"
     ERROR = "DOH"
-    IP = 'localhost'
+    IP = args.hosts
     PORTNUM = args.portnumber
     AUTHKEY = b'whathasitgotinitspocketsesss?'
     data = ["Always", "look", "on", "the", "bright", "side", "of", "life!"]
@@ -186,12 +186,12 @@ if __name__ == "__main__":
 
     if args.master:
         refID = get_reference(pmid,args.numArticles)
-        server = mp.Process(target=runserver, args=(download_save, refID))
+        server = mp.Process(target=runserver, args=(download_save, refID, IP, PORTNUM, AUTHKEY))
         server.start()
         time.sleep(1)
         server.join()
     elif args.worker:
-        client = mp.Process(target=runclient, args=(4,))
+        client = mp.Process(target=runclient, args=(args.numChild,IP,PORTNUM,AUTHKEY))
         client.start()
         client.join()
 
