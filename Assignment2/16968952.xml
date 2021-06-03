@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16968952</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2021</Year>
+            <Month>04</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0031-6997</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>58</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pharmacological reviews</Title>
+                <ISOAbbreviation>Pharmacol Rev</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Theoretical basis, experimental design, and computerized simulation of synergism and antagonism in drug combination studies.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>621-81</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The median-effect equation derived from the mass-action law principle at equilibrium-steady state via mathematical induction and deduction for different reaction sequences and mechanisms and different types of inhibition has been shown to be the unified theory for the Michaelis-Menten equation, Hill equation, Henderson-Hasselbalch equation, and Scatchard equation. It is shown that dose and effect are interchangeable via defined parameters. This general equation for the single drug effect has been extended to the multiple drug effect equation for n drugs. These equations provide the theoretical basis for the combination index (CI)-isobologram equation that allows quantitative determination of drug interactions, where CI &lt; 1, = 1, and &gt; 1 indicate synergism, additive effect, and antagonism, respectively. Based on these algorithms, computer software has been developed to allow automated simulation of synergism and antagonism at all dose or effect levels. It displays the dose-effect curve, median-effect plot, combination index plot, isobologram, dose-reduction index plot, and polygonogram for in vitro or in vivo studies. This theoretical development, experimental design, and computerized data analysis have facilitated dose-effect analysis for single drug evaluation or carcinogen and radiation risk assessment, as well as for drug or other entity combinations in a vast field of disciplines of biomedical sciences. In this review, selected examples of applications are given, and step-by-step examples of experimental designs and real data analysis are also illustrated. The merging of the mass-action law principle with mathematical induction-deduction has been proven to be a unique and effective scientific method for general theory development. The median-effect principle and its mass-action law based computer software are gaining increased applications in biomedical sciences, from how to effectively evaluate a single compound or entity to how to beneficially use multiple drugs or modalities in combination therapies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chou</LastName>
+                    <ForeName>Ting-Chao</ForeName>
+                    <Initials>TC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Memorial Sloan-Kettering Cancer Center, 1275 York Avenue, New York, NY 10021, USA. chout@mskcc.org</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Pharmacol Rev</MedlineTA>
+            <NlmUniqueID>0421737</NlmUniqueID>
+            <ISSNLinking>0031-6997</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004338">Drug Combinations</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>Pharmacol Rev. 2007 Mar;59(1):124</RefSource>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="Y">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004305" MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004336" MajorTopicYN="Y">Drug Antagonism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004338" MajorTopicYN="Y">Drug Combinations</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004357" MajorTopicYN="Y">Drug Synergism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001330" MajorTopicYN="N">Electronic Data Processing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008490" MajorTopicYN="N">Medical Informatics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008962" MajorTopicYN="N">Models, Theoretical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012107" MajorTopicYN="Y">Research Design</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012984" MajorTopicYN="N">Software</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013223" MajorTopicYN="N">Statistics as Topic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>414</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16968952</ArticleId>
+            <ArticleId IdType="pii">58/3/621</ArticleId>
+            <ArticleId IdType="doi">10.1124/pr.58.3.10</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

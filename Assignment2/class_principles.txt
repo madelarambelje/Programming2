@@ -1,0 +1,14 @@
+Object Oriented Design
+
+- Model the world/ Problem Space
+- object: "thing" (code) that does operations
+- class: definition of an object (blueprint)
+- object composition: objects containing object --> member variables
+- class inheritance: redirecting to superclass(the class above the inherited class)
+- interfaces: public methods objects can use
+- encapsulation: internal implementation of variables that are hidden
+
+Principles:
+- DRY
+- Single repsonsibility principle
+- Composition over Inheritance

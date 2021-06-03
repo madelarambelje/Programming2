@@ -1,0 +1,615 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17418410</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>05</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1535-6108</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer cell</Title>
+                <ISOAbbreviation>Cancer Cell</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>HIF-2alpha promotes hypoxic cell proliferation by enhancing c-myc transcriptional activity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>335-47</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>HIF-2alpha promotes von Hippel-Lindau (VHL)-deficient renal clear cell carcinoma (RCC) tumorigenesis, while HIF-1alpha inhibits RCC growth. As HIF-1alpha antagonizes c-Myc function, we hypothesized that HIF-2alpha might enhance c-Myc activity. We demonstrate here that HIF-2alpha promotes cell-cycle progression in hypoxic RCCs and multiple other cell lines. This correlates with enhanced c-Myc promoter binding, transcriptional effects on both activated and repressed target genes, and interactions with Sp1, Miz1, and Max. Finally, HIF-2alpha augments c-Myc transformation of primary mouse embryo fibroblasts (MEFs). Enhanced c-Myc activity likely contributes to HIF-2alpha-mediated neoplastic progression following loss of the VHL tumor suppressor and influences the behavior of hypoxic tumor cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gordan</LastName>
+                    <ForeName>John D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Abramson Family Cancer Research Institute, School of Medicine, University of Pennsylvania, 421 Curie Boulevard, Philadelphia, PA 19104, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bertout</LastName>
+                    <ForeName>Jessica A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Cheng-Jun</ForeName>
+                    <Initials>CJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Diehl</LastName>
+                    <ForeName>J Alan</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Simon</LastName>
+                    <ForeName>M Celeste</ForeName>
+                    <Initials>MC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Howard Hughes Medical Institute</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01 CA104838</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA104838</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer Cell</MedlineTA>
+            <NlmUniqueID>101130617</NlmUniqueID>
+            <ISSNLinking>1535-6108</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051778">Basic Helix-Loop-Helix Leucine Zipper Transcription Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051792">Basic Helix-Loop-Helix Transcription Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C497442">HIF1A protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051795">Hypoxia-Inducible Factor 1, alpha Subunit</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009687">Nuclear Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050828">Protein Inhibitors of Activated STAT</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016271">Proto-Oncogene Proteins c-myc</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016329">Sp1 Transcription Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015534">Trans-Activators</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>137468-70-3</RegistryNumber>
+                <NameOfSubstance UI="C068422">Max protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1B37H0967P</RegistryNumber>
+                <NameOfSubstance UI="C105713">endothelial PAS domain-containing protein 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.2.27</RegistryNumber>
+                <NameOfSubstance UI="C485521">Miz1 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.2.27</RegistryNumber>
+                <NameOfSubstance UI="D044767">Ubiquitin-Protein Ligases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.2.27</RegistryNumber>
+                <NameOfSubstance UI="D051794">Von Hippel-Lindau Tumor Suppressor Protein</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051778" MajorTopicYN="N">Basic Helix-Loop-Helix Leucine Zipper Transcription Factors</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051792" MajorTopicYN="N">Basic Helix-Loop-Helix Transcription Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002453" MajorTopicYN="N">Cell Cycle</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015687" MajorTopicYN="Y">Cell Hypoxia</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049109" MajorTopicYN="Y">Cell Proliferation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D047369" MajorTopicYN="N">Chromatin Immunoprecipitation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003110" MajorTopicYN="N">Colonic Neoplasms</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004622" MajorTopicYN="N">Embryo, Mammalian</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005347" MajorTopicYN="N">Fibroblasts</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015972" MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051795" MajorTopicYN="N">Hypoxia-Inducible Factor 1, alpha Subunit</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018345" MajorTopicYN="N">Mice, Knockout</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D041681" MajorTopicYN="N">NIH 3T3 Cells</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009687" MajorTopicYN="N">Nuclear Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011401" MajorTopicYN="N">Promoter Regions, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050828" MajorTopicYN="N">Protein Inhibitors of Activated STAT</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016271" MajorTopicYN="N">Proto-Oncogene Proteins c-myc</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012333" MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020133" MajorTopicYN="N">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016329" MajorTopicYN="N">Sp1 Transcription Factor</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015534" MajorTopicYN="N">Trans-Activators</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014157" MajorTopicYN="N">Transcription Factors</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014158" MajorTopicYN="Y">Transcription, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D044767" MajorTopicYN="N">Ubiquitin-Protein Ligases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051794" MajorTopicYN="N">Von Hippel-Lindau Tumor Suppressor Protein</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">HHMIMS310033</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2006</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2006</Year>
+                <Month>09</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2007</Year>
+                <Month>02</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>4</Month>
+                <Day>10</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>4</Month>
+                <Day>10</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17418410</ArticleId>
+            <ArticleId IdType="pii">S1535-6108(07)00059-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ccr.2007.02.006</ArticleId>
+            <ArticleId IdType="pmc">PMC3145406</ArticleId>
+            <ArticleId IdType="mid">HHMIMS310033</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nat Med. 2003 Jun;9(6):677-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12778166</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2006 Nov;10(5):413-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17097563</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2003 Nov 7;278(45):44966-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12944410</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2003 Dec;23(24):9361-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14645546</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2003 Dec;35(4):331-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14608355</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2003 Dec 8;22(56):9007-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14663479</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2003 Nov;4(5):361-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14667503</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2004 Feb 1;18(3):261-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14744935</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2003 Dec;1(3):E83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14691554</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2004 May 5;23(9):1949-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15071503</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1982 May 21;216(4548):894-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6177040</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 1997 Jan 1;11(1):72-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9000051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1997 Apr 29;94(9):4273-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9113979</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 1998 Jan 15;12(2):149-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9436976</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1998 Jun 1;17(11):3005-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9606183</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1998 Jul 30;394(6692):485-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9697772</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 1998 Nov 1;12(21):3320-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9808618</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1999 May 20;399(6733):271-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10353251</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1999 Oct 1;18(19):5321-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10508165</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2004 Dec 15;10(24):8554-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15623639</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2005 Mar 15;65(6):2277-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15781641</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2005 Mar 18;17(6):793-803</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15780936</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2005 Apr 15;65(8):3299-306</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15833863</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2005 Jun;25(11):4565-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15899860</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2005 Jul;25(13):5675-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15964822</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Metab. 2005 Jun;1(6):393-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16054088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2005 Aug;6(8):635-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16064138</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2005 Aug;8(2):131-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16098466</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Mar 28;97(7):3260-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10737792</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Jul 18;97(15):8386-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10880563</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2000 Aug 1;60(15):4010-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10945599</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2000 Dec 15;14(24):3102-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11124803</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2001 Feb;21(4):1196-206</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11158306</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2001 Mar 16;276(11):7919-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11112789</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2001 Sep 14;85(6):881-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11556841</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2002 May 15;62(10):2962-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12019179</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2002 Apr;1(3):237-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12086860</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2002 Apr;1(3):247-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12086861</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2002 Jul;8(7):702-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12053176</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2002 Jun;1(5):459-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12124175</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2003 Jan;23(1):359-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12482987</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2003 Feb;17(2):271-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12490539</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2003 May 1;17(9):1115-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12695333</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2003 May 8;22(18):2728-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12743597</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2006 Mar 1;20(5):557-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16510872</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2006 Apr 27;440(7088):1222-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16642001</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2006 Oct 18;25(20):4784-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17024177</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2003 Oct;3(10):721-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13130303</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

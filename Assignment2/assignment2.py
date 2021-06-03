@@ -74,11 +74,11 @@ def runserver(fn, data, IP, PORTNUM, AUTHKEY):
             continue
 
     for job in results:
-    	article_id = job['job']["arg"]
-    	print(article_id)
-    	article = (job['result'])
-    	with open(f'{article_id}.xml','wb') as f:
-    	    f.write(article)
+        article_id = job['job']["arg"]
+        print(article_id)
+        article = (job['result'])
+        with open(f'{article_id}.xml','wb') as f:
+            f.write(article)
     # Tell the client process no more data will be forthcoming
     print("Time to kill some peons!")
     shared_job_q.put(POISONPILL)
@@ -166,10 +166,10 @@ def get_reference(pmid,num):
 def download_save(RefID):
     '''Download reference ID yielded by get_reference'''
     handle = Entrez.efetch(db="pubmed", id=RefID, retmode='xml')
-    return handle.read()
 
-    # with open(f'output/{RefID}.xml','wb') as f:
-    #     f.write(handle.read())
+    with open(f'{RefID}.xml','wb') as f:
+        f.write(handle.read())
+
 
 
 

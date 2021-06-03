@@ -1,0 +1,551 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16510575</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>04</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0008-5472</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>66</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Mar</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer research</Title>
+                <ISOAbbreviation>Cancer Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Renal cyst development in mice with conditional inactivation of the von Hippel-Lindau tumor suppressor.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2576-83</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Inactivation of the von Hippel-Lindau tumor suppressor, pVHL, is associated with both hereditary and sporadic renal cysts and renal cell carcinoma, which are commonly thought to arise from the renal proximal tubule. pVHL regulates the protein stability of hypoxia-inducible factor (HIF)-alpha subunits and loss of pVHL function leads to HIF stabilization. The role of HIF in the development of VHL-associated renal lesions remains to be determined. To investigate the functional consequences of pVHL inactivation and the role of HIF signaling in renal epithelial cells, we used the phosphoenolpyruvate carboxykinase (PEPCK) promoter to generate transgenic mice in which Cre-recombinase is expressed in the renal proximal tubule and in hepatocytes. We found that conditional inactivation of VHL in PEPCK-Cre mutants resulted in renal cyst development that was associated with increased erythropoietin levels and polycythemia. Increased expression of the HIF target gene erythropoietin was limited to the liver, whereas expression of carbonic anhydrase 9 and multidrug resistance gene 1 was up-regulated in the renal cortex of mutant mice. Inactivation of the HIF-alpha binding partner, arylhydrocarbon receptor nuclear translocator (Arnt), but not Hif-1alpha, suppressed the development of renal cysts. Here, we present the first mouse model of VHL-associated renal disease that will provide a basis for further genetic studies to define the molecular events that are required for the progression of VHL-associated renal cysts to clear cell renal cell carcinoma.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rankin</LastName>
+                    <ForeName>Erinn B</ForeName>
+                    <Initials>EB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine and Cell and Molecular Biology Graduate Group, University of Pennsylvania School of Medicine, Philadelphia, Pennsylvania 19104-6144, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tomaszewski</LastName>
+                    <ForeName>John E</ForeName>
+                    <Initials>JE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haase</LastName>
+                    <ForeName>Volker H</ForeName>
+                    <Initials>VH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P30 DK050306</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA100787</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30-DK50306</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01-CA100787</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer Res</MedlineTA>
+            <NlmUniqueID>2984705R</NlmUniqueID>
+            <ISSNLinking>0008-5472</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C497397">Arnt protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C497443">Hif1a protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051795">Hypoxia-Inducible Factor 1, alpha Subunit</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D045522">Recombinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>138391-32-9</RegistryNumber>
+                <NameOfSubstance UI="D051784">Aryl Hydrocarbon Receptor Nuclear Translocator</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.2.27</RegistryNumber>
+                <NameOfSubstance UI="D051794">Von Hippel-Lindau Tumor Suppressor Protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 4.1.1.31</RegistryNumber>
+                <NameOfSubstance UI="D010730">Phosphoenolpyruvate Carboxylase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051784" MajorTopicYN="N">Aryl Hydrocarbon Receptor Nuclear Translocator</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020868" MajorTopicYN="N">Gene Silencing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051795" MajorTopicYN="N">Hypoxia-Inducible Factor 1, alpha Subunit</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D052177" MajorTopicYN="N">Kidney Diseases, Cystic</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007687" MajorTopicYN="N">Kidney Tubules, Proximal</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008807" MajorTopicYN="N">Mice, Inbred BALB C</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008822" MajorTopicYN="N">Mice, Transgenic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009399" MajorTopicYN="N">Nephrons</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010730" MajorTopicYN="N">Phosphoenolpyruvate Carboxylase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011401" MajorTopicYN="N">Promoter Regions, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045522" MajorTopicYN="N">Recombinases</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051794" MajorTopicYN="N">Von Hippel-Lindau Tumor Suppressor Protein</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006623" MajorTopicYN="N">von Hippel-Lindau Disease</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>4</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16510575</ArticleId>
+            <ArticleId IdType="pii">66/5/2576</ArticleId>
+            <ArticleId IdType="doi">10.1158/0008-5472.CAN-05-3241</ArticleId>
+            <ArticleId IdType="pmc">PMC3514875</ArticleId>
+            <ArticleId IdType="mid">NIHMS306646</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Biochem J. 1979 Sep 1;181(3):525-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">391220</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Anat. 1983 Nov;168(3):345-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6196964</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1987 Dec 10-16;330(6148):576-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3683574</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Pathol. 1988 Sep;19(9):1072-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3417291</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mod Pathol. 1991 Mar;4(2):210-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2047384</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1991 Aug 11;19(15):4293</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1870982</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1991 Oct 1;88(19):8725-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1924331</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 1992 Dec;6(15):3330-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1281456</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1993 May 28;260(5112):1317-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8493574</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1993 Nov;44(5):1149-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8264149</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1994 Feb 25;269(8):5619-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8119898</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1994 May;93(5):2175-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7910173</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 1994 May;7(1):85-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7915601</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 1995 May;121(5):1487-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7789278</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Urol. 1995 Dec;154(6):2010-4; discussion 2014-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7500446</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 1995 Aug;1(8):822-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7585187</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1996 Sep 19;335(12):865-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8778606</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1996 Aug 20;93(17):9067-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8799155</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1996 Oct 1;93(20):10589-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8855222</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1996 Oct 1;93(20):10595-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8855223</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biochem. 1997;66:581-611</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9242918</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1999 May 20;399(6733):271-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10353251</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2005 Feb 1;11(3):1059-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15709172</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2005 Apr;25(8):3163-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15798202</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2005 Jul;25(13):5675-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15964822</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Physiol. 2004 Jul;89(4):435-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15131073</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Histopathology. 2000 May;36(5):457-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10792488</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2000 Aug;58(2):647-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10916088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2000 Aug 1;60(15):4010-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10945599</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2000 Nov 16;19(48):5435-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11114720</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2001 Feb 13;98(4):1583-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11171994</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Cell Biol. 2001 Apr;13(2):167-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11248550</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2001 Apr 20;292(5516):464-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11292862</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2001 Apr 20;292(5516):468-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11292861</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2002 May 15;99(10):3562-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11986208</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2002 Jun 15;62(12):3387-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12067980</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2002 Apr;1(3):237-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12086860</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2002 Jul;13(7):1721-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12089367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2002 Jun;1(5):459-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12124175</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2002 Aug;16(10):1151-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12153983</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2002 Sep;2(9):673-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12209156</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2003 Feb;17(2):271-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12490539</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2003 Mar 28;278(13):11032-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12538644</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2003 Jun 14;361(9374):2059-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12814730</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Urol Clin North Am. 2003 Aug;30(3):437-54, vii</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12953747</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Biochem Cell Biol. 2004 Feb;36(2):189-204</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14643885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cancer Res. 2004 Feb;2(2):89-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14985465</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2003 Dec;1(3):E83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14691554</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Apr 16;279(16):16326-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14764592</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1999 Oct 26;96(22):12436-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10535940</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2004 Jul 22;23(33):5624-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15184875</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2004 Sep;6(3):223-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15380513</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Nephrol. 2004 Oct;15(10):2569-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15466261</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

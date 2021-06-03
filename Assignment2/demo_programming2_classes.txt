@@ -1,0 +1,17 @@
+Controller:
+- PoolFactory --> Make Pool workers
+- Pools --> Remove Pool
+- Assignment
+- ViewController
+- MessageBus
+
+Pool:
+- HeartBeatMonitor --> time_out()
+- WorkerFactory 
+- Roster
+- WorkelPools
+
+Task: --> run(), --> get_report(), --> get_state()
+
+HeartBeats: --> return_message(), --> get_alive(), --> set_alive()
+
