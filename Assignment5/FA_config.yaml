@@ -1,0 +1,6 @@
+corona_cases: 'data/COVID-19_aantallen_gemeente_cumulatief.csv'
+obese_cases: 'data/obesitas_NL_wijk.csv'
+overweight_cases: 'data/overgewicht_NL_wijk.csv'
+town_province: 'data/towns_provinces.csv'
+civilian_count_region: 'data/count_civilians_region.csv'
+

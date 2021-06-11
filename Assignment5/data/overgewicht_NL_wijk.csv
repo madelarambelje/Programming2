@@ -1,0 +1,3352 @@
+id;Gemeente;Gebied;Overgewicht (%)
+518;'s-Gravenhage;Gemeente;
+518;'s-Gravenhage;Wijk 02 Belgisch Park;40
+518;'s-Gravenhage;Wijk 03 Westbroekpark en Duttendel;38
+518;'s-Gravenhage;Wijk 04 Benoordenhout;37
+518;'s-Gravenhage;Wijk 05 Archipelbuurt;37
+518;'s-Gravenhage;Wijk 06 Van Stolkpark en Scheveningse Bo;39
+518;'s-Gravenhage;Wijk 07 Scheveningen;45
+518;'s-Gravenhage;Wijk 08 Duindorp;55
+518;'s-Gravenhage;Wijk 09 Geuzen- en Statenkwartier;40
+518;'s-Gravenhage;Wijk 10 Zorgvliet;37
+518;'s-Gravenhage;Wijk 11 Duinoord;36
+518;'s-Gravenhage;Wijk 12 Bomen- en Bloemenbuurt;43
+518;'s-Gravenhage;Wijk 13 Vogelwijk;40
+518;'s-Gravenhage;Wijk 14 Bohemen en Meer en Bos;47
+518;'s-Gravenhage;Wijk 15 Kijkduin en Ockenburgh;45
+518;'s-Gravenhage;Wijk 16 Kraayenstein en de Uithof;52
+518;'s-Gravenhage;Wijk 17 Loosduinen;52
+518;'s-Gravenhage;Wijk 18 Waldeck;52
+518;'s-Gravenhage;Wijk 19 Vruchtenbuurt;45
+518;'s-Gravenhage;Wijk 20 Valkenboskwartier;45
+518;'s-Gravenhage;Wijk 21 Regentessekwartier;42
+518;'s-Gravenhage;Wijk 22 Zeeheldenkwartier;39
+518;'s-Gravenhage;Wijk 23 Willemspark;38
+518;'s-Gravenhage;Wijk 24 Haagse Bos;46
+518;'s-Gravenhage;Wijk 25 Mariahoeve en Marlot;48
+518;'s-Gravenhage;Wijk 26 Bezuidenhout;41
+518;'s-Gravenhage;Wijk 27 Stationsbuurt;43
+518;'s-Gravenhage;Wijk 28 Centrum;43
+518;'s-Gravenhage;Wijk 29 Schildersbuurt;58
+518;'s-Gravenhage;Wijk 30 Transvaalkwartier;57
+518;'s-Gravenhage;Wijk 31 Rustenburg en Oostbroek;52
+518;'s-Gravenhage;Wijk 32 Leyenburg;52
+518;'s-Gravenhage;Wijk 33 Bouwlust en Vrederust;56
+518;'s-Gravenhage;Wijk 34 Morgenstond;54
+518;'s-Gravenhage;Wijk 35 Zuiderpark;62
+518;'s-Gravenhage;Wijk 36 Moerwijk;56
+518;'s-Gravenhage;Wijk 37 Groente- en Fruitmarkt;56
+518;'s-Gravenhage;Wijk 38 Laakkwartier en Spoorwijk;53
+518;'s-Gravenhage;Wijk 39 Binckhorst;49
+518;'s-Gravenhage;Wijk 40 Wateringse Veld;51
+518;'s-Gravenhage;Wijk 41 Hoornwijk;46
+518;'s-Gravenhage;Wijk 42 Ypenburg;49
+518;'s-Gravenhage;Wijk 43 Forepark;46
+518;'s-Gravenhage;Wijk 44 Leidschenveen;49
+796;'s-Hertogenbosch;Gemeente;
+796;'s-Hertogenbosch;Binnenstad;42
+796;'s-Hertogenbosch;Zuidoost;50
+796;'s-Hertogenbosch;Graafsepoort;50
+796;'s-Hertogenbosch;Muntel / Vliert;45
+796;'s-Hertogenbosch;Rosmalen-Zuid;48
+796;'s-Hertogenbosch;Rosmalen-Noord;48
+796;'s-Hertogenbosch;De Groote Wielen;44
+796;'s-Hertogenbosch;Empel;49
+796;'s-Hertogenbosch;Noord;53
+796;'s-Hertogenbosch;Maaspoort;51
+796;'s-Hertogenbosch;West;50
+796;'s-Hertogenbosch;Engelen;48
+796;'s-Hertogenbosch;Nuland;50
+796;'s-Hertogenbosch;Vinkel;51
+1680;Aa en Hunze;Gemeente;
+1680;Aa en Hunze;Wijk 00 Annen;53
+1680;Aa en Hunze;Wijk 01 Eext;54
+1680;Aa en Hunze;Wijk 02 Anloo;55
+1680;Aa en Hunze;Wijk 03 Gasteren;50
+1680;Aa en Hunze;Wijk 04 Anderen;55
+1680;Aa en Hunze;Wijk 05 Schipborg;52
+1680;Aa en Hunze;Wijk 06 Eexterveen;56
+1680;Aa en Hunze;Wijk 07 Spijkerboor;55
+1680;Aa en Hunze;Wijk 08 Nieuw-Annerveen;54
+1680;Aa en Hunze;Wijk 09 Oud-Annerveen;52
+1680;Aa en Hunze;Wijk 11 Annerveenschekanaal;58
+1680;Aa en Hunze;Wijk 12 Eexterveenschekanaal;58
+1680;Aa en Hunze;Wijk 13 Eexterzandvoort;52
+1680;Aa en Hunze;Wijk 14 Gasselte;56
+1680;Aa en Hunze;Wijk 15 Gasselternijveen;59
+1680;Aa en Hunze;Wijk 16 Gasselternijveenschemond;58
+1680;Aa en Hunze;Wijk 17 Gieten;54
+1680;Aa en Hunze;Wijk 18 Gieterveen;57
+1680;Aa en Hunze;Wijk 19 Rolde;54
+1680;Aa en Hunze;Wijk 20 Grolloo;54
+1680;Aa en Hunze;Wijk 21 Ekehaar;53
+738;Aalburg;Gemeente;
+738;Aalburg;Wijk 00 Wijk en Aalburg;51
+738;Aalburg;Wijk 01 Veen;52
+738;Aalburg;Wijk 02 Genderen;52
+738;Aalburg;Wijk 03 Eethen;52
+738;Aalburg;Wijk 04 Meeuwen;50
+738;Aalburg;Wijk 05 Drongelen;56
+738;Aalburg;Wijk 06 Babyloniënbroek;53
+358;Aalsmeer;Gemeente;
+358;Aalsmeer;Wijk 00 Aalsmeer;49
+358;Aalsmeer;Wijk 01 Kudelstraat en Kalslagen;50
+358;Aalsmeer;Wijk 02 Oosteinde;47
+197;Aalten;Gemeente;
+197;Aalten;Wijk 01 Buitengebied Aalten;53
+197;Aalten;Wijk 02 Bredevoort;55
+197;Aalten;Wijk 03 Aalten Kern;54
+197;Aalten;Wijk 04 Dinxperlo;57
+59;Achtkarspelen;Gemeente;
+59;Achtkarspelen;Wijk 00 Noord;55
+59;Achtkarspelen;Wijk 01 Centrum;52
+59;Achtkarspelen;Wijk 02 Zuid;55
+482;Alblasserdam;Gemeente;
+482;Alblasserdam;Wijk 01 Centrum;51
+482;Alblasserdam;Wijk 02 Kinderdijk;53
+482;Alblasserdam;Wijk 03 Blokweer;52
+482;Alblasserdam;Wijk 04 Souburgh;54
+482;Alblasserdam;Wijk 05 Bedrijventerrein;51
+482;Alblasserdam;Wijk 06 Landelijk gebied;46
+613;Albrandswaard;Gemeente;
+613;Albrandswaard;Wijk 01 Poortugaal-Noord;52
+613;Albrandswaard;Wijk 02 Rhoon-Noord;55
+613;Albrandswaard;Wijk 03 Poortugaal-Zuid;54
+613;Albrandswaard;Wijk 04 Rhoon-Zuid;53
+613;Albrandswaard;Wijk 05 Buitengebied Albrandswaard;50
+613;Albrandswaard;Wijk 06 Portland;54
+361;Alkmaar;Gemeente;
+361;Alkmaar;Zuid;45
+361;Alkmaar;Oudorp;46
+361;Alkmaar;Overdie;49
+361;Alkmaar;West;45
+361;Alkmaar;Huiswaard;49
+361;Alkmaar;De Mare;50
+361;Alkmaar;Daalmeer/Koedijk;49
+361;Alkmaar;Centrum;41
+361;Alkmaar;Schermer;47
+361;Alkmaar;Graft-De Rijp;50
+141;Almelo;Gemeente;
+141;Almelo;Wijk 10 Binnenstad;54
+141;Almelo;Wijk 11 De Riet;55
+141;Almelo;Wijk 12 Noorderkwartier;53
+141;Almelo;Wijk 13 Sluitersveld;53
+141;Almelo;Wijk 14 Wierdense Hoek;57
+141;Almelo;Wijk 15 Nieuwstraat-Kwartier;57
+141;Almelo;Wijk 16 Ossenkoppelerhoek;55
+141;Almelo;Wijk 17 Hofkamp;51
+141;Almelo;Wijk 18 Schelfhorst;56
+141;Almelo;Wijk 19 Windmolenbroek;53
+141;Almelo;Wijk 20 Aadorp;55
+141;Almelo;Wijk 21 Bornerbroek;52
+34;Almere;Gemeente;
+34;Almere;Wijk 01 Almere Haven;55
+34;Almere;Wijk 02 Almere Stad;54
+34;Almere;Wijk 03 Almere Buiten;53
+34;Almere;Wijk 04 Almere Poort;46
+34;Almere;Wijk 05 Almere Hout;49
+34;Almere;Wijk 06 Almere Pampus;
+1723;Alphen-Chaam;Gemeente;
+1723;Alphen-Chaam;Wijk 00 Alphen;50
+1723;Alphen-Chaam;Wijk 01 Chaam;51
+1723;Alphen-Chaam;Wijk 02 Galder;46
+1723;Alphen-Chaam;Wijk 08 Verspreide huizen;48
+1723;Alphen-Chaam;Wijk 09 Verspreide huizen;51
+484;Alphen aan den Rijn;Gemeente;
+484;Alphen aan den Rijn;Oudshoorn;52
+484;Alphen aan den Rijn;Ridderveld;54
+484;Alphen aan den Rijn;Zegersloot;54
+484;Alphen aan den Rijn;Hoorn;52
+484;Alphen aan den Rijn;Hoge Zijde;51
+484;Alphen aan den Rijn;Lage Zijde;49
+484;Alphen aan den Rijn;Steekterpolder;51
+484;Alphen aan den Rijn;Kerk en Zanen;48
+484;Alphen aan den Rijn;Rietveld;50
+484;Alphen aan den Rijn;Benthuizen;52
+484;Alphen aan den Rijn;Aarlanderveen;46
+484;Alphen aan den Rijn;Boskoop;52
+484;Alphen aan den Rijn;Zwammerdam;56
+484;Alphen aan den Rijn;Hazerswoude-Dorp;51
+484;Alphen aan den Rijn;Hazerswoude-Rijndijk;52
+484;Alphen aan den Rijn;Koudekerk aan den Rijn;54
+60;Ameland;Gemeente;
+60;Ameland;Wijk 00;56
+307;Amersfoort;Gemeente;
+307;Amersfoort;Wijk 01 Stadskern;40
+307;Amersfoort;Wijk 02 Zonnehof;40
+307;Amersfoort;Wijk 03 Soesterkwartier;46
+307;Amersfoort;Wijk 04 Isselt;36
+307;Amersfoort;Wijk 05 Bosgebied;53
+307;Amersfoort;Wijk 06 De Koppel;49
+307;Amersfoort;Wijk 07 De Kruiskamp;50
+307;Amersfoort;Wijk 08 Schothorst Zuid;50
+307;Amersfoort;Wijk 09 Schothorst Noord;48
+307;Amersfoort;Wijk 10 Liendert;50
+307;Amersfoort;Wijk 11 Rustenburg;50
+307;Amersfoort;Wijk 12 Stoutenburg-Noord;45
+307;Amersfoort;Wijk 13 Schuilenburg;51
+307;Amersfoort;Wijk 14 Randenbroek;47
+307;Amersfoort;Wijk 15 Vermeerkwartier;42
+307;Amersfoort;Wijk 16 Leusderkwartier;43
+307;Amersfoort;Wijk 17 De Berg Zuid;41
+307;Amersfoort;Wijk 18 De Berg Noord;38
+307;Amersfoort;Wijk 19 Hoogland;46
+307;Amersfoort;Wijk 20 Zielhorst;47
+307;Amersfoort;Wijk 21 Kattenbroek;46
+307;Amersfoort;Wijk 22 Calveen;43
+307;Amersfoort;Wijk 23 Park Schothorst;46
+307;Amersfoort;Wijk 24 Nieuwland;48
+307;Amersfoort;Wijk 25 valleipoort;45
+307;Amersfoort;Wijk 26 Hooglanderveen;46
+307;Amersfoort;Wijk 27 Buitengebied West;41
+307;Amersfoort;Wijk 28 Vathorst-De Velden;46
+307;Amersfoort;Wijk 29 Vathorst-centrum;45
+307;Amersfoort;Wijk 30 Vathorst-De Bron;42
+307;Amersfoort;Wijk 31 Vathorst-De Laak;45
+362;Amstelveen;Gemeente;
+362;Amstelveen;Wijk 00 Amstelveen;44
+363;Amsterdam;Gemeente;
+363;Amsterdam;Burgwallen-Oude Zijde;32
+363;Amsterdam;Burgwallen-Nieuwe Zijde;30
+363;Amsterdam;Grachtengordel-West;31
+363;Amsterdam;Grachtengordel-Zuid;31
+363;Amsterdam;Nieuwmarkt/Lastage;36
+363;Amsterdam;Haarlemmerbuurt;38
+363;Amsterdam;Jordaan;35
+363;Amsterdam;De Weteringschans;30
+363;Amsterdam;Weesperbuurt/Plantage;34
+363;Amsterdam;Oostelijke Eilanden/Kadijken;40
+363;Amsterdam;Westelijk Havengebied;49
+363;Amsterdam;Bedrijventerrein Sloterdijk;45
+363;Amsterdam;Houthavens;38
+363;Amsterdam;Spaarndammer- en Zeeheldenbuurt;43
+363;Amsterdam;Staatsliedenbuurt;39
+363;Amsterdam;Centrale Markt;42
+363;Amsterdam;Frederik Hendrikbuurt;36
+363;Amsterdam;Da Costabuurt;34
+363;Amsterdam;Kinkerbuurt;35
+363;Amsterdam;Van Lennepbuurt;38
+363;Amsterdam;Helmersbuurt;33
+363;Amsterdam;Overtoomse Sluis;31
+363;Amsterdam;Vondelbuurt;34
+363;Amsterdam;Zuidas;28
+363;Amsterdam;Oude Pijp;30
+363;Amsterdam;Nieuwe Pijp;32
+363;Amsterdam;Zuid Pijp;39
+363;Amsterdam;Weesperzijde;31
+363;Amsterdam;Oosterparkbuurt;38
+363;Amsterdam;Dapperbuurt;41
+363;Amsterdam;Transvaalbuurt;40
+363;Amsterdam;Indische Buurt West;41
+363;Amsterdam;Indische Buurt Oost;46
+363;Amsterdam;Oostelijk Havengebied;40
+363;Amsterdam;Zeeburgereiland/Nieuwe Diep;28
+363;Amsterdam;IJburg West;40
+363;Amsterdam;Sloterdijk;35
+363;Amsterdam;Landlust;41
+363;Amsterdam;Erasmuspark;38
+363;Amsterdam;De Kolenkit;45
+363;Amsterdam;Geuzenbuurt;35
+363;Amsterdam;Van Galenbuurt;43
+363;Amsterdam;Hoofdweg e.o.;40
+363;Amsterdam;Westindische Buurt;33
+363;Amsterdam;Hoofddorppleinbuurt;32
+363;Amsterdam;Schinkelbuurt;33
+363;Amsterdam;Willemspark;32
+363;Amsterdam;Museumkwartier;32
+363;Amsterdam;Stadionbuurt;37
+363;Amsterdam;Apollobuurt;32
+363;Amsterdam;IJburg Zuid;41
+363;Amsterdam;Scheldebuurt;32
+363;Amsterdam;IJselbuurt;35
+363;Amsterdam;Rijnbuurt;35
+363;Amsterdam;Frankendael;38
+363;Amsterdam;Middenmeer;35
+363;Amsterdam;Betondorp;50
+363;Amsterdam;Omval/Overamstel;26
+363;Amsterdam;Prinses Irenebuurt e.o.;32
+363;Amsterdam;Volewijck;50
+363;Amsterdam;IJplein/Vogelbuurt;48
+363;Amsterdam;Tuindorp Nieuwendam;52
+363;Amsterdam;Tuindorp Buiksloot;52
+363;Amsterdam;Nieuwendammerdijk/Buiksloterdijk;41
+363;Amsterdam;Tuindorp Oostzaan;53
+363;Amsterdam;Oostzanerwerf;52
+363;Amsterdam;Kadoelen;50
+363;Amsterdam;Waterlandpleinbuurt;53
+363;Amsterdam;Buikslotermeer;51
+363;Amsterdam;Banne Buiksloot;54
+363;Amsterdam;Noordelijke IJ-oevers West;35
+363;Amsterdam;Noordelijke IJ-oevers Oost;36
+363;Amsterdam;Waterland;46
+363;Amsterdam;Elzenhagen;45
+363;Amsterdam;Chassébuurt;40
+363;Amsterdam;Slotermeer-Noordoost;52
+363;Amsterdam;Slotermeer-Zuidwest;51
+363;Amsterdam;Geuzenveld;53
+363;Amsterdam;Eendracht;52
+363;Amsterdam;Lutkemeer/Ookmeer;49
+363;Amsterdam;Osdorp-Oost;50
+363;Amsterdam;Osdorp-Midden;51
+363;Amsterdam;De Punt;50
+363;Amsterdam;Middelveldsche Akerpolder;50
+363;Amsterdam;Slotervaart Noord;48
+363;Amsterdam;Overtoomse Veld;43
+363;Amsterdam;Westlandgracht;37
+363;Amsterdam;Sloter-/Riekerpolder;46
+363;Amsterdam;Slotervaart Zuid;45
+363;Amsterdam;Buitenveldert-West;39
+363;Amsterdam;Buitenveldert-Oost;39
+363;Amsterdam;Amstel III/Bullewijk;28
+363;Amsterdam;Bijlmer Centrum (D,F,H);47
+363;Amsterdam;Bijlmer Oost (E,G,K);53
+363;Amsterdam;Nellestein;50
+363;Amsterdam;Holendrecht/Reigersbos;52
+363;Amsterdam;Gein;52
+363;Amsterdam;Driemond;49
+200;Apeldoorn;Gemeente;
+200;Apeldoorn;Centrum;48
+200;Apeldoorn;West;50
+200;Apeldoorn;Zuidwest;51
+200;Apeldoorn;Zuid;52
+200;Apeldoorn;Zuidoost;52
+200;Apeldoorn;Oost;50
+200;Apeldoorn;Noordoost;52
+200;Apeldoorn;Noord;50
+200;Apeldoorn;Uddel en omgeving;51
+200;Apeldoorn;Hoog Soeren en Radio Kootwijk;54
+200;Apeldoorn;Hoenderloo en omgeving;55
+200;Apeldoorn;Loenen en omgeving;54
+200;Apeldoorn;Beekbergen en omgeving;54
+200;Apeldoorn;Lieren en omgeving;51
+200;Apeldoorn;Klarenbeek en omgeving;51
+200;Apeldoorn;Wenum Wiesel Beemte;51
+3;Appingedam;Gemeente;
+3;Appingedam;Wijk 00;56
+202;Arnhem;Gemeente;
+202;Arnhem;Centrum;37
+202;Arnhem;Spijkerkwartier;36
+202;Arnhem;Arnhemse broek;48
+202;Arnhem;Presikhaaf West;52
+202;Arnhem;Presikhaaf Oost;49
+202;Arnhem;St. Marten/Sonsbeek;36
+202;Arnhem;Klarendal;45
+202;Arnhem;Velperweg e.o.;43
+202;Arnhem;Alteveer/Cranevelt;47
+202;Arnhem;Geitenkamp;51
+202;Arnhem;Monnikenhuizen;46
+202;Arnhem;Burgemeesterswijk/Hoogkamp;40
+202;Arnhem;Schaarsbergen;48
+202;Arnhem;Heijenoord/Lombok;41
+202;Arnhem;Klingelbeek e.o.;47
+202;Arnhem;Malburgen West;51
+202;Arnhem;Malburgen Oost (noord);50
+202;Arnhem;Malburgen Oost (zuid);56
+202;Arnhem;Vredenburg/Kronenburg;53
+202;Arnhem;Elden;50
+202;Arnhem;Elderveld;52
+202;Arnhem;De Laar;51
+202;Arnhem;Rijkerswoerd;52
+202;Arnhem;Schuytgraaf;44
+106;Assen;Gemeente;
+106;Assen;Wijk 00 Assen centrum;51
+106;Assen;Wijk 01 Lariks;52
+106;Assen;Wijk 02 Noorderpark;52
+106;Assen;Wijk 03 Assen Oost;51
+106;Assen;Wijk 04 Pittelo;54
+106;Assen;Wijk 05 Assen West;54
+106;Assen;Wijk 06 Peelo;51
+106;Assen;Wijk 07 Marsdijk;50
+106;Assen;Wijk 08 Kloosterveen;49
+106;Assen;Wijk 99 Buitengebied;52
+743;Asten;Gemeente;
+743;Asten;Wijk 00 Asten;50
+743;Asten;Wijk 01 Heusden;44
+743;Asten;Wijk 02 Ommel;50
+743;Asten;Wijk 08;44
+743;Asten;Wijk 09;43
+744;Baarle-Nassau;Gemeente;
+744;Baarle-Nassau;Wijk 00 Baarle - Nassau;54
+744;Baarle-Nassau;Wijk 01 Ulicoten;56
+744;Baarle-Nassau;Wijk 02;53
+308;Baarn;Gemeente;
+308;Baarn;Wijk 00 Baarn;45
+308;Baarn;Wijk 01 Baarn-Noord, Eemdal en Eemland;47
+308;Baarn;Wijk 02 P.H.W.park;40
+308;Baarn;Wijk 04 Buitengebied;57
+308;Baarn;Wijk 05 Lage Vuursche;49
+489;Barendrecht;Gemeente;
+489;Barendrecht;Wijk 01 Centrum;52
+489;Barendrecht;Wijk 02 Noord;54
+489;Barendrecht;Wijk 03 Binnenland;52
+489;Barendrecht;Wijk 04 Oranjewijk;50
+489;Barendrecht;Wijk 05 Buitenoord;53
+489;Barendrecht;Wijk 06 Ter Leede;48
+489;Barendrecht;Wijk 07 Paddewei;51
+489;Barendrecht;Wijk 08 Molenvliet;50
+489;Barendrecht;Wijk 09 Nieuweland;51
+489;Barendrecht;Wijk 10 Dorpzicht;50
+489;Barendrecht;Wijk 11 Bijdorp;50
+489;Barendrecht;Wijk 12 Smitshoek;54
+489;Barendrecht;Wijk 13 Voordijk;45
+489;Barendrecht;Wijk 14 Meerwede;54
+489;Barendrecht;Wijk 15 Waterkant;57
+489;Barendrecht;Wijk 16 Havenkwartier;53
+489;Barendrecht;Wijk 17 Gaatkensoog;51
+489;Barendrecht;Wijk 18 Riederhoek;53
+489;Barendrecht;Wijk 19 Vrijheidsakker;50
+489;Barendrecht;Wijk 20 Vrijenburg;54
+489;Barendrecht;Wijk 30 Buitengebied Noord;54
+489;Barendrecht;Wijk 31 Buitengebied Zuid;49
+489;Barendrecht;Wijk 50 Bedrijventerreinen;49
+203;Barneveld;Gemeente;
+203;Barneveld;Wijk 54 Barneveld;48
+203;Barneveld;Wijk 55 Voorthuizen;50
+203;Barneveld;Wijk 56 Kootwijkerbroek;48
+203;Barneveld;Wijk 57 Garderen;54
+203;Barneveld;Wijk 58 Terschuur;49
+203;Barneveld;Wijk 59 Stroe;48
+203;Barneveld;Wijk 60 Zwartebroek;48
+203;Barneveld;Wijk 61 De Glind;46
+203;Barneveld;Wijk 62 Kootwijk;51
+203;Barneveld;Wijk 63 Achterveld;46
+5;Bedum;Gemeente;
+5;Bedum;Wijk 00;52
+888;Beek;Gemeente;
+888;Beek;Wijk 00 Beek - Spaubeek;53
+888;Beek;Wijk 01 Beek-Zuid;51
+370;Beemster;Gemeente;
+370;Beemster;Wijk 00 Beemster;49
+370;Beemster;Wijk 01 Zuidoostbeemster;48
+889;Beesel;Gemeente;
+889;Beesel;Wijk 00 Reuver;53
+889;Beesel;Wijk 01 Beesel;52
+7;Bellingwedde;Gemeente;
+7;Bellingwedde;Wijk 00 Bellingwolde;59
+7;Bellingwedde;Wijk 01 Oost;58
+7;Bellingwedde;Wijk 02 Blijham;61
+1945;Berg en Dal;Gemeente;
+1945;Berg en Dal;Beek;45
+1945;Berg en Dal;Berg en Dal;44
+1945;Berg en Dal;Breedeweg;53
+1945;Berg en Dal;De Horst;52
+1945;Berg en Dal;Erlecom;51
+1945;Berg en Dal;Groesbeek;51
+1945;Berg en Dal;Heilig Landstichting;42
+1945;Berg en Dal;Kekerdom;56
+1945;Berg en Dal;Leuth;56
+1945;Berg en Dal;Millingen aan de Rijn;58
+1945;Berg en Dal;Ooij;55
+1945;Berg en Dal;Persingen;45
+1945;Berg en Dal;Ubbergen;40
+1724;Bergeijk;Gemeente;
+1724;Bergeijk;Wijk 00 Bergeijk;51
+1724;Bergeijk;Wijk 01 Weebosch;54
+1724;Bergeijk;Wijk 02 Luyksgestel;56
+1724;Bergeijk;Wijk 03 Riethoven;52
+1724;Bergeijk;Wijk 04 Westerhoven;48
+893;Bergen (L.);Gemeente;
+893;Bergen (L.);Aijen;49
+893;Bergen (L.);Oud-Bergen;55
+893;Bergen (L.);Nieuw-Bergen;55
+893;Bergen (L.);Afferden;55
+893;Bergen (L.);Siebengewald;56
+893;Bergen (L.);Well;55
+893;Bergen (L.);Wellerlooi;55
+373;Bergen (NH.);Gemeente;
+373;Bergen (NH.);Wijk 01 Bergen Binnen;43
+373;Bergen (NH.);Wijk 02 Bergen aan Zee;42
+373;Bergen (NH.);Wijk 03 Buitengebied Bergen;41
+373;Bergen (NH.);Wijk 04 Egmond aan Zee;47
+373;Bergen (NH.);Wijk 05 Egmond-Binnen;43
+373;Bergen (NH.);Wijk 06 Egmond aan den Hoef;44
+373;Bergen (NH.);Wijk 07 Schoorl;46
+748;Bergen op Zoom;Gemeente;
+748;Bergen op Zoom;Wijk 00 Bergen op Zoom-Oude stad e.o.;54
+748;Bergen op Zoom;Wijk 01 Bergen op Zoom-Noord;54
+748;Bergen op Zoom;Wijk 02 Bergen op Zoom-Oost;56
+748;Bergen op Zoom;Wijk 03 Bergen op Zoom-West;54
+748;Bergen op Zoom;Wijk 04 Halsteren;56
+748;Bergen op Zoom;Wijk 05 Lepelstraat;59
+1859;Berkelland;Gemeente;
+1859;Berkelland;Wijk 00 Borculo;54
+1859;Berkelland;Wijk 01 Eibergen;55
+1859;Berkelland;Wijk 02 Beltrum;52
+1859;Berkelland;Wijk 03 Neede;54
+1859;Berkelland;Wijk 04 Ruurlo;54
+1721;Bernheze;Gemeente;
+1721;Bernheze;Wijk 01 Vorstenbosch;48
+1721;Bernheze;Wijk 02 Heesch;49
+1721;Bernheze;Wijk 03 Nistelrode;50
+1721;Bernheze;Wijk 04 Loosbroek;50
+1721;Bernheze;Wijk 05 Heeswijk-Dinther;49
+1721;Bernheze;Wijk 06 Vinkel;43
+753;Best;Gemeente;
+753;Best;Wijk 00 Best;51
+209;Beuningen;Gemeente;
+209;Beuningen;Beuningen;51
+209;Beuningen;Ewijk;53
+209;Beuningen;Weurt;55
+209;Beuningen;Winssen;55
+375;Beverwijk;Gemeente;
+375;Beverwijk;Wijk 00 Centrum;54
+375;Beverwijk;Wijk 01 Vondelkwartier;50
+375;Beverwijk;Wijk 02 Oranjebuurt;58
+375;Beverwijk;Wijk 03 Kuenenkwartier;54
+375;Beverwijk;Wijk 04 Warande;48
+375;Beverwijk;Wijk 05 Noordwestelijk tuinbouwgebied;50
+375;Beverwijk;Wijk 06 Oosterwijk en Zwaansmeer;57
+375;Beverwijk;Wijk 07 Meerestein;56
+375;Beverwijk;Wijk 08 Wijk aan Zee;51
+375;Beverwijk;Wijk 09 De Pijp en Wijkerbroek;50
+585;Binnenmaas;Gemeente;
+585;Binnenmaas;Wijk 00 Heinenoord;55
+585;Binnenmaas;Wijk 01 Mijnsheerenland;55
+585;Binnenmaas;Wijk 02 Westmaas;56
+585;Binnenmaas;Wijk 03 Maasdam;55
+585;Binnenmaas;Wijk 04 Puttershoek;56
+585;Binnenmaas;Wijk 05 's-Gravendeel;54
+1728;Bladel;Gemeente;
+1728;Bladel;Wijk 00 Bladel;52
+1728;Bladel;Wijk 01 Netersel;49
+1728;Bladel;Wijk 02 Hapert;52
+1728;Bladel;Wijk 03 Hoogeloon;49
+1728;Bladel;Wijk 04 Casteren;50
+376;Blaricum;Gemeente;
+376;Blaricum;Wijk 00;44
+377;Bloemendaal;Gemeente;
+377;Bloemendaal;Wijk 00 Bloemendaal;40
+377;Bloemendaal;Wijk 01 Overveen;37
+377;Bloemendaal;Wijk 02 Aerdenhout;39
+377;Bloemendaal;Wijk 03 Vogelenzang;47
+377;Bloemendaal;Wijk 04 Bennebroek;45
+1901;Bodegraven-Reeuwijk;Gemeente;
+1901;Bodegraven-Reeuwijk;Wijk 01 Bodegraven Noord;52
+1901;Bodegraven-Reeuwijk;Wijk 02 Bodegraven Centrum;49
+1901;Bodegraven-Reeuwijk;Wijk 03 Bodegraven Zuid;50
+1901;Bodegraven-Reeuwijk;Wijk 04 Nieuwerbrug Noord;46
+1901;Bodegraven-Reeuwijk;Wijk 05 Nieuwerbrug Zuid;50
+1901;Bodegraven-Reeuwijk;Wijk 06 Reeuwijk Dorp;47
+1901;Bodegraven-Reeuwijk;Wijk 07 Reeuwijk Brug;47
+1901;Bodegraven-Reeuwijk;Wijk 08 Driebruggen;48
+1901;Bodegraven-Reeuwijk;Wijk 09 Waarder;47
+755;Boekel;Gemeente;
+755;Boekel;Wijk 00 Boekel;49
+755;Boekel;Wijk 01 Venhorst;46
+1681;Borger-Odoorn;Gemeente;
+1681;Borger-Odoorn;Wijk 00 Borger;55
+1681;Borger-Odoorn;Wijk 01 Buinen;56
+1681;Borger-Odoorn;Wijk 02 Bronneger;53
+1681;Borger-Odoorn;Wijk 03 Drouwen;54
+1681;Borger-Odoorn;Wijk 04 Bronnegerveen;55
+1681;Borger-Odoorn;Wijk 05 Drouwenerveen;56
+1681;Borger-Odoorn;Wijk 06 Drouwenermond;58
+1681;Borger-Odoorn;Wijk 07 Nieuw-Buinen;59
+1681;Borger-Odoorn;Wijk 08 Buinerveen;59
+1681;Borger-Odoorn;Wijk 09 Ees;54
+1681;Borger-Odoorn;Wijk 10 Odoorn;58
+1681;Borger-Odoorn;Wijk 11 Exloo;58
+1681;Borger-Odoorn;Wijk 12 Valthe;55
+1681;Borger-Odoorn;Wijk 13 Klijndijk;58
+1681;Borger-Odoorn;Wijk 14 Odoornerveen;54
+1681;Borger-Odoorn;Wijk 15 Tweede Exloërmond;60
+1681;Borger-Odoorn;Wijk 16 Valthermond;60
+147;Borne;Gemeente;
+147;Borne;Wijk 00 Borne;53
+147;Borne;Wijk 01 Buitengebied Borne;50
+654;Borsele;Gemeente;
+654;Borsele;Baarland;51
+654;Borsele;Borssele;47
+654;Borsele;Driewegen;52
+654;Borsele;Ellewoutsdijk;52
+654;Borsele;Heinkenszand;49
+654;Borsele;Hoedekenskerke;51
+654;Borsele;Kwadendamme;49
+654;Borsele;Lewedorp;49
+654;Borsele;Nieuwdorp;48
+654;Borsele;Nisse;48
+654;Borsele;Oudelande;50
+654;Borsele;Ovezande;50
+654;Borsele;'s-Gravenpolder;48
+654;Borsele;'s-Heer Abtskerke;48
+654;Borsele;'s-Heerenhoek;50
+756;Boxmeer;Gemeente;
+756;Boxmeer;Wijk 00 Boxmeer;49
+756;Boxmeer;Wijk 01 Sambeek;48
+756;Boxmeer;Wijk 02 Beugen;48
+756;Boxmeer;Wijk 03 Oeffelt;51
+756;Boxmeer;Wijk 04 Rijkevoort;46
+756;Boxmeer;Wijk 05 Vortum-Mullem;48
+756;Boxmeer;Wijk 06 Vierlingsbeek;49
+756;Boxmeer;Wijk 07 Overloon;48
+756;Boxmeer;Wijk 08 Maashees;48
+756;Boxmeer;Wijk 09 Holthees;47
+757;Boxtel;Gemeente;
+757;Boxtel;Wijk 00 Boxtel;52
+757;Boxtel;Wijk 01 Lennisheuvel;48
+757;Boxtel;Wijk 02 Liempde;51
+758;Breda;Gemeente;
+758;Breda;Breda Centrum;39
+758;Breda;Breda Noord;49
+758;Breda;Breda Oost;44
+758;Breda;Breda Zuid-Oost;46
+758;Breda;Breda Zuid;44
+758;Breda;Breda West;47
+758;Breda;Breda Noord-West;50
+758;Breda;Bavel;47
+758;Breda;Ulvenhout;48
+758;Breda;Prinsenbeek;48
+758;Breda;Teteringen;49
+501;Brielle;Gemeente;
+501;Brielle;Wijk 00 Brielle;54
+501;Brielle;Wijk 01 Vierpolders;54
+501;Brielle;Wijk 02 Zwartewaal;54
+501;Brielle;Wijk 03 Recreatiestrook Brielse Maas;54
+1876;Bronckhorst;Gemeente;
+1876;Bronckhorst;Wijk 00 Hengelo;53
+1876;Bronckhorst;Wijk 01 Zelhem;54
+1876;Bronckhorst;Wijk 02 Vorden;55
+1876;Bronckhorst;Wijk 03 Steenderen;55
+1876;Bronckhorst;Wijk 04 Hummelo en Keppel;56
+213;Brummen;Gemeente;
+213;Brummen;Wijk 01 Empe;53
+213;Brummen;Wijk 02 Tonden;51
+213;Brummen;Wijk 03 Brummen;53
+213;Brummen;Wijk 04 Leuvenheim;52
+213;Brummen;Wijk 05 Hall;52
+213;Brummen;Wijk 06 Eerbeek;54
+899;Brunssum;Gemeente;
+899;Brunssum;Wijk 01 Brunssum-West;58
+899;Brunssum;Wijk 02 Brunssum-Noord;59
+899;Brunssum;Wijk 03 Brunssum-Oost;60
+899;Brunssum;Wijk 04 Brunssum-Zuid;59
+899;Brunssum;Wijk 05 Brunssum-Centrum;57
+312;Bunnik;Gemeente;
+312;Bunnik;Wijk 00 Bunnik;42
+312;Bunnik;Wijk 01 Odijk;44
+312;Bunnik;Wijk 02 Werkhoven;48
+313;Bunschoten;Gemeente;
+313;Bunschoten;Wijk 00;52
+214;Buren;Gemeente;
+214;Buren;Wijk 00 Buren;49
+214;Buren;Wijk 01 Beusichem;47
+214;Buren;Wijk 02 Zoelen;54
+214;Buren;Wijk 03 Lienden;54
+214;Buren;Wijk 04 Ingen;53
+214;Buren;Wijk 05 Maurik;57
+214;Buren;Wijk 06 Ravenswaaij;47
+502;Capelle aan den IJssel;Gemeente;
+502;Capelle aan den IJssel;Wijk 01 Capelle-West en 's-Gravenland;50
+502;Capelle aan den IJssel;Wijk 02 Middelwatering-West;53
+502;Capelle aan den IJssel;Wijk 03 Middelwatering-Oost;54
+502;Capelle aan den IJssel;Wijk 04 Oostgaarde-Zuid;54
+502;Capelle aan den IJssel;Wijk 05 Oostgaarde-Noord;57
+502;Capelle aan den IJssel;Wijk 06 Schenkel;52
+502;Capelle aan den IJssel;Wijk 07 Schollevaar-Zuid;54
+502;Capelle aan den IJssel;Wijk 08 Schollevaar-Noord en Hoofdweg;55
+502;Capelle aan den IJssel;Wijk 09 Rivium en Fascinatio;50
+383;Castricum;Gemeente;
+383;Castricum;Wijk 00 Centrum;42
+383;Castricum;Wijk 01 Castricum-Noord;44
+383;Castricum;Wijk 02 Castricum-Oost;44
+383;Castricum;Wijk 03 Castricum-Zuid;41
+383;Castricum;Wijk 04 Bakkum;43
+383;Castricum;Wijk 05 Akersloot;45
+383;Castricum;Wijk 06 De Woude;44
+383;Castricum;Wijk 07 Limmen;42
+109;Coevorden;Gemeente;
+109;Coevorden;Wijk 10 Coevorden;57
+109;Coevorden;Wijk 11 Steenwijksmoer;56
+109;Coevorden;Wijk 12 Nieuwe Krim;57
+109;Coevorden;Wijk 13 Weijerswold;58
+109;Coevorden;Wijk 14 Vlieghuis en Padhuis;53
+109;Coevorden;Wijk 20 Dalen;55
+109;Coevorden;Wijk 30 Oosterhesselen;55
+109;Coevorden;Wijk 40 Sleen;57
+109;Coevorden;Wijk 50 Zweeloo;54
+1706;Cranendonck;Gemeente;
+1706;Cranendonck;Wijk 00 Budel;47
+1706;Cranendonck;Wijk 01 Schoot;51
+1706;Cranendonck;Wijk 02 Dorplein;52
+1706;Cranendonck;Wijk 03 Maarheeze;49
+1706;Cranendonck;Wijk 04 Soerendonk;46
+1706;Cranendonck;Wijk 05 Gastel;46
+611;Cromstrijen;Gemeente;
+611;Cromstrijen;Wijk 00 Numansdorp;56
+611;Cromstrijen;Wijk 01 Klaaswaal;55
+1684;Cuijk;Gemeente;
+1684;Cuijk;Wijk 00 Cuijk;50
+1684;Cuijk;Wijk 01 Vianen;47
+1684;Cuijk;Wijk 02 Sint Agatha;46
+1684;Cuijk;Wijk 03 Katwijk;49
+1684;Cuijk;Wijk 04 Haps;48
+1684;Cuijk;Wijk 05 Beers;49
+1684;Cuijk;Wijk 06 Linden;47
+216;Culemborg;Gemeente;
+216;Culemborg;Wijk 00;48
+148;Dalfsen;Gemeente;
+148;Dalfsen;Wijk 00 Dalfsen (kern);48
+148;Dalfsen;Wijk 01 Dalfsen - buitengebied;48
+148;Dalfsen;Wijk 02 Oudleusen;51
+148;Dalfsen;Wijk 03 Hoonhorst;48
+148;Dalfsen;Wijk 04 Lenthe-2;46
+148;Dalfsen;Wijk 05 Kluinhaar;51
+148;Dalfsen;Wijk 06 Lemelerveld;49
+148;Dalfsen;Wijk 07 Leusenerveld;53
+1891;Dantumadiel;Gemeente;
+1891;Dantumadiel;Wijk 00 Centrum;54
+1891;Dantumadiel;Wijk 01 Oost;52
+1891;Dantumadiel;Wijk 02 Zuid;55
+1891;Dantumadiel;Wijk 03 West;52
+310;De Bilt;Gemeente;
+310;De Bilt;Wijk 00 De Bilt;43
+310;De Bilt;Wijk 01 Bilthoven-Zuid;43
+310;De Bilt;Wijk 02 Bilthoven-Noord;43
+310;De Bilt;Wijk 03 Hollandsche Rading;44
+310;De Bilt;Wijk 04 Maartensdijk;45
+310;De Bilt;Wijk 05 Groenekan;41
+310;De Bilt;Wijk 06 Achttienhoven-Westbroek;43
+1940;De Fryske Marren;Gemeente;
+1940;De Fryske Marren;Wijk 01 Akmarijp;48
+1940;De Fryske Marren;Wijk 02 Bakhuizen;51
+1940;De Fryske Marren;Wijk 03 Balk;50
+1940;De Fryske Marren;Wijk 04 Bantega;51
+1940;De Fryske Marren;Wijk 05 Boornzwaag;48
+1940;De Fryske Marren;Wijk 06 Broek;46
+1940;De Fryske Marren;Wijk 07 Delfstrahuizen;51
+1940;De Fryske Marren;Wijk 08 Dijken;50
+1940;De Fryske Marren;Wijk 09 Doniaga;46
+1940;De Fryske Marren;Wijk 10 Echten;51
+1940;De Fryske Marren;Wijk 11 Echtenerbrug;52
+1940;De Fryske Marren;Wijk 12 Eesterga;59
+1940;De Fryske Marren;Wijk 13 Elahuizen;47
+1940;De Fryske Marren;Wijk 14 Follega;51
+1940;De Fryske Marren;Wijk 15 Goingarijp;48
+1940;De Fryske Marren;Wijk 16 Harich;47
+1940;De Fryske Marren;Wijk 17 Haskerhorne;48
+1940;De Fryske Marren;Wijk 18 Idskenhuizen;50
+1940;De Fryske Marren;Wijk 19 Joure;50
+1940;De Fryske Marren;Wijk 20 Kolderwolde;45
+1940;De Fryske Marren;Wijk 21 Langweer;49
+1940;De Fryske Marren;Wijk 22 Legemeer;42
+1940;De Fryske Marren;Wijk 23 Lemmer;53
+1940;De Fryske Marren;Wijk 24 Mirns;44
+1940;De Fryske Marren;Wijk 25 Nijehaske;47
+1940;De Fryske Marren;Wijk 26 Nijemirdum;46
+1940;De Fryske Marren;Wijk 27 Oldeouwer;46
+1940;De Fryske Marren;Wijk 28 Oosterzee;54
+1940;De Fryske Marren;Wijk 29 Oudega;47
+1940;De Fryske Marren;Wijk 30 Oudehaske;47
+1940;De Fryske Marren;Wijk 31 Oudemirdum;48
+1940;De Fryske Marren;Wijk 32 Ouwsterhaule;48
+1940;De Fryske Marren;Wijk 33 Ouwster-Nijega;49
+1940;De Fryske Marren;Wijk 34 Rijs;48
+1940;De Fryske Marren;Wijk 35 Rohel;50
+1940;De Fryske Marren;Wijk 36 Rotstergaast;49
+1940;De Fryske Marren;Wijk 37 Rotsterhaule;50
+1940;De Fryske Marren;Wijk 38 Rottum;49
+1940;De Fryske Marren;Wijk 39 Ruigahuizen;48
+1940;De Fryske Marren;Wijk 40 Scharsterbrug;49
+1940;De Fryske Marren;Wijk 41 Sint Nicolaasga;49
+1940;De Fryske Marren;Wijk 42 Sinjohannesga;49
+1940;De Fryske Marren;Wijk 43 Sloten;50
+1940;De Fryske Marren;Wijk 44 Snikzwaag;43
+1940;De Fryske Marren;Wijk 45 Sondel;46
+1940;De Fryske Marren;Wijk 46 Terherne;49
+1940;De Fryske Marren;Wijk 47 Terkaple;48
+1940;De Fryske Marren;Wijk 48 Teroele;46
+1940;De Fryske Marren;Wijk 49 Tjerkgaast;45
+1940;De Fryske Marren;Wijk 50 Vegelinsoord;46
+1940;De Fryske Marren;Wijk 51 Wijckel;46
+1663;De Marne;Gemeente;
+1663;De Marne;Wijk 00;55
+1663;De Marne;Wijk 01;56
+1663;De Marne;Wijk 02;55
+1663;De Marne;Wijk 03;55
+736;De Ronde Venen;Gemeente;
+736;De Ronde Venen;Wijk 00 Mijdrecht;49
+736;De Ronde Venen;Wijk 01 Gebied bij Uithoorn;47
+736;De Ronde Venen;Wijk 02 Vinkeveen;48
+736;De Ronde Venen;Wijk 03 Wilnis;48
+736;De Ronde Venen;Wijk 04 Abcoude;42
+1690;De Wolden;Gemeente;
+1690;De Wolden;Wijk 00 Zuidwolde;51
+1690;De Wolden;Wijk 01 Alteveer;51
+1690;De Wolden;Wijk 02 Kerkenveld;51
+1690;De Wolden;Wijk 03 Drogteropslagen;54
+1690;De Wolden;Wijk 04 Linde;53
+1690;De Wolden;Wijk 05 Fort;53
+1690;De Wolden;Wijk 06 Veeningen;54
+1690;De Wolden;Wijk 07 Echten;52
+1690;De Wolden;Wijk 08 Ruinen;54
+1690;De Wolden;Wijk 09 Eursinge;52
+1690;De Wolden;Wijk 10 Ansen;54
+1690;De Wolden;Wijk 11 Ruinerwold;53
+1690;De Wolden;Wijk 12 Koekange;53
+1690;De Wolden;Wijk 13 De Wijk;51
+503;Delft;Gemeente;
+503;Delft;Wijk 11 Binnenstad;37
+503;Delft;Wijk 12 Vrijenban;47
+503;Delft;Wijk 13 Hof van Delft;41
+503;Delft;Wijk 14 Voordijkshoorn;47
+503;Delft;Wijk 16 Delftse Hout;40
+503;Delft;Wijk 22 Tanthof-West;51
+503;Delft;Wijk 23 Tanthof-Oost;52
+503;Delft;Wijk 24 Voorhof;45
+503;Delft;Wijk 25 Buitenhof;51
+503;Delft;Wijk 26 Abtswoude;40
+503;Delft;Wijk 27 Schieweg;45
+503;Delft;Wijk 28 Wippolder;41
+503;Delft;Wijk 29 Ruiven;45
+10;Delfzijl;Gemeente;
+10;Delfzijl;Wijk 00 Stad;58
+10;Delfzijl;Wijk 01 Land;55
+10;Delfzijl;Wijk 02;64
+10;Delfzijl;Wijk 03;58
+400;Den Helder;Gemeente;
+400;Den Helder;Wijk 01 Stad binnen de Linie-Oost;56
+400;Den Helder;Wijk 02 Stad binnen de Linie-West;55
+400;Den Helder;Wijk 03 Nieuw Den Helder-West;55
+400;Den Helder;Wijk 04 Nieuw Den Helder-Oost;57
+400;Den Helder;Wijk 05 De Schooten;59
+400;Den Helder;Wijk 06 Het Koegras;54
+400;Den Helder;Wijk 07 Duinzoom;54
+400;Den Helder;Wijk 08 Julianadorp;54
+762;Deurne;Gemeente;
+762;Deurne;Wijk 00 Deurne;51
+762;Deurne;Wijk 01 Vlierden;50
+762;Deurne;Wijk 02 Liessel;51
+762;Deurne;Wijk 03 Neerkant;49
+762;Deurne;Wijk 04 Helenaveen;51
+150;Deventer;Gemeente;
+150;Deventer;Wijk 1 Binnenstad;43
+150;Deventer;Wijk 2 De Hoven;49
+150;Deventer;Wijk 3 Zandweerd;47
+150;Deventer;Wijk 4 Voorstad;47
+150;Deventer;Wijk 5 Borgele en Platvoet;52
+150;Deventer;Wijk 6 Keizerslanden;50
+150;Deventer;Wijk 7 Rivierenwijk en Bergweide;51
+150;Deventer;Wijk 8 Colmschate-Noord;51
+150;Deventer;Wijk 9 Colmschate-Vijfhoek;48
+150;Deventer;Wijk 10 Colmschate-Zuid;52
+150;Deventer;Wijk 11 Diepenveen;51
+150;Deventer;Wijk 12 Schalkhaar;49
+150;Deventer;Wijk 13 Okkenbroek;52
+150;Deventer;Wijk 14 Lettele;49
+150;Deventer;Wijk 15 Bathmen;51
+384;Diemen;Gemeente;
+384;Diemen;Wijk 00 Diemen-Zuid;45
+384;Diemen;Wijk 01 Diemen-Centrum;45
+384;Diemen;Wijk 02 Diemen-Noord;49
+1774;Dinkelland;Gemeente;
+1774;Dinkelland;Wijk 10 Denekamp;51
+1774;Dinkelland;Wijk 11 Lattrop-Breklenkamp;49
+1774;Dinkelland;Wijk 12 Tilligte;52
+1774;Dinkelland;Wijk 13 Agelo;46
+1774;Dinkelland;Wijk 14 Noord Deurningen;52
+1774;Dinkelland;Wijk 15 Ootmarsum;50
+1774;Dinkelland;Wijk 16 Weerselo;50
+1774;Dinkelland;Wijk 17 Rossum;47
+1774;Dinkelland;Wijk 18 Saasveld;48
+1774;Dinkelland;Wijk 19 Deurningen;49
+1774;Dinkelland;Wijk 20 Nutter;44
+1774;Dinkelland;Wijk 21 Oud Ootmarsum;45
+221;Doesburg;Gemeente;
+221;Doesburg;Wijk 01;59
+222;Doetinchem;Gemeente;
+222;Doetinchem;Wijk 01 Doetinchem Centrum;51
+222;Doetinchem;Wijk 02;55
+222;Doetinchem;Wijk 03;54
+222;Doetinchem;Wijk 04;53
+222;Doetinchem;Wijk 05;51
+222;Doetinchem;Wijk 06;54
+222;Doetinchem;Wijk 07;52
+222;Doetinchem;Wijk 08;53
+222;Doetinchem;Wijk 09;55
+222;Doetinchem;Wijk 11 Buitengebied Doetinchem;56
+222;Doetinchem;Wijk 31 Wehl;55
+766;Dongen;Gemeente;
+766;Dongen;Dongen;53
+766;Dongen;'s Gravenmoer;54
+58;Dongeradeel;Gemeente;
+58;Dongeradeel;Dokkum;54
+58;Dongeradeel;Metslawier;51
+58;Dongeradeel;Ee - Zuidoost;53
+58;Dongeradeel;Anjum - Noordoost;53
+58;Dongeradeel;Oosternijkerk - Noordwest;50
+58;Dongeradeel;Ternaard;51
+58;Dongeradeel;Holwerd;54
+58;Dongeradeel;Hantum;53
+505;Dordrecht;Gemeente;
+505;Dordrecht;Wijk 01 Binnenstad;52
+505;Dordrecht;Wijk 02 Noordflank;54
+505;Dordrecht;Wijk 03 Oud Krispijn;55
+505;Dordrecht;Wijk 04 Nieuw-krispijn;55
+505;Dordrecht;Wijk 05 Het Reeland;52
+505;Dordrecht;Wijk 06 Staart;56
+505;Dordrecht;Wijk 07 Wielwijk;56
+505;Dordrecht;Wijk 08 Crabbehof/Zuidhoven;56
+505;Dordrecht;Wijk 09 Sterrenburg;56
+505;Dordrecht;Wijk 10 Dubbeldam;52
+505;Dordrecht;Wijk 11 Stadspolders;53
+505;Dordrecht;Wijk 19 Industriegebied West;53
+505;Dordrecht;Wijk 98 Verspreide bebouwing;53
+498;Drechterland;Gemeente;
+498;Drechterland;Wijk 00 Hoogkarspel;47
+498;Drechterland;Wijk 01 Westwoud;48
+498;Drechterland;Wijk 02 Oosterblokker;47
+498;Drechterland;Wijk 03 Venhuizen;50
+498;Drechterland;Wijk 04 Wijdenes;51
+498;Drechterland;Wijk 05 Schellinkhout;50
+1719;Drimmelen;Gemeente;
+1719;Drimmelen;Wijk 00 Made;52
+1719;Drimmelen;Wijk 01 Drimmelen;52
+1719;Drimmelen;Wijk 02 Terheijden;52
+1719;Drimmelen;Wijk 03 Wagenberg;52
+1719;Drimmelen;Wijk 04 Lage Zwaluwe;54
+1719;Drimmelen;Wijk 05 Hooge Zwaluwe;53
+303;Dronten;Gemeente;
+303;Dronten;Wijk 01 Dronten west;43
+303;Dronten;Wijk 02 Dronten Noord;48
+303;Dronten;Wijk 03 Dronten Midden;49
+303;Dronten;Wijk 04 Dronten Zuid;47
+303;Dronten;Wijk 05 Buitengebied Dronten;46
+303;Dronten;Wijk 06 Biddinghuizen;52
+303;Dronten;Wijk 07 Swifterbant;53
+225;Druten;Gemeente;
+225;Druten;Druten;54
+225;Druten;Puiflijk;52
+225;Druten;Afferden;56
+225;Druten;Deest;60
+225;Druten;Horssen;56
+226;Duiven;Gemeente;
+226;Duiven;Wijk 01 Bedrijventerrein;
+226;Duiven;Wijk 02 Buitengebied;52
+226;Duiven;Wijk 03 Duiven-Noord;54
+226;Duiven;Wijk 04 Duiven-Zuid;52
+226;Duiven;Wijk 05 Groessen;54
+226;Duiven;Wijk 06 Loo;54
+1711;Echt-Susteren;Gemeente;
+1711;Echt-Susteren;Wijk 01 Susteren;53
+1711;Echt-Susteren;Wijk 02 Dieteren;54
+1711;Echt-Susteren;Wijk 03 Heide;55
+1711;Echt-Susteren;Wijk 04 Roosteren;55
+1711;Echt-Susteren;Wijk 05 Echt;51
+1711;Echt-Susteren;Wijk 06 Maria Hoop;54
+1711;Echt-Susteren;Wijk 07 Peij;52
+1711;Echt-Susteren;Wijk 08 Slek;54
+1711;Echt-Susteren;Wijk 09 Nieuwstadt;54
+1711;Echt-Susteren;Wijk 10 Sint Joost;52
+1711;Echt-Susteren;Wijk 11 Koningsbosch;56
+385;Edam-Volendam;Gemeente;
+385;Edam-Volendam;Wijk 00 Edam;47
+385;Edam-Volendam;Wijk 01 Purmer;47
+385;Edam-Volendam;Wijk 02 Volendam;46
+385;Edam-Volendam;Wijk 03 Beets;47
+385;Edam-Volendam;Wijk 04 Oosthuizen;50
+385;Edam-Volendam;Wijk 05 Warder;47
+385;Edam-Volendam;Wijk 06 Middelie;45
+385;Edam-Volendam;Wijk 07 Kwadijk;51
+385;Edam-Volendam;Wijk 08 Schardam;45
+385;Edam-Volendam;Wijk 09 Hobrede;48
+228;Ede;Gemeente;
+228;Ede;Ede-Oost;45
+228;Ede;Ede-West;47
+228;Ede;Ede-Veldhuizen;49
+228;Ede;Kernhem;45
+228;Ede;Veluwse Poort;43
+228;Ede;Ede-Zuid;46
+228;Ede;Maandereng;50
+228;Ede;Rietkampen;49
+228;Ede;Bedrijventerrein;47
+228;Ede;Buitengebied Ede-Stad;47
+228;Ede;Bennekom;43
+228;Ede;Lunteren;48
+228;Ede;Ederveen;47
+228;Ede;De Klomp;49
+228;Ede;Harskamp;49
+228;Ede;Wekerom;51
+228;Ede;Otterlo;52
+317;Eemnes;Gemeente;
+317;Eemnes;Wijk 00;48
+1651;Eemsmond;Gemeente;
+1651;Eemsmond;Wijk 00;57
+1651;Eemsmond;Wijk 01;57
+1651;Eemsmond;Wijk 02;55
+1651;Eemsmond;Wijk 03;57
+1651;Eemsmond;Wijk 04;54
+770;Eersel;Gemeente;
+770;Eersel;Wijk 00 Eersel;49
+770;Eersel;Wijk 01 Duizel;51
+770;Eersel;Wijk 02 Steensel;49
+770;Eersel;Wijk 03 Vessem;48
+770;Eersel;Wijk 04 Wintelre;51
+770;Eersel;Wijk 05 Knegsel;47
+1903;Eijsden-Margraten;Gemeente;
+1903;Eijsden-Margraten;Wijk 00 Eijsden;51
+1903;Eijsden-Margraten;Wijk 01 Gronsveld;51
+1903;Eijsden-Margraten;Wijk 02 Margraten;51
+1903;Eijsden-Margraten;Wijk 03 Cadier en Keer;50
+1903;Eijsden-Margraten;Wijk 04 Sint Geertruid;48
+1903;Eijsden-Margraten;Wijk 05 Mheer - Noorbeek;51
+772;Eindhoven;Gemeente;
+772;Eindhoven;Wijk 11 Stadsdeel Centrum;34
+772;Eindhoven;Wijk 12 Stadsdeel Stratum;41
+772;Eindhoven;Wijk 13 Stadsdeel Tongelre;44
+772;Eindhoven;Wijk 14 Stadsdeel Woensel-Zuid;44
+772;Eindhoven;Wijk 15 Stadsdeel Woensel-Noord;49
+772;Eindhoven;Wijk 16 Stadsdeel Strijp;44
+772;Eindhoven;Wijk 17 Stadsdeel Gestel;45
+230;Elburg;Gemeente;
+230;Elburg;Wijk 01 Elburg;53
+230;Elburg;Wijk 02;53
+230;Elburg;Wijk 03 Doornspijk;54
+114;Emmen;Gemeente;
+114;Emmen;Wijk 01 Nieuw-Weerdinge;59
+114;Emmen;Wijk 02 Roswinkel;59
+114;Emmen;Wijk 03 Emmer-Compascuum;59
+114;Emmen;Wijk 04 Barger-Compascuum;61
+114;Emmen;Wijk 05 Nieuw-Dordrecht;58
+114;Emmen;Wijk 06 Nieuw-Amsterdam;56
+114;Emmen;Wijk 07 Erica;55
+114;Emmen;Wijk 08 Klazienaveen;57
+114;Emmen;Wijk 09 Zwartemeer;59
+114;Emmen;Wijk 10 Schoonebeek;56
+114;Emmen;Wijk 13 Veenoord;58
+114;Emmen;Wijk 21 Nieuw-Schoonebeek;57
+114;Emmen;Wijk 32 Weiteveen;58
+114;Emmen;Wijk 40 Emmen-Centrum;57
+114;Emmen;Wijk 41 Emmen-Centrum Oost;54
+114;Emmen;Wijk 42 Emmermeer;55
+114;Emmen;Wijk 43 Angelslo;58
+114;Emmen;Wijk 44 Emmerhout;56
+114;Emmen;Wijk 45 Emmerschans;56
+114;Emmen;Wijk 46 Bargeres;55
+114;Emmen;Wijk 47 Rietlanden;54
+114;Emmen;Wijk 48 Parc Sandur;55
+114;Emmen;Wijk 49 Delftlanden;51
+114;Emmen;Wijk 50 Barger-Oosterveld;56
+114;Emmen;Wijk 51 Kern Emmen Noord;56
+114;Emmen;Wijk 52 Kern Emmen Zuid;52
+114;Emmen;Wijk 53 Kern Emmen Industrieterreinen;54
+388;Enkhuizen;Gemeente;
+388;Enkhuizen;Wijk 00;48
+388;Enkhuizen;Wijk 01;50
+153;Enschede;Gemeente;
+153;Enschede;Wijk 00 Binnensingelgebied;47
+153;Enschede;Wijk 01 Hogeland - Velve;53
+153;Enschede;Wijk 02 Boswinkel - Stadsveld;53
+153;Enschede;Wijk 03 Twekkelerveld - T.H.T.;52
+153;Enschede;Wijk 04 Enschede-Noord;47
+153;Enschede;Wijk 05 Ribbelt - Stokhorst;52
+153;Enschede;Wijk 06 Enschede-Zuid;57
+153;Enschede;Wijk 07 Bedrijfsterreinen Enschede-West;50
+153;Enschede;Wijk 08 Glanerbrug en omgeving;57
+153;Enschede;Wijk 09 Landelijk gebied en kernen;54
+232;Epe;Gemeente;
+232;Epe;Wijk 00 Epe;53
+232;Epe;Wijk 01 Emst;52
+232;Epe;Wijk 02 Vaassen;54
+232;Epe;Wijk 03 Bosgebied;53
+233;Ermelo;Gemeente;
+233;Ermelo;Wijk 00 Ermelo;50
+233;Ermelo;Wijk 01 Speuld;51
+777;Etten-Leur;Gemeente;
+777;Etten-Leur;Wijk 00 Etten-Leur Midden woongebied;51
+777;Etten-Leur;Wijk 01 Etten-Leur Midden, Bedrijventerr;
+777;Etten-Leur;Wijk 02 Etten-Leur landelijk gebied;46
+777;Etten-Leur;Wijk 10 Etten-Leur Noord woongebied;51
+777;Etten-Leur;Wijk 11 Etten-Leur Noord bedrijventerr.;57
+777;Etten-Leur;Wijk 12 Etten-Leur Noord verspr.h.;48
+777;Etten-Leur;Wijk 20 Etten-Leur Zuid woongebied;52
+777;Etten-Leur;Wijk 21 Etten-Leur Zuid bedrijventerrein;48
+777;Etten-Leur;Wijk 23 Etten-Leur Zuid verspr.h.;49
+1722;Ferwerderadiel;Gemeente;
+1722;Ferwerderadiel;Wijk 00 Bouwstreek;56
+1722;Ferwerderadiel;Wijk 01 Zuidwest;51
+1722;Ferwerderadiel;Wijk 02;53
+70;Franekeradeel;Gemeente;
+70;Franekeradeel;Wijk 00 Franeker;53
+70;Franekeradeel;Wijk 01 Noord;52
+70;Franekeradeel;Wijk 02 Noordoost;52
+70;Franekeradeel;Wijk 03 Zuid;52
+70;Franekeradeel;Wijk 04 West;56
+70;Franekeradeel;Wijk 05 Franeker Zuidoost;51
+779;Geertruidenberg;Gemeente;
+779;Geertruidenberg;Wijk 00 Raamsdonksveer;54
+779;Geertruidenberg;Wijk 01 Raamsdonk;52
+779;Geertruidenberg;Wijk 02 Geertruidenberg;55
+236;Geldermalsen;Gemeente;
+236;Geldermalsen;Wijk 00 Geldermalsen;49
+236;Geldermalsen;Wijk 01 Deil;51
+236;Geldermalsen;Wijk 02 Beesd;52
+236;Geldermalsen;Wijk 03 Buurmalsen;51
+1771;Geldrop-Mierlo;Gemeente;
+1771;Geldrop-Mierlo;Wijk 00 Geldrop;50
+1771;Geldrop-Mierlo;Wijk 01 Mierlo;50
+1652;Gemert-Bakel;Gemeente;
+1652;Gemert-Bakel;Wijk 00 Gemert;49
+1652;Gemert-Bakel;Wijk 01 Handel;49
+1652;Gemert-Bakel;Wijk 02 De Mortel;48
+1652;Gemert-Bakel;Wijk 03 Elsendorp;51
+1652;Gemert-Bakel;Wijk 04 Bakel;51
+1652;Gemert-Bakel;Wijk 05 Milheeze;52
+1652;Gemert-Bakel;Wijk 06 De Rips;50
+907;Gennep;Gemeente;
+907;Gennep;Wijk 00 Milsbeek;51
+907;Gennep;Wijk 01 Ottersum;50
+907;Gennep;Wijk 02 Ven-Zelderheide;51
+907;Gennep;Wijk 03 Gennep;51
+907;Gennep;Wijk 04 Heijen;52
+689;Giessenlanden;Gemeente;
+689;Giessenlanden;Wijk 00 Kern Giessenburg;52
+689;Giessenlanden;Wijk 01 Giessenburg-West en -Zuid;51
+689;Giessenlanden;Wijk 02 Giessenburg-Oost;48
+689;Giessenlanden;Wijk 03 Verspreide huizen Giessenburg;46
+689;Giessenlanden;Wijk 04 Arkel;55
+689;Giessenlanden;Wijk 05 Hoogblokland;51
+689;Giessenlanden;Wijk 06 Hoornaar;53
+689;Giessenlanden;Wijk 07 Noordeloos;49
+689;Giessenlanden;Wijk 08 Schelluinen;52
+784;Gilze en Rijen;Gemeente;
+784;Gilze en Rijen;Wijk 00 Rijen;54
+784;Gilze en Rijen;Wijk 01 Gilze;52
+784;Gilze en Rijen;Wijk 02 Molenschot;54
+784;Gilze en Rijen;Wijk 03 Hulten;49
+1924;Goeree-Overflakkee;Gemeente;
+1924;Goeree-Overflakkee;Goedereede;56
+1924;Goeree-Overflakkee;Ouddorp;54
+1924;Goeree-Overflakkee;Stellendam;54
+1924;Goeree-Overflakkee;Middelharnis;55
+1924;Goeree-Overflakkee;Ooltgensplaat;60
+1924;Goeree-Overflakkee;Den Bommel;57
+1924;Goeree-Overflakkee;Oude-Tonge;57
+1924;Goeree-Overflakkee;Dirksland;52
+1924;Goeree-Overflakkee;Melissant;54
+1924;Goeree-Overflakkee;Herkingen;57
+1924;Goeree-Overflakkee;Sommelsdijk;55
+1924;Goeree-Overflakkee;Nieuwe-Tonge;56
+1924;Goeree-Overflakkee;Stad aan 't Haringvliet;57
+1924;Goeree-Overflakkee;Achthuizen;59
+664;Goes;Gemeente;
+664;Goes;Wijk 01 Goes;50
+664;Goes;Wijk 02 Wilhelminadorp;50
+664;Goes;Wijk 03 Kloetinge;49
+664;Goes;Wijk 04 Kattendijke;52
+664;Goes;Wijk 05 's-Heer-Arendskerke;50
+664;Goes;Wijk 06 Eindewege;49
+664;Goes;Wijk 07 's-Heer-Hendrikskinderen;49
+664;Goes;Wijk 08 Wolphaartsdijk;49
+664;Goes;Wijk 09 Oud-Sabbinge;50
+785;Goirle;Gemeente;
+785;Goirle;Wijk 01 Goirle-Centrum;53
+785;Goirle;Wijk 02 Grobbendonck;52
+785;Goirle;Wijk 03 De Groote Akkers;51
+785;Goirle;Wijk 04 De Hoge Wal;49
+785;Goirle;Wijk 05 Abcoven;53
+785;Goirle;Wijk 06 Wildackers;54
+785;Goirle;Wijk 07 't Ven;51
+785;Goirle;Wijk 08 De Boschkens;46
+785;Goirle;Wijk 09 De Hellen;51
+785;Goirle;Wijk 10 De Nieuwe Erven;51
+785;Goirle;Wijk 11 Hoogeind;56
+785;Goirle;Wijk 13 Bedrijventerrein Tijvoort;52
+785;Goirle;Wijk 14 Verspreide huizen Goirle;46
+785;Goirle;Wijk 20 Riel;50
+785;Goirle;Wijk 21 Bedrijventerrein Riel;47
+785;Goirle;Wijk 23 Verspriede huizen Riel;48
+1942;Gooise Meren;Gemeente;
+1942;Gooise Meren;Bussum Centrum;42
+1942;Gooise Meren;Brediuskwartier;37
+1942;Gooise Meren;Eng;43
+1942;Gooise Meren;Spiegel;39
+1942;Gooise Meren;Muiden;49
+1942;Gooise Meren;Naarden;41
+512;Gorinchem;Gemeente;
+512;Gorinchem;Wijk 01 Gorinchem binnenstad;52
+512;Gorinchem;Wijk 02 Wijdschild;53
+512;Gorinchem;Wijk 03 Lingewijk;56
+512;Gorinchem;Wijk 04 haarwijk;54
+512;Gorinchem;Wijk 05 Stalkaarsen;54
+512;Gorinchem;Wijk 06 Gildenwijk;55
+512;Gorinchem;Wijk 07 Schelluinsestraat;57
+512;Gorinchem;Wijk 08 Avelingen Oost;49
+512;Gorinchem;Wijk 09 Avelingen West;52
+512;Gorinchem;Wijk 10 Molenvliet;56
+512;Gorinchem;Wijk 11 laag Dalem;53
+512;Gorinchem;Wijk 12 Dalem;53
+512;Gorinchem;Wijk 13 Hoog Dalem;48
+512;Gorinchem;Wijk 14 Bedrijventerrein Oost;56
+512;Gorinchem;Wijk 15 Papland;52
+512;Gorinchem;Wijk 16 schotdeuren;50
+512;Gorinchem;Wijk 17 Bedrijventerrein Noord;55
+512;Gorinchem;Wijk 18 Landelijk gebied West;48
+512;Gorinchem;Wijk 19 Landelijk gebied Noord;
+512;Gorinchem;Wijk 20 Landelijk gebied Oost;37
+512;Gorinchem;Wijk 21 Landelijk gebied Zuid;46
+513;Gouda;Gemeente;
+513;Gouda;Wijk 01 Binnenstad;45
+513;Gouda;Wijk 02 De Korte Akkeren;54
+513;Gouda;Wijk 03 Bloemendaal;49
+513;Gouda;Wijk 04 Plaswijck;50
+513;Gouda;Wijk 05 Noord;48
+513;Gouda;Wijk 06 Kort Haarlem;50
+513;Gouda;Wijk 07 Goverwelle;52
+513;Gouda;Wijk 08 Stolwijkersluis;49
+513;Gouda;Wijk 09 Oostpolder in Schieland;38
+786;Grave;Gemeente;
+786;Grave;Wijk 00 Grave;51
+786;Grave;Wijk 01 Escharen;48
+786;Grave;Wijk 02 Velp;48
+786;Grave;Wijk 03 Gassel;48
+14;Groningen;Gemeente;
+14;Groningen;Centrum;32
+14;Groningen;Oud-Zuid;33
+14;Groningen;Oud-West;33
+14;Groningen;Oud-Noord;37
+14;Groningen;Oosterparkwijk;40
+14;Groningen;Zuidoost;39
+14;Groningen;Helpman e.o.;40
+14;Groningen;Zuidwest;43
+14;Groningen;Hoogkerk e.o.;50
+14;Groningen;Nieuw-West;45
+14;Groningen;Noordwest;43
+14;Groningen;Noordoost;48
+14;Groningen;Noorddijk e.o.;50
+14;Groningen;Meerdorpen;52
+15;Grootegast;Gemeente;
+15;Grootegast;Wijk 00 Grootegast;56
+15;Grootegast;Wijk 01 Lutjegast;53
+15;Grootegast;Wijk 02 Opende;54
+15;Grootegast;Wijk 03 Oldekerk;55
+1729;Gulpen-Wittem;Gemeente;
+1729;Gulpen-Wittem;Wijk 00 Gulpen;53
+1729;Gulpen-Wittem;Wijk 01 Wijlre;52
+1729;Gulpen-Wittem;Wijk 02 Eys;52
+1729;Gulpen-Wittem;Wijk 03 Wittem;54
+1729;Gulpen-Wittem;Wijk 04 Mechelen;51
+1729;Gulpen-Wittem;Wijk 05 Epen;51
+1729;Gulpen-Wittem;Wijk 06 Slenaken;51
+158;Haaksbergen;Gemeente;
+158;Haaksbergen;Wijk 00 Haaksbergen (dorp);55
+158;Haaksbergen;Wijk 01 Haaksbergen (buitengebied);52
+158;Haaksbergen;Wijk 02 Sint Isidorushoeve;52
+158;Haaksbergen;Wijk 03 Buurse;57
+158;Haaksbergen;Wijk 04 Rietmolen;55
+158;Haaksbergen;Wijk 05 Hengevelde;56
+158;Haaksbergen;Wijk 06 Beckum;54
+158;Haaksbergen;Wijk 09 Haaksbergen-kern;53
+788;Haaren;Gemeente;
+788;Haaren;Wijk 01 Haaren;51
+788;Haaren;Wijk 02 Helvoirt;49
+788;Haaren;Wijk 03 Esch;51
+788;Haaren;Wijk 04 Biezenmortel;51
+392;Haarlem;Gemeente;
+392;Haarlem;Oude Stad;37
+392;Haarlem;Haarlemmerhoutkwartier;39
+392;Haarlem;Zijlwegkwartier;39
+392;Haarlem;Houtvaartkwartier;41
+392;Haarlem;Duinwijk;38
+392;Haarlem;Waarder- en Veerpolder;42
+392;Haarlem;Amsterdamsewijk;46
+392;Haarlem;Slachthuiswijk;50
+392;Haarlem;Parkwijk;51
+392;Haarlem;Transvaalwijk;39
+392;Haarlem;Indischewijk;44
+392;Haarlem;Ter Kleefkwartier;39
+392;Haarlem;Te Zaanenkwartier;41
+392;Haarlem;Vogelenwijk;46
+392;Haarlem;Delftwijk;49
+392;Haarlem;Vondelkwartier;49
+392;Haarlem;Spaarndam;49
+392;Haarlem;Europawijk;51
+392;Haarlem;Boerhaavewijk;54
+392;Haarlem;Molenwijk;51
+392;Haarlem;Meerwijk;54
+393;Haarlemmerliede en Spaarnwoude;Gemeente;
+393;Haarlemmerliede en Spaarnwoude;Wijk 00;47
+394;Haarlemmermeer;Gemeente;
+394;Haarlemmermeer;Hoofddorp;51
+394;Haarlemmermeer;Nieuw-Vennep;51
+394;Haarlemmermeer;Zwanenburg;52
+394;Haarlemmermeer;Lijnden / Boesingheliede;51
+394;Haarlemmermeer;Badhoevedorp;50
+394;Haarlemmermeer;Aalsmeerderbrug/ Oude Meer/ Rozenburg /;50
+394;Haarlemmermeer;Rijsenhout;51
+394;Haarlemmermeer;Burgerveen / Leimuiderbrug / Weteringbru;53
+394;Haarlemmermeer;Abbenes / Buitenkaag;54
+394;Haarlemmermeer;Lisserbroek;49
+394;Haarlemmermeer;Beinsdorp;49
+394;Haarlemmermeer;Zwaanshoek;46
+394;Haarlemmermeer;Cruquius;49
+394;Haarlemmermeer;Vijfhuizen;46
+394;Haarlemmermeer;Schiphol;42
+1655;Halderberge;Gemeente;
+1655;Halderberge;Wijk 01 Oud Gastel;56
+1655;Halderberge;Wijk 02 Stampersgat;60
+1655;Halderberge;Wijk 03 Oudenbosch;56
+1655;Halderberge;Wijk 04 Hoeven;54
+1655;Halderberge;Wijk 05 Bosschenhoofd;55
+160;Hardenberg;Gemeente;
+160;Hardenberg;Ane;53
+160;Hardenberg;Anerveen;52
+160;Hardenberg;Anevelde;55
+160;Hardenberg;Balkbrug;53
+160;Hardenberg;Bergentheim;51
+160;Hardenberg;Brucht;51
+160;Hardenberg;Collendoorn;51
+160;Hardenberg;De Krim;56
+160;Hardenberg;Dedemsvaart;52
+160;Hardenberg;Den Velde;53
+160;Hardenberg;Diffelen;53
+160;Hardenberg;Gramsbergen;57
+160;Hardenberg;Heemserveen;52
+160;Hardenberg;Holtheme;49
+160;Hardenberg;Holthone;50
+160;Hardenberg;Hoogenweg;51
+160;Hardenberg;Kloosterhaar;58
+160;Hardenberg;Loozen;54
+160;Hardenberg;Lutten;54
+160;Hardenberg;Marienberg;52
+160;Hardenberg;Radewijk;55
+160;Hardenberg;Rheeze;49
+160;Hardenberg;Rheezerveen;53
+160;Hardenberg;Schuinesloot;52
+160;Hardenberg;Sibculo;59
+160;Hardenberg;Slagharen;55
+160;Hardenberg;Venebrugge;51
+160;Hardenberg;Hardenberg;54
+160;Hardenberg;Bruchterveld;53
+243;Harderwijk;Gemeente;
+243;Harderwijk;Wijk 01 Binnenstad;45
+243;Harderwijk;Wijk 02 Waterstad;43
+243;Harderwijk;Wijk 03 Zeebuurt;53
+243;Harderwijk;Wijk 04 Friesegracht;47
+243;Harderwijk;Wijk 05 Stadsdennen;53
+243;Harderwijk;Wijk 06 De Sypel;49
+243;Harderwijk;Wijk 07 Stationsomgeving;55
+243;Harderwijk;Wijk 08 Stadsweiden;51
+243;Harderwijk;Wijk 09 Slingerbos;47
+243;Harderwijk;Wijk 10 Tweelingstad;52
+243;Harderwijk;Wijk 11 Frankrijk;50
+243;Harderwijk;Wijk 12 Drielanden;47
+243;Harderwijk;Wijk 13 Industrieterrein Lorentz;48
+243;Harderwijk;Wijk 14 Buitengebied Harderwijk;54
+243;Harderwijk;Wijk 15 Hierden;50
+523;Hardinxveld-Giessendam;Gemeente;
+523;Hardinxveld-Giessendam;Wijk 00;51
+17;Haren;Gemeente;
+17;Haren;Wijk 00 Centrum;46
+17;Haren;Wijk 01 Land;46
+72;Harlingen;Gemeente;
+72;Harlingen;Wijk 00 Harlingen;55
+72;Harlingen;Wijk 01 Midlum;56
+72;Harlingen;Wijk 02 Wijnaldum;55
+244;Hattem;Gemeente;
+244;Hattem;Wijk 00 Hattem;52
+244;Hattem;Wijk 01 Polder Hattem en Molecaten;47
+396;Heemskerk;Gemeente;
+396;Heemskerk;Wijk 01 Heemskerk-Dorp;52
+396;Heemskerk;Wijk 02 Commandeurs en Marquette;49
+396;Heemskerk;Wijk 03 Hofland, Oosterwijk en Zuidbroek;53
+396;Heemskerk;Wijk 04 Heemskerkerduin en Noorddorp;44
+396;Heemskerk;Wijk 05 Poelenburg en Oosterzij;53
+396;Heemskerk;Wijk 06 Noordbroek en De Trompet;49
+396;Heemskerk;Wijk 07 Kerkbeek;51
+396;Heemskerk;Wijk 08 Assumburg;49
+396;Heemskerk;Wijk 09 Hoogdorp en Waterakkers;50
+396;Heemskerk;Wijk 10 Broekpolder;48
+396;Heemskerk;Wijk 11 Oostelijk Heemskerk;
+397;Heemstede;Gemeente;
+397;Heemstede;Wijk 00 Heemstede-Centrum;43
+397;Heemstede;Wijk 01 Heemstede-Zuid;48
+397;Heemstede;Wijk 02 Heemstede west van de spoorbaan;39
+246;Heerde;Gemeente;
+246;Heerde;Wijk 00 Heerde;51
+246;Heerde;Wijk 01 Wapenveld;53
+74;Heerenveen;Gemeente;
+74;Heerenveen;Wijk 01 Heerenveen;49
+74;Heerenveen;Wijk 02 Noord-Heerenveen;46
+74;Heerenveen;Wijk 03 Hoornsterzwaag;49
+74;Heerenveen;Wijk 04 Jubbega;52
+74;Heerenveen;Wijk 06 Oranjewoud;49
+74;Heerenveen;Skarsterlân;48
+74;Heerenveen;Boarnsterhim;48
+398;Heerhugowaard;Gemeente;
+398;Heerhugowaard;Wijk 01 Schrijverswijk;52
+398;Heerhugowaard;Wijk 02 Schilderswijk;54
+398;Heerhugowaard;Wijk 04 Planetenwijk;53
+398;Heerhugowaard;Wijk 06 Bomen- Recreatiewijk;53
+398;Heerhugowaard;Wijk 07 Heemradenwijk;51
+398;Heerhugowaard;Wijk 08 Edelstenenwijk;51
+398;Heerhugowaard;Wijk 09 Stadshart;54
+398;Heerhugowaard;Wijk 10 Molenwijk;51
+398;Heerhugowaard;Wijk 11 Rivierenwijk;50
+398;Heerhugowaard;Wijk 12 Bedrijventerrein;49
+398;Heerhugowaard;Wijk 13 Butterhuizen;47
+398;Heerhugowaard;Wijk 14 Oostertocht;49
+398;Heerhugowaard;Wijk 15 Zuidwijk;47
+398;Heerhugowaard;Wijk16 Huygenhoek;46
+398;Heerhugowaard;Wijk 17 Stad van de Zon;45
+398;Heerhugowaard;Wijk 18 De Draai;48
+398;Heerhugowaard;Wijk 19 Broekhorn;42
+398;Heerhugowaard;Wijk 20 De Noord;46
+398;Heerhugowaard;Wijk 30 Buitengebied Noord;45
+398;Heerhugowaard;Wijk 40 't Kruis;47
+398;Heerhugowaard;Wijk 50 Buitengebied Zuid;41
+917;Heerlen;Gemeente;
+917;Heerlen;Wijk 10 Maria Gewanden en Terschuren;58
+917;Heerlen;Wijk 11 Mariarade;58
+917;Heerlen;Wijk 12 Hoensbroek-De Dem;59
+917;Heerlen;Wijk 13 Nieuw Lotbroek;58
+917;Heerlen;Wijk 14 De Koumen;58
+917;Heerlen;Wijk 20 Vrieheide-De Stack;60
+917;Heerlen;Wijk 21 Heerlerheide-Passart;61
+917;Heerlen;Wijk 22 Heksenberg;58
+917;Heerlen;Wijk 23 De Hei;58
+917;Heerlen;Wijk 24 Rennemig-Beersdal;57
+917;Heerlen;Wijk 30 Zeswegen-Nieuw Husken;56
+917;Heerlen;Wijk 31 Schandelen-Grasbroek;54
+917;Heerlen;Wijk 32 Meezenbroek-Schaesbergerveld;56
+917;Heerlen;Wijk 33 Heerlen-Centrum;48
+917;Heerlen;Wijk 34 Eikenderveld;54
+917;Heerlen;Wijk 35 Woonboulevard-Ten Esschen;54
+917;Heerlen;Wijk 36 Welten-Benzenrade;52
+917;Heerlen;Wijk 37 Bekkerveld;47
+917;Heerlen;Wijk 38 Caumerveld-Douve Weien;49
+917;Heerlen;Wijk 39 Molenberg;54
+917;Heerlen;Wijk 40 Heerlerbaan-Centrum;57
+917;Heerlen;Wijk 41 Heerlerbaan-Schil;52
+917;Heerlen;Wijk 41 De Beitel;48
+1658;Heeze-Leende;Gemeente;
+1658;Heeze-Leende;Wijk 00 Heeze;48
+1658;Heeze-Leende;Wijk 01 Leende;48
+1658;Heeze-Leende;Wijk 02 Leenderstrijp;45
+1658;Heeze-Leende;Wijk 03 Sterksel;50
+399;Heiloo;Gemeente;
+399;Heiloo;Wijk 01 Blockhovepark;41
+399;Heiloo;Wijk 02 Heiloo Noord-West;41
+399;Heiloo;Wijk 03 Heiloo-Midden;42
+399;Heiloo;Wijk 04 Heiloo-West;45
+399;Heiloo;Wijk 05 Stationsomgeving;44
+399;Heiloo;Wijk 06 Ypestein;43
+399;Heiloo;Wijk 07 Heiloo-Oost;46
+399;Heiloo;Wijk 08 Heiloo Zuid-West;42
+163;Hellendoorn;Gemeente;
+163;Hellendoorn;Wijk 01 Hellendoorn;53
+163;Hellendoorn;Wijk 02 Nijverdal Noord;52
+163;Hellendoorn;Wijk 03 Nijverdal West;55
+163;Hellendoorn;Wijk 04 Nijverdal Oost;56
+163;Hellendoorn;Wijk 05 Buitengebied;52
+163;Hellendoorn;Wijk 06 Kruidenwijk;49
+163;Hellendoorn;Wijk 07 Haarle;54
+163;Hellendoorn;Wijk 08 Daarle;57
+163;Hellendoorn;Wijk 09 Daarlerveen;61
+530;Hellevoetsluis;Gemeente;
+530;Hellevoetsluis;Wijk 00 Hellevoet;56
+530;Hellevoetsluis;Wijk 01 Nieuw-Helvoet;56
+530;Hellevoetsluis;Wijk 02 Nieuwenhoorn;55
+530;Hellevoetsluis;Wijk 03 De Struyten;56
+530;Hellevoetsluis;Wijk 04 De Kooistee;55
+530;Hellevoetsluis;Wijk 05 Den Bonsen Hoek;54
+530;Hellevoetsluis;Wijk 06 Ravense Hoek;52
+530;Hellevoetsluis;Wijk 07 Centrumgebied;60
+530;Hellevoetsluis;Wijk 08 Kickers Bloem;45
+530;Hellevoetsluis;Wijk 09 Buitengebied;52
+794;Helmond;Gemeente;
+794;Helmond;Wijk 10 Binnenstad;52
+794;Helmond;Wijk 11 Helmond-Oost;55
+794;Helmond;Wijk 12 Helmond-Noord;55
+794;Helmond;Wijk 13 't Hout;52
+794;Helmond;Wijk 14 Brouwhuis;53
+794;Helmond;Wijk 15 Helmond-West;54
+794;Helmond;Wijk 16 Warande;47
+794;Helmond;Wijk 17 Stiphout;49
+794;Helmond;Wijk 18 Rijpelberg;54
+794;Helmond;Wijk 19 Dierdonk;49
+794;Helmond;Wijk 21 Brandevoort;47
+794;Helmond;Wijk 29 Industriegebied Zuid;54
+531;Hendrik-Ido-Ambacht;Gemeente;
+531;Hendrik-Ido-Ambacht;Wijk 01 Centrum;52
+531;Hendrik-Ido-Ambacht;Wijk 02 Krommeweg;53
+531;Hendrik-Ido-Ambacht;Wijk 03 De Volgerlanden;50
+531;Hendrik-Ido-Ambacht;Wijk 04 Sandelingen-Ambacht;50
+531;Hendrik-Ido-Ambacht;Wijk 05 De Oevers;50
+164;Hengelo;Gemeente;
+164;Hengelo;Wijk 00 Binnenstad;47
+164;Hengelo;Wijk 01 Hengelose Es;52
+164;Hengelo;Wijk 02 Noord;50
+164;Hengelo;Wijk 03 Hasseler Es;54
+164;Hengelo;Wijk 04 Groot Driene;53
+164;Hengelo;Wijk 05 Berflo Es;52
+164;Hengelo;Wijk 06 Wilderinkshoek;53
+164;Hengelo;Wijk 07 Woolde;51
+164;Hengelo;Wijk 08 Slangenbeek;51
+164;Hengelo;Wijk 09 Buitengebied;52
+63;het Bildt;Gemeente;
+63;het Bildt;Wijk 00 West;54
+63;het Bildt;Wijk 01 Oost;52
+63;het Bildt;Wijk 02 Zuid;50
+252;Heumen;Gemeente;
+252;Heumen;Wijk 00 Heumen;47
+252;Heumen;Wijk 01 Overasselt;48
+797;Heusden;Gemeente;
+797;Heusden;Wijk 01 Drunen;53
+797;Heusden;Wijk 02 Elshout;49
+797;Heusden;Wijk 03 Haarsteeg;48
+797;Heusden;Wijk 04 Nieuwkuijk;51
+797;Heusden;Wijk 05 Vlijmen;50
+797;Heusden;Wijk 06 Doeveren;50
+797;Heusden;Wijk 07 Hedikthuizen;49
+797;Heusden;Wijk 08 Heesbeen;51
+797;Heusden;Wijk 09 Herpt;50
+797;Heusden;Wijk 10 Heusden;53
+797;Heusden;Wijk 11 Oudheusden;55
+534;Hillegom;Gemeente;
+534;Hillegom;Centrum;50
+534;Hillegom;Noord;47
+534;Hillegom;Elsbroek;51
+534;Hillegom;Buitengebied;50
+798;Hilvarenbeek;Gemeente;
+798;Hilvarenbeek;Wijk 00 Hilvarenbeek;51
+798;Hilvarenbeek;Wijk 01 Esbeek;51
+798;Hilvarenbeek;Wijk 02 Biest-Houtakker;48
+798;Hilvarenbeek;Wijk 03 Diessen;52
+798;Hilvarenbeek;Wijk 04 Haghorst;48
+402;Hilversum;Gemeente;
+402;Hilversum;Wijk 01 Centrum;41
+402;Hilversum;Wijk 02 Noordwest;38
+402;Hilversum;Wijk 03 Zuidwest;48
+402;Hilversum;Wijk 04 Zuid;44
+402;Hilversum;Wijk 05 Zuidoost;44
+402;Hilversum;Wijk 06 Oost;46
+402;Hilversum;Wijk 07 Noordoost;44
+402;Hilversum;Wijk 08 Hilversumse Meent;46
+402;Hilversum;Wijk 09 Landelijk gebied;45
+1735;Hof van Twente;Gemeente;
+1735;Hof van Twente;Wijk 00 Goor;56
+1735;Hof van Twente;Wijk 01 De Whee II;54
+1735;Hof van Twente;Wijk 02 Markelo;53
+1735;Hof van Twente;Wijk 03 Verspr.h. Kerspel en omgeving;53
+1735;Hof van Twente;Wijk 04 Elsen;52
+1735;Hof van Twente;Wijk 05 Diepenheim;54
+1735;Hof van Twente;Wijk 06 Delden;51
+1735;Hof van Twente;Wijk 07 Overig Delden;51
+1735;Hof van Twente;Wijk 08 Hengevelde;52
+1735;Hof van Twente;Wijk 09 Bentelo;52
+1911;Hollands Kroon;Gemeente;
+1911;Hollands Kroon;Wijk 00 Winkel;48
+1911;Hollands Kroon;Wijk 01 Nieuwe-Niedorp;49
+1911;Hollands Kroon;Wijk 02 Oude-Niedorp;47
+1911;Hollands Kroon;Wijk 03 Barsingerhorn en omgeving;49
+1911;Hollands Kroon;Wijk 04 Wieringen;54
+1911;Hollands Kroon;Wijk 05 Wieringermeer;53
+1911;Hollands Kroon;Wijk 06;52
+1911;Hollands Kroon;Wijk 07 Wieringerwaard en omgeving;52
+118;Hoogeveen;Gemeente;
+118;Hoogeveen;Wijk 50 Hoogeveen;55
+118;Hoogeveen;Wijk 51 De Weide;51
+118;Hoogeveen;Wijke 52 Fluitenberg;54
+118;Hoogeveen;Wijk 53 Elim;57
+118;Hoogeveen;Wijk 54 Hollandscheveld;55
+118;Hoogeveen;Wijk 55 Noordscheschut;54
+118;Hoogeveen;Wijk 56 Nieuwlande;55
+118;Hoogeveen;Wijk 57 Nieuweroord;54
+118;Hoogeveen;Wijk 58 Tiendeveen;57
+118;Hoogeveen;Wijk 59 Stuifzand;55
+118;Hoogeveen;Wijk 60 Pesse;55
+118;Hoogeveen;Wijk 61 Zuideropgaande Nieuw Moscou;53
+118;Hoogeveen;Wijk 62 Industrie- en verspr. gebieden;50
+18;Hoogezand-Sappemeer;Gemeente;
+18;Hoogezand-Sappemeer;Wijk 01 Foxham en Hoogezand-Noord;56
+18;Hoogezand-Sappemeer;Wijk 02 Hoogezand-Zuid;57
+18;Hoogezand-Sappemeer;Wijk 03 Kalkwijk;54
+18;Hoogezand-Sappemeer;Wijk 05 Kiel-Windeweer;55
+18;Hoogezand-Sappemeer;Wijk 06 Kropswolde;51
+18;Hoogezand-Sappemeer;Wijk 07 Foxhol;59
+18;Hoogezand-Sappemeer;Wijk 08 Westerbroek;55
+18;Hoogezand-Sappemeer;Wijk 09 Waterhuizen;50
+18;Hoogezand-Sappemeer;Wijk 11 Sappemeer;57
+405;Hoorn;Gemeente;
+405;Hoorn;Wijk 10 Binnenstad;46
+405;Hoorn;Wijk 11 Venenlaan-kwartier;50
+405;Hoorn;Wijk 12 Hoorn-Noord;50
+405;Hoorn;Wijk 13 Grote Waal;51
+405;Hoorn;Wijk 20 Risdam-Zuid;53
+405;Hoorn;Wijk 21 Risdam-Noord;52
+405;Hoorn;Wijk 22 Nieuwe Steen;48
+405;Hoorn;Wijk 30 Zwaag;50
+405;Hoorn;Wijk 31 Blokker;51
+405;Hoorn;Wijk 32 Kersenboogerd-Noord;52
+405;Hoorn;Wijk 33 Kersenboogerd-Zuid;51
+405;Hoorn;Wijk 34 Hoorn 80;48
+405;Hoorn;Wijk 35 Bangert en Oosterpolder;45
+1507;Horst aan de Maas;Gemeente;
+1507;Horst aan de Maas;Wijk 00 Griendtsveen;52
+1507;Horst aan de Maas;Wijk 01 America;51
+1507;Horst aan de Maas;Wijk 02 Meterik;48
+1507;Horst aan de Maas;Wijk 03 Hegelsom;52
+1507;Horst aan de Maas;Wijk 04 Horst;49
+1507;Horst aan de Maas;Wijk 05 Melderslo;51
+1507;Horst aan de Maas;Wijk 06 Broekhuizen;53
+1507;Horst aan de Maas;Wijk 07 Lottum;50
+1507;Horst aan de Maas;Wijk 08 Grubbenvorst;53
+1507;Horst aan de Maas;Wijk 09 Broekhuizen;53
+1507;Horst aan de Maas;Wijk 10 Sevenum;50
+1507;Horst aan de Maas;Wijk 11 Kronenberg;52
+1507;Horst aan de Maas;Wijk 12 Evertsoorsd;45
+1507;Horst aan de Maas;Wijk 13 Meerlo;53
+1507;Horst aan de Maas;Wijk 14 Tienray;57
+1507;Horst aan de Maas;Wijk 15 Swolgen;53
+321;Houten;Gemeente;
+321;Houten;Wijk 10 Houten Noord-West;47
+321;Houten;Wijk 11 Houten Noord-Oost;47
+321;Houten;Wijk 12 Houten Zuid-West;44
+321;Houten;Wijk 13 Houten Zuid-Oost;45
+321;Houten;Wijk 20 Houten Buitengebied;44
+321;Houten;Wijk 30 't Goy;51
+321;Houten;Wijk 31 't Goy Buitengebied;48
+321;Houten;Wijk 40 Tull en 't waal;50
+321;Houten;Wijk 41 Tull en 't Waal Buitengebied;46
+321;Houten;Wijk 50 Schalkwijk;48
+321;Houten;Wijk 51 Schalkwijk Buitengebied;46
+406;Huizen;Gemeente;
+406;Huizen;Wijk 00 Oude Dorp;47
+406;Huizen;Wijk 01 Westereng;48
+406;Huizen;Wijk 02 Buitenwijken;38
+406;Huizen;Wijk 03 Erica en Tafelberg;40
+406;Huizen;Wijk 04 Staatslieden en Componistenbuurt;44
+406;Huizen;Wijk 05 Havengebied;47
+406;Huizen;Wijk 06 Zenderwijk en Bovenweg;48
+406;Huizen;Wijk 07 Stad en Lande;49
+406;Huizen;Wijk 08 Huizermaat West en Zuid;49
+406;Huizen;Wijk 09 Huizermaat Noord;48
+406;Huizen;Wijk 10 Bijvanck;48
+406;Huizen;Wijk 11 Bovenmaten;48
+406;Huizen;Wijk 12 Hogemaat;48
+677;Hulst;Gemeente;
+677;Hulst;Wijk 01 Hulst;54
+677;Hulst;Wijk 02 St. Jansteen;53
+677;Hulst;Wijk 03 Clinge;55
+677;Hulst;Wijk 04 Grauw;55
+677;Hulst;Wijk 05 Heikant;53
+677;Hulst;Wijk 06 Nieuw Namen;55
+677;Hulst;Wijk 07 Kapellebrug;53
+677;Hulst;Wijk 08 Kloosterzande;53
+677;Hulst;Wijk 09 Lamswaarde;53
+677;Hulst;Wijk 10 Ter Hole;56
+677;Hulst;Wijk 11 Vogelwaarde;54
+677;Hulst;Wijk 12 Hengstdijk;55
+677;Hulst;Wijk 13 Ossenisse;53
+353;IJsselstein;Gemeente;
+353;IJsselstein;Wijk 00 IJsselstein;51
+1884;Kaag en Braassem;Gemeente;
+1884;Kaag en Braassem;Wijk 00 Roelofarendsveen;52
+1884;Kaag en Braassem;Wijk 01 Overig Alkemade;51
+1884;Kaag en Braassem;Wijk 02 Woubrugge;53
+1884;Kaag en Braassem;Wijk 03 Rijnsaterwoude;54
+1884;Kaag en Braassem;Wijk 04 Leimuiden;52
+166;Kampen;Gemeente;
+166;Kampen;Wijk 00 Kampen;52
+166;Kampen;Wijk 03 IJsselmuiden;53
+166;Kampen;Wijk 04 Zalk;48
+166;Kampen;Wijk 05 Wilsum;57
+166;Kampen;Wijk 06 Grafhorst;52
+166;Kampen;Wijk 07 Kamperveen;50
+166;Kampen;Wijk 08 's-Heerenhoek;49
+166;Kampen;Wijk 09 Verspreide huizen;45
+678;Kapelle;Gemeente;
+678;Kapelle;Wijk 00 Kapelle;49
+678;Kapelle;Wijk 01 Wemeldinge;53
+678;Kapelle;Wijk 02 Schore;53
+537;Katwijk;Gemeente;
+537;Katwijk;Wijk 01 Katwijk Noord;55
+537;Katwijk;Wijk 02 't Heen;54
+537;Katwijk;Wijk 03 Katwijk aan den Rijn;55
+537;Katwijk;Wijk 04 Katwijk Midden;58
+537;Katwijk;Wijk 05 Katwijk aan Zee;55
+537;Katwijk;Wijk 06 Landelijk gebied Katwijk;53
+537;Katwijk;Wijk 07 Rijnsburg;51
+537;Katwijk;Wijk 08 Valkenburg;50
+928;Kerkrade;Gemeente;
+928;Kerkrade;Wijk 00 Kerkrade-West;58
+928;Kerkrade;Wijk 01 Kerkrade-Oost;58
+928;Kerkrade;Wijk 02 Kerkrade-Noord;57
+1598;Koggenland;Gemeente;
+1598;Koggenland;Wijk 00 Westerkoggenland;47
+1598;Koggenland;Wijk 01 Spierdijk;47
+1598;Koggenland;Wijk 02 Zuidermeer;47
+1598;Koggenland;Wijk 03 Ursem;47
+1598;Koggenland;Wijk 04 Avenhorn;48
+1598;Koggenland;Wijk 05 Oudendijk;50
+1598;Koggenland;Wijk 06 Obdam;48
+1598;Koggenland;Wijk 07 Hensbroek;49
+79;Kollumerland en Nieuwkruisland;Gemeente;
+79;Kollumerland en Nieuwkruisland;Wijk 00 Kollum;59
+79;Kollumerland en Nieuwkruisland;Wijk 01 Oost;55
+79;Kollumerland en Nieuwkruisland;Wijk 02 Noordwest;54
+79;Kollumerland en Nieuwkruisland;Wijk 03 Zuidwest;55
+588;Korendijk;Gemeente;
+588;Korendijk;Wijk 00 Nieuw-Beijerland;53
+588;Korendijk;Wijk 01 Piershil;55
+588;Korendijk;Wijk 02 Goudswaard;54
+588;Korendijk;Wijk 03 Zuid-Beijerland;57
+542;Krimpen aan den IJssel;Gemeente;
+542;Krimpen aan den IJssel;Wijk 00 Krimpen aan den IJssel;54
+1931;Krimpenerwaard;Gemeente;
+1931;Krimpenerwaard;Wijk 00 Lekkerkerk;55
+1931;Krimpenerwaard;Wijk 01 Krimpen aan de Lek;55
+1931;Krimpenerwaard;Wijk 02 Ouderkerk aan den IJssel;53
+1931;Krimpenerwaard;Wijk 03 Gouderak;54
+1931;Krimpenerwaard;Wijk 04 Bergambacht;54
+1931;Krimpenerwaard;Wijk 05 Bergstoep;52
+1931;Krimpenerwaard;Wijk 06 Ammerstol;55
+1931;Krimpenerwaard;Wijk 07 Berkenwoude;52
+1931;Krimpenerwaard;Wijk 08 Haastrecht;51
+1931;Krimpenerwaard;Wijk 10 Stolwijk;53
+1931;Krimpenerwaard;Wijk 11 Vlist;52
+1931;Krimpenerwaard;Wijk 12 Schoonhoven;51
+1659;Laarbeek;Gemeente;
+1659;Laarbeek;Wijk 00 Beek en Donk;50
+1659;Laarbeek;Wijk 01 Aarle-Rixtel;49
+1659;Laarbeek;Wijk 02 Lieshout;52
+1659;Laarbeek;Wijk 03 Mariahout;50
+1685;Landerd;Gemeente;
+1685;Landerd;Wijk 00 Schaijk;51
+1685;Landerd;Wijk 01 Reek;52
+1685;Landerd;Wijk 02 Zeeland;49
+1685;Landerd;Wijk 09 Verspreide huizen Zeeland;49
+882;Landgraaf;Gemeente;
+882;Landgraaf;Wijk 00 Schaesberg;56
+882;Landgraaf;Wijk 01 Nieuwenhagen;56
+882;Landgraaf;Wijk 02 Ubach over Worms;56
+415;Landsmeer;Gemeente;
+415;Landsmeer;Wijk 00 Landsmeer;49
+415;Landsmeer;Wijk 01 Ilpendam;49
+416;Langedijk;Gemeente;
+416;Langedijk;Wijk 00;48
+1621;Lansingerland;Gemeente;
+1621;Lansingerland;Wijk 11 Bergschenhoek;51
+1621;Lansingerland;Wijk 12 De Ackers;47
+1621;Lansingerland;Wijk 13 Boterdorp;49
+1621;Lansingerland;Wijk 14;42
+1621;Lansingerland;Wijk 15 Oosteindsche Polder;49
+1621;Lansingerland;Wijk 21 Berkel;51
+1621;Lansingerland;Wijk 22 Noordpolder;52
+1621;Lansingerland;Wijk 23 Meerpolder;50
+1621;Lansingerland;Wijk 24 Noordeinde;47
+1621;Lansingerland;Wijk 25 Zuidpolder;50
+1621;Lansingerland;Wijk 26 De Wadden;47
+1621;Lansingerland;Wijk 27 Westpolder;46
+1621;Lansingerland;Wijk 28 Rodenrijs;48
+1621;Lansingerland;Wijk 31 Bleiswijk;52
+1621;Lansingerland;Wijk 32 Hoekeindse Zoom;50
+1621;Lansingerland;Wijk 33 Bleiswijk Buiten;45
+417;Laren;Gemeente;
+417;Laren;Wijk 00;43
+22;Leek;Gemeente;
+22;Leek;Wijk 00 Leek;54
+22;Leek;Wijk 01 Zevenhuizen;52
+22;Leek;Wijk 02 Tolbert;54
+22;Leek;Wijk 04 Midwolde;51
+22;Leek;Wijk 05 Lettelbert;48
+22;Leek;Wijk 06 Oostwold;52
+22;Leek;Wijk 07 Enumatil;50
+545;Leerdam;Gemeente;
+545;Leerdam;Wijk 00 Leerdam;53
+80;Leeuwarden;Gemeente;
+80;Leeuwarden;Wijk 10 Binnenstad;41
+80;Leeuwarden;Wijk 20 Transvaalwijk & Rengerspark;45
+80;Leeuwarden;Wijk 21 Bilgaard & Havankpark e.o.;52
+80;Leeuwarden;Wijk 22 Vrijheidswijk;52
+80;Leeuwarden;Wijk 23 Lekkum e.o.;50
+80;Leeuwarden;Wijk 24 Blitsaerd;46
+80;Leeuwarden;Wijk 30 Oldegalileën & Bloemenbuurt;46
+80;Leeuwarden;Wijk 31 Tjerk Hiddes & Cambuursterhoek;49
+80;Leeuwarden;Wijk 32 Vlietzone;44
+80;Leeuwarden;Wijk 33 Oranjewijk & Tulpenburg;42
+80;Leeuwarden;Wijk 34 Heechterp;49
+80;Leeuwarden;Wijk 35 Schieringen & De Centrale;48
+80;Leeuwarden;Wijk 36 Camminghaburen;51
+80;Leeuwarden;Wijk 37 Grote Wielen & De Groene Ster;53
+80;Leeuwarden;Wijk 38 Bedrijventerreinen-Oost;51
+80;Leeuwarden;Wijk 40 Achter de Hoven;48
+80;Leeuwarden;Wijk 41 Schepenbuurt;51
+80;Leeuwarden;Wijk 42 Wielenpôlle;53
+80;Leeuwarden;Wijk 43 Huizum-Oost;50
+80;Leeuwarden;Wijk 44 Huizum-West;48
+80;Leeuwarden;Wijk 45 Aldlân;52
+80;Leeuwarden;Wijk 46 Nijlân;49
+80;Leeuwarden;Wijk 50 Hempens/Teerns e.o. & Zuiderbure;49
+80;Leeuwarden;Wijk 51 Wirdum & Swichum e.o.;50
+80;Leeuwarden;Wijk 52 Wytgaard e.o.;48
+80;Leeuwarden;Wijk 53 Goutum e.o.;49
+80;Leeuwarden;Wijk 54 Techum;43
+80;Leeuwarden;Wijk 56 Wiarda;
+80;Leeuwarden;Wijk 58 De Werp;
+80;Leeuwarden;Wijk 60 De Zwette;42
+80;Leeuwarden;Wijk 61 Vossepark & Helicon;45
+80;Leeuwarden;Wijk 62 Vogelwijk & Muziekwijk;45
+80;Leeuwarden;Wijk 63 Valeriuskwartier & Magere Weide;43
+80;Leeuwarden;Wijk 64 Westeinde;51
+80;Leeuwarden;Wijk 65 Buitengebied Noordwest;48
+80;Leeuwarden;Wijk 69 De Zuidlanden;
+80;Leeuwarden;Wijk 70 Wergea & Warten e.o.;53
+80;Leeuwarden;Wijk 71 Reduzum e.o.;47
+80;Leeuwarden;Wijk 72 Grou e.o.;49
+80;Leeuwarden;Wijk 73 Jirnsum e.o.;49
+81;Leeuwarderadeel;Gemeente;
+81;Leeuwarderadeel;Wijk 00 Noord;54
+81;Leeuwarderadeel;Wijk 01 Zuid;53
+546;Leiden;Gemeente;
+546;Leiden;Binnenstad-Zuid;30
+546;Leiden;Binnenstad-Noord;36
+546;Leiden;Stationsdistrict;34
+546;Leiden;Leiden-Noord;47
+546;Leiden;Roodenburgerdistrict;41
+546;Leiden;Bos- en Gasthuisdistrict;46
+546;Leiden;Morsdistrict;44
+546;Leiden;Boerhaavedistrict;33
+546;Leiden;Merenwijkdistrict;47
+546;Leiden;Stevenshofdistrict;51
+547;Leiderdorp;Gemeente;
+547;Leiderdorp;Wijk 00;51
+547;Leiderdorp;Wijk 01;48
+547;Leiderdorp;Wijk 02;51
+1916;Leidschendam-Voorburg;Gemeente;
+1916;Leidschendam-Voorburg;Wijk 01 Park Veursehout;49
+1916;Leidschendam-Voorburg;Wijk 02 Prinsenhof;55
+1916;Leidschendam-Voorburg;Wijk 03 't Lien en omgeving;50
+1916;Leidschendam-Voorburg;Wijk 04 Stompwijk;44
+1916;Leidschendam-Voorburg;Wijk 05 Leidschendam-Centrum;51
+1916;Leidschendam-Voorburg;Wijk 06 De Heuvel en omgeving;53
+1916;Leidschendam-Voorburg;Wijk 07 Damsigt en omgeving;46
+1916;Leidschendam-Voorburg;Wijk 08 Essesteijn;48
+1916;Leidschendam-Voorburg;Wijk 09 Voorburg Midden;47
+1916;Leidschendam-Voorburg;Wijk 10 Bovenveen;48
+1916;Leidschendam-Voorburg;Wijk 11 Voorburg Noord;45
+1916;Leidschendam-Voorburg;Wijk 12 Voorburg West;42
+995;Lelystad;Gemeente;
+995;Lelystad;Zuiderzeewijk;57
+995;Lelystad;Atolwijk;59
+995;Lelystad;BD Bedrijven Lelystad Noord;48
+995;Lelystad;Centrumzone Wijk1;57
+995;Lelystad;Overijsselse Hout, Gelderse Hout;51
+995;Lelystad;Industrieterrein Oostervaart;50
+995;Lelystad;Schepenwijk Noord;53
+995;Lelystad;Schepenwijk Oost;56
+995;Lelystad;Schepenwijk West;52
+995;Lelystad;Schepenwijk Zuid;55
+995;Lelystad;Houtribhoogte;51
+995;Lelystad;Zuigerplaspark;51
+995;Lelystad;Landstrekenwijk;51
+995;Lelystad;Villapark Hollandse Hout;48
+995;Lelystad;Lelystad-Haven;50
+995;Lelystad;Uilenweg;53
+995;Lelystad;Industrieterrein Noordersluis;49
+995;Lelystad;Boswijk;56
+995;Lelystad;Waterwijk;55
+995;Lelystad;Landerijen;51
+995;Lelystad;Warande Noord;46
+995;Lelystad;Warande West;58
+995;Lelystad;Warande Oost;32
+995;Lelystad;Industrieterrein Flevopoort;51
+995;Lelystad;Stadscentrum Noord;56
+995;Lelystad;Stadscentrum Zuid;50
+995;Lelystad;Stadscentrum, Het Ravelijn;60
+995;Lelystad;Visvijverbos;44
+995;Lelystad;Runderweg;47
+995;Lelystad;Zeeasterweg;37
+995;Lelystad;Vlotgrasweg;59
+995;Lelystad;Eendenweg;44
+995;Lelystad;Vogelweg;35
+995;Lelystad;Pijlstaartweg;37
+995;Lelystad;Oostvaardersplassen;
+1640;Leudal;Gemeente;
+1640;Leudal;Heythuysen;50
+1640;Leudal;Heibloem;52
+1640;Leudal;Roggel;48
+1640;Leudal;Neer;52
+1640;Leudal;Nunhem;53
+1640;Leudal;Haelen;51
+1640;Leudal;Buggenum;51
+1640;Leudal;Horn;51
+1640;Leudal;Baexem;52
+1640;Leudal;Kelpen-Oler;49
+1640;Leudal;Grathem;52
+1640;Leudal;Ell;49
+1640;Leudal;Haler;48
+1640;Leudal;Hunsel;51
+1640;Leudal;Neeritter;54
+1640;Leudal;Ittervoort;54
+327;Leusden;Gemeente;
+327;Leusden;Wijk 00 Leusden-Centrum Oost;47
+327;Leusden;Wijk 01 Leusden-Centrum West;47
+327;Leusden;Wijk 02 Leusden-Zuid;43
+327;Leusden;Wijk 03 Achterveld;44
+327;Leusden;Wijk 04 Stoutenburg;43
+327;Leusden;Wijk 05 't Ruige Veld;46
+733;Lingewaal;Gemeente;
+733;Lingewaal;Wijk 00 Asperen;54
+733;Lingewaal;Wijk 01 Heukelum;54
+733;Lingewaal;Wijk 02 Vuren;55
+733;Lingewaal;Wijk 03 Herwijnen;54
+1705;Lingewaard;Gemeente;
+1705;Lingewaard;Wijk 00 Bemmel;54
+1705;Lingewaard;Wijk 01 Gendt;56
+1705;Lingewaard;Wijk 02 Huissen;52
+553;Lisse;Gemeente;
+553;Lisse;Wijk 01 De Loosters;50
+553;Lisse;Wijk 02 Halfweg;50
+553;Lisse;Wijk 03 Meer en Duin;46
+553;Lisse;Wijk 04 De Blinkerd;50
+553;Lisse;Wijk 05 Meerenburgh;51
+553;Lisse;Wijk 06 Oranjewijk;49
+553;Lisse;Wijk 07 Zeeheldenwijk;50
+553;Lisse;Wijk 08 Bloemenwijk;49
+553;Lisse;Wijk 09 Centrum;49
+553;Lisse;Wijk 10 Berkhout;52
+553;Lisse;Wijk 11 Van Rijckevorsel;46
+553;Lisse;Wijk 12 Componistenwijk;51
+553;Lisse;Wijk 13 Schilderswijk;52
+553;Lisse;Wijk 14 Vogelwijk;54
+553;Lisse;Wijk 15 Dever;48
+553;Lisse;Wijk 16 Geestwater;40
+553;Lisse;Wijk 17 Vrouwenpolder;48
+553;Lisse;Wijk 18 Lisse Rond;47
+553;Lisse;Wijk 19 De Engel;54
+553;Lisse;Wijk 20 Ter Beek;49
+553;Lisse;Wijk 21 Roovers Broek;47
+140;Littenseradiel;Gemeente;
+140;Littenseradiel;Wijk 00 Zuid;45
+140;Littenseradiel;Wijk 01 Noord;49
+140;Littenseradiel;Wijk 02 Mantgum;47
+140;Littenseradiel;Wijk 03;49
+140;Littenseradiel;Wijk 04;50
+262;Lochem;Gemeente;
+262;Lochem;Wijk 00 Lochem kern;51
+262;Lochem;Wijk 01 Lochem buitengebied;52
+262;Lochem;Wijk 02 Laren;50
+262;Lochem;Wijk 03 Barchem;52
+262;Lochem;Wijk 04 Gorssel;51
+262;Lochem;Wijk 01 Almen-Harfsen;50
+809;Loon op Zand;Gemeente;
+809;Loon op Zand;Wijk 10 Kaatsheuvel-West;55
+809;Loon op Zand;Wijk 20 Kaatsheuvel-Oost;54
+809;Loon op Zand;Wijk 30 Loon op Zand;54
+809;Loon op Zand;Wijk 40 De Moer;51
+331;Lopik;Gemeente;
+331;Lopik;Wijk 00 Lopik, Benschop en Polsbroek;50
+24;Loppersum;Gemeente;
+24;Loppersum;Wijk 00;56
+24;Loppersum;Wijk 01 Stedum;53
+24;Loppersum;Wijk 02 Middelstum;53
+24;Loppersum;Wijk 03 't Zandt;57
+168;Losser;Gemeente;
+168;Losser;Wijk 00 Losser;55
+168;Losser;Wijk 01 Glane;56
+168;Losser;Wijk 02 Overdinkel;62
+168;Losser;Wijk 03 De Lutte;54
+168;Losser;Wijk 04 Beuningen;51
+263;Maasdriel;Gemeente;
+263;Maasdriel;Wijk 00 Kerkdriel;54
+263;Maasdriel;Wijk 01 Ammerzoden;54
+263;Maasdriel;Wijk 02 Hedel;54
+263;Maasdriel;Wijk 03 Heerewaarden;58
+263;Maasdriel;Wijk 04 Rossum;57
+1641;Maasgouw;Gemeente;
+1641;Maasgouw;Wijk 00 Maasbracht;51
+1641;Maasgouw;Wijk 01 Linne;53
+1641;Maasgouw;Wijk 02 Stevensweert;54
+1641;Maasgouw;Wijk 03 Ohé en Laak;52
+1641;Maasgouw;Wijk 04 Thorn;53
+1641;Maasgouw;Wijk 05 Heel;54
+1641;Maasgouw;Wijk 06 Beegden;53
+1641;Maasgouw;Wijk 07 Wessem;54
+556;Maassluis;Gemeente;
+556;Maassluis;Wijk 01 Taanschuurpolder;53
+556;Maassluis;Wijk 02 Dijkpolder;56
+556;Maassluis;Sluispolder;54
+556;Maassluis;Wijk 04 Kapelpolder;55
+556;Maassluis;Wijk 05 Burgemeesterswijk;53
+556;Maassluis;Wijk 06 Steendijkpolder;54
+556;Maassluis;Wijk 07 Aalkeetpolder;49
+556;Maassluis;Wijk 08 Wilgenrijk;51
+935;Maastricht;Gemeente;
+935;Maastricht;Wijk 00 Centrum;37
+935;Maastricht;Wijk 01 Buitenwijk Zuidwest;46
+935;Maastricht;Wijk 02 Buitenwijk West;51
+935;Maastricht;Wijk 03 Buitenwijk Noordwest;52
+935;Maastricht;Wijk 04 Buitenwijk Oost;47
+935;Maastricht;Wijk 05 Buitenwijk Noordoost;53
+935;Maastricht;Wijk 06 Buitenwijk Zuidoost;50
+25;Marum;Gemeente;
+25;Marum;Wijk 00 Marum;54
+25;Marum;Wijk 01 De Wilp;53
+420;Medemblik;Gemeente;
+420;Medemblik;Wijk 00;52
+420;Medemblik;Wijk 01 Wognum;47
+420;Medemblik;Wijk 02 Nibbixwoud en Wijzend;49
+420;Medemblik;Wijk 03 Zwaagdijk-West;48
+420;Medemblik;Wijk 04 Noorder Koggenland;51
+420;Medemblik;Wijk 05 Sijbekarspel;48
+420;Medemblik;Wijk 06 Hauwert;47
+420;Medemblik;Wijk 07 Twisk;52
+420;Medemblik;Wijk 08 Opperdoes;51
+420;Medemblik;Wijk 09 Abbebroek;51
+420;Medemblik;Wijk 00 Andijk;53
+420;Medemblik;Wijk 11 Wervershoof;48
+420;Medemblik;Wijk 12 Zwaagdijk;46
+938;Meerssen;Gemeente;
+938;Meerssen;Wijk 00 Meerssen;53
+938;Meerssen;Wijk 01 Ulestraten;54
+938;Meerssen;Wijk 02 Bunde - Geulle;51
+1908;Menameradiel;Gemeente;
+1908;Menameradiel;Wijk 00 Bouwhoek West;50
+1908;Menameradiel;Wijk 01 Greidhoek;50
+1908;Menameradiel;Wijk 02 Tuinbouwgebied;51
+1908;Menameradiel;Wijk 03 Bouwhoek Noord;52
+1987;Menterwolde;Gemeente;
+1987;Menterwolde;Wijk 00 Zuidbroek;60
+1987;Menterwolde;Wijk 01 Noordbroek;62
+1987;Menterwolde;Wijk 02;62
+1987;Menterwolde;Wijk 03;61
+119;Meppel;Gemeente;
+119;Meppel;Centrum;48
+119;Meppel;Watertoren;51
+119;Meppel;Haveltermade;51
+119;Meppel;Koedijkslanden;52
+119;Meppel;Berggierslanden;45
+119;Meppel;Ezinge;51
+119;Meppel;Oosterboer;49
+119;Meppel;Nieuwveenselanden;45
+119;Meppel;Blankenstein;49
+119;Meppel;Industrieterrein Noord;53
+119;Meppel;Industrie Oevers;51
+119;Meppel;Verspreid gebied Meppel;47
+119;Meppel;Nijeveen;52
+119;Meppel;Rogat;50
+687;Middelburg;Gemeente;
+687;Middelburg;Middelburg-Centrum;44
+687;Middelburg;Middelburg-Noord;47
+687;Middelburg;Middelburg-Zuidwest;48
+687;Middelburg;Middelburg-Zuidoost;50
+687;Middelburg;Nieuw- en Sint Joosland;48
+687;Middelburg;Arnemuiden;49
+1842;Midden-Delfland;Gemeente;
+1842;Midden-Delfland;Wijk 00 Schipluiden;47
+1842;Midden-Delfland;Wijk 01 Maasland;50
+1731;Midden-Drenthe;Gemeente;
+1731;Midden-Drenthe;Wijk 00 Beilen;54
+1731;Midden-Drenthe;Wijk 01 Hijken;53
+1731;Midden-Drenthe;Wijk 02 Hooghalen;55
+1731;Midden-Drenthe;Wijk 03 Wijster;54
+1731;Midden-Drenthe;Wijk 04 Spier;55
+1731;Midden-Drenthe;Wijk 05 Drijber;56
+1731;Midden-Drenthe;Wijk 06 Smilde;55
+1731;Midden-Drenthe;Wijk 07 Bovensmilde;55
+1731;Midden-Drenthe;Wijk 08 Hoogersmilde;55
+1731;Midden-Drenthe;Wijk 09 Westerbork;53
+1731;Midden-Drenthe;Wijk 10 Elp;53
+1731;Midden-Drenthe;Wijk 11 Witteveen;55
+1731;Midden-Drenthe;Wijk 12 Nieuw-Balinge;56
+1731;Midden-Drenthe;Wijk 13 Nieuweroord;52
+1731;Midden-Drenthe;Wijk 14 Zwiggelte;52
+1731;Midden-Drenthe;Wijk 15 Orvelte;55
+1731;Midden-Drenthe;Wijk 16 De Broekstreek;54
+815;Mill en Sint Hubert;Gemeente;
+815;Mill en Sint Hubert;Wijk 00 Mill;50
+815;Mill en Sint Hubert;Wijk 01 Langenboom;47
+815;Mill en Sint Hubert;Wijk 02 Sint Hubert;49
+815;Mill en Sint Hubert;Wijk 03 Wilbertoord;47
+1709;Moerdijk;Gemeente;
+1709;Moerdijk;Wijk 00 Zevenbergen;55
+1709;Moerdijk;Wijk 01 Zevenbergschen Hoek;55
+1709;Moerdijk;Wijk 02 Langeweg;53
+1709;Moerdijk;Wijk 03 Klundert;57
+1709;Moerdijk;Wijk 04 Moerdijk;60
+1709;Moerdijk;Wijk 05 Noordhoek;55
+1709;Moerdijk;Wijk 06 Standdaarbuiten;56
+1709;Moerdijk;Wijk 07 Fijnaart;57
+1709;Moerdijk;Wijk 08 Heijningen;59
+1709;Moerdijk;Wijk 09 Willemstad;55
+1709;Moerdijk;Wijk 10 Helwijk;60
+1927;Molenwaard;Gemeente;
+1927;Molenwaard;Wijk 00 Nieuw-Lekkerland;54
+1927;Molenwaard;Wijk 01 Bleskensgraaf;50
+1927;Molenwaard;Wijk 02 Brandwijk;50
+1927;Molenwaard;Wijk 03 Goudriaan;50
+1927;Molenwaard;Wijk 04 Molenaarsgraaf;51
+1927;Molenwaard;Wijk 05 Ottoland;49
+1927;Molenwaard;Wijk 06 Oud-Alblas;49
+1927;Molenwaard;Wijk 07 Wijngaarden;50
+1927;Molenwaard;Wijk 08 Groot-Ammers;52
+1927;Molenwaard;Wijk 09 Langerak;52
+1927;Molenwaard;Wijk 10 Nieuwpoort;54
+1927;Molenwaard;Wijk 11 Streefkerk;52
+1955;Montferland;Gemeente;
+1955;Montferland;Wijk 00 's-Heerenberg;56
+1955;Montferland;Wijk 01 Brakel;54
+1955;Montferland;Wijk 02 Didam;55
+335;Montfoort;Gemeente;
+335;Montfoort;Wijk 00;50
+335;Montfoort;Wijk 01 Linschoten;47
+335;Montfoort;Wijk 02 Willeskop;47
+944;Mook en Middelaar;Gemeente;
+944;Mook en Middelaar;Wijk 00 Mook;48
+944;Mook en Middelaar;Wijk 01 Middelaar;51
+1740;Neder-Betuwe;Gemeente;
+1740;Neder-Betuwe;Wijk 00 Kesteren;54
+1740;Neder-Betuwe;Wijk 01 Echteld;57
+1740;Neder-Betuwe;Wijk 02 Dodewaard;59
+946;Nederweert;Gemeente;
+946;Nederweert;Wijk 01 Nederweert;49
+946;Nederweert;Wijk 02 Budschop;49
+946;Nederweert;Wijk 03 Ospel;49
+946;Nederweert;Wijk 04 Nederweert-Eind;49
+946;Nederweert;Wijk 05 Leveroy;49
+304;Neerijnen;Gemeente;
+304;Neerijnen;Wijk 00 Haaften;54
+304;Neerijnen;Wijk 01 Waardenburg en Opijnen;55
+304;Neerijnen;Wijk 02 Varik en Ophemert;57
+356;Nieuwegein;Gemeente;
+356;Nieuwegein;Wijk 01 Jutphaas Wijkersloot;51
+356;Nieuwegein;Wijk 02 Zuilenstein;53
+356;Nieuwegein;Wijk 03 Batau Zuid;51
+356;Nieuwegein;Wijk 04 Batau Boord;52
+356;Nieuwegein;Wijk 05 Doorslag;52
+356;Nieuwegein;Wijk 06 Huis de Geer;54
+356;Nieuwegein;Wijk 07 Blokhoeve;49
+356;Nieuwegein;Wijk 08 Galecop;54
+356;Nieuwegein;Wijk10 Fokkesteeg;52
+356;Nieuwegein;Wijk 11 Hoogzandveld;54
+356;Nieuwegein;Wijk 12 Lekboulevard;55
+356;Nieuwegein;Wijk 13 Vreeswijk;52
+356;Nieuwegein;Wijk 14 Merwestein;51
+356;Nieuwegein;Wijk 15 Park Oudegein;51
+356;Nieuwegein;Wijk 16 Zandveld;53
+356;Nieuwegein;Wijk 18 Het Klooster;47
+356;Nieuwegein;Wijk 20 Laagraven;52
+356;Nieuwegein;Wijk 21 Plettenburg;47
+356;Nieuwegein;Wijk 22 De Wiers;49
+356;Nieuwegein;Wijk 23 Hoge Landen;53
+356;Nieuwegein;Wijk 24 Stadscentrum;49
+569;Nieuwkoop;Gemeente;
+569;Nieuwkoop;Wijk 00;50
+569;Nieuwkoop;Wijk 01 Nieuwveen;51
+569;Nieuwkoop;Wijk 02 Zevenhoven;52
+569;Nieuwkoop;Wijk 03 Ter Aar;51
+267;Nijkerk;Gemeente;
+267;Nijkerk;Wijk 01 Nijkerk;50
+267;Nijkerk;Wijk 02 't Woud;49
+267;Nijkerk;Wijk 03 Nijkerkerveen;52
+267;Nijkerk;Wijk 04 Verspreide huizen Nijkerk;48
+267;Nijkerk;Wijk 05 Hoevelaken;47
+268;Nijmegen;Gemeente;
+268;Nijmegen;Wijk 01 Nijmegen-Centrum;31
+268;Nijmegen;Wijk 02 Nijmegen-Oost;33
+268;Nijmegen;Wijk 03 Nijmegen-Oud-West;42
+268;Nijmegen;Wijk 04 Nijmegen-Nieuw-West;44
+268;Nijmegen;Wijk 05 Nijmegen-Midden;40
+268;Nijmegen;Wijk 06 Nijmegen-Zuid;46
+268;Nijmegen;Wijk 07 Dukenburg;51
+268;Nijmegen;Wijk 08 Lindenholt;51
+268;Nijmegen;Wijk 09 Nijmegen-Noord;46
+1930;Nissewaard;Gemeente;
+1930;Nissewaard;Centrum;57
+1930;Nissewaard;Schiekamp;57
+1930;Nissewaard;Hoogwerf;57
+1930;Nissewaard;Vierambachten;57
+1930;Nissewaard;De Hoek;58
+1930;Nissewaard;Gildenwijk;57
+1930;Nissewaard;Groenewoud;58
+1930;Nissewaard;Sterrenkwartier;58
+1930;Nissewaard;Schenkel;59
+1930;Nissewaard;De Elementen;58
+1930;Nissewaard;Vogelenzang;59
+1930;Nissewaard;De Akkers;59
+1930;Nissewaard;Vriesland;58
+1930;Nissewaard;Waterland;58
+1930;Nissewaard;Maaswijk;56
+1930;Nissewaard;Buitengebied;47
+1930;Nissewaard;Heenvliet;56
+1930;Nissewaard;Geervliet;56
+1930;Nissewaard;Abbenbroek;54
+1930;Nissewaard;Zuidland;54
+1930;Nissewaard;Simonshaven;54
+1930;Nissewaard;Oudenhoorn;53
+1930;Nissewaard;Hekelingen;56
+1695;Noord-Beveland;Gemeente;
+1695;Noord-Beveland;Wijk 00 Kortgene;51
+1695;Noord-Beveland;Wijk 01 Colijnsplaat;52
+1695;Noord-Beveland;Wijk 02 Kats;51
+1695;Noord-Beveland;Wijk 03 Kamperland;51
+1695;Noord-Beveland;Wijk 04 Wissenkerke;53
+1695;Noord-Beveland;Wijk 05 Geersdijk;54
+1699;Noordenveld;Gemeente;
+1699;Noordenveld;Wijk 00 Roden;52
+1699;Noordenveld;Wijk 01 Roden;51
+1699;Noordenveld;Wijk 03 Norg;52
+1699;Noordenveld;Wijk 04 Norg;51
+1699;Noordenveld;Wijk 06 Peize;49
+171;Noordoostpolder;Gemeente;
+171;Noordoostpolder;Wijk 01 Emmeloord;49
+171;Noordoostpolder;Wijk 02 Bant;57
+171;Noordoostpolder;Wijk 03 Luttelgeest;51
+171;Noordoostpolder;Wijk 04 Marknesse;48
+171;Noordoostpolder;Wijk 05 Kraggenburg;53
+171;Noordoostpolder;Wijk 06 Ens;48
+171;Noordoostpolder;Wijk 07 Nagele;51
+171;Noordoostpolder;Wijk 08 Tollebeek;52
+171;Noordoostpolder;Wijk 09 Espel;53
+171;Noordoostpolder;Wijk 10 Creil;54
+171;Noordoostpolder;Wijk 11 Rutten;55
+171;Noordoostpolder;Wijk 12 Schokland;
+575;Noordwijk;Gemeente;
+575;Noordwijk;Wijk 00 Noordwijk-Binnen;51
+575;Noordwijk;Wijk 01 Noordwijk Aan Zee;49
+576;Noordwijkerhout;Gemeente;
+576;Noordwijkerhout;Wijk 00;50
+820;Nuenen, Gerwen en Nederwetten;Gemeente;
+820;Nuenen, Gerwen en Nederwetten;Wijk 00 Nuenen;46
+820;Nuenen, Gerwen en Nederwetten;Wijk 01 Gerwen;46
+820;Nuenen, Gerwen en Nederwetten;Wijk 02 Nederwetten;47
+302;Nunspeet;Gemeente;
+302;Nunspeet;Wijk 00 Nunspeet;51
+302;Nunspeet;Wijk 01 Elspeet-Vierhouten;51
+951;Nuth;Gemeente;
+951;Nuth;Wijk 00 Nuth;56
+951;Nuth;Wijk 01 Wijnandsrade;54
+951;Nuth;Wijk 02 Hulsberg;53
+951;Nuth;Wijk 03 Schimmert;51
+579;Oegstgeest;Gemeente;
+579;Oegstgeest;Wijk 00 Oegstgeest;44
+823;Oirschot;Gemeente;
+823;Oirschot;Wijk 00 Oirschot;50
+823;Oirschot;Wijk 01 Spoordonk;48
+823;Oirschot;Wijk 02 Middelbeers en Westelbeers;48
+823;Oirschot;Wijk 03 Oostelbeers;52
+824;Oisterwijk;Gemeente;
+824;Oisterwijk;Verspr.h. westen en noorden Moerg.;47
+824;Oisterwijk;Pannenschuur;50
+824;Oisterwijk;Heukelom;48
+824;Oisterwijk;Buitengebied (Zuid);46
+824;Oisterwijk;Omgeving Vinkenberg / Heuvelstraat;46
+824;Oisterwijk;Omgeving George Perklaan;49
+824;Oisterwijk;Centrum Moergestel;51
+824;Oisterwijk;'t Westend / 't Seuverick;54
+824;Oisterwijk;Bunders / Levenskerk;47
+824;Oisterwijk;Buitengebied Kerkhoven;48
+824;Oisterwijk;Waterhoef / Klompven;51
+824;Oisterwijk;Omgeving Industrieterrein;48
+824;Oisterwijk;Centrum Oisterwijk;53
+824;Oisterwijk;Verspr.h. oosten en zuiden Moerg.;47
+824;Oisterwijk;Omgeving Broekzijde;48
+1895;Oldambt;Gemeente;
+1895;Oldambt;Wijk 00 Winschoten;60
+1895;Oldambt;Wijk 01 Finsterwolde;64
+1895;Oldambt;Wijk 02 Drieborg;62
+1895;Oldambt;Wijk 03 Beerta;62
+1895;Oldambt;Wijk 04 Nieuw-Beerta;61
+1895;Oldambt;Wijk 05 Nieuweschans;66
+1895;Oldambt;Wijk 06 Scheemda-Heiligerlee;62
+1895;Oldambt;Wijk 01 Westerlee;62
+1895;Oldambt;Wijk 02 Noord;60
+1895;Oldambt;Wijk 03 Midwolda;62
+1895;Oldambt;Wijk 04 Nieuwolda;63
+269;Oldebroek;Gemeente;
+269;Oldebroek;Wijk 00 Oldebroek;54
+269;Oldebroek;Wijk 01 Wezep;53
+269;Oldebroek;Wijk 02 Oosterwolde;52
+173;Oldenzaal;Gemeente;
+173;Oldenzaal;Wijk 01 Binnenstad;52
+173;Oldenzaal;Wijk 02 Het Inslag-De Kleies;51
+173;Oldenzaal;Wijk 03 Glinde-Hooiland;53
+173;Oldenzaal;Wijk 04 De Meijbree;51
+173;Oldenzaal;Wijk 05 Haerbroek-Scholtenhoek;49
+173;Oldenzaal;Wijk 06 Zuid-Berghuizen;55
+173;Oldenzaal;Wijk 07 Hanzepoort;50
+173;Oldenzaal;Wijk 08 Eekte-Hazewinkel;51
+173;Oldenzaal;Wijk 09 Jufferbeek;49
+173;Oldenzaal;Wijk 10 Het Hulsbeek;46
+173;Oldenzaal;Wijk 11 De Thij;56
+173;Oldenzaal;Wijk 12 De Graven Es;48
+173;Oldenzaal;Wijk 13 De Essen;51
+173;Oldenzaal;Wijk 14 Bekspring;46
+1773;Olst-Wijhe;Gemeente;
+1773;Olst-Wijhe;Wijk 01 Olst;54
+1773;Olst-Wijhe;Wijk 02 Wijhe;51
+1773;Olst-Wijhe;Wijk 03 Wesepe;50
+1773;Olst-Wijhe;Wijk 04 Boskamp;55
+1773;Olst-Wijhe;Wijk 05 Boerhaar;46
+1773;Olst-Wijhe;Wijk 06 Welsum;52
+1773;Olst-Wijhe;Wijk 07 Den Nul;52
+1773;Olst-Wijhe;Wijk 08 Eikelhof;50
+1773;Olst-Wijhe;Wijk 09 Elshof;48
+1773;Olst-Wijhe;Wijk 10 Marle;44
+1773;Olst-Wijhe;Wijk 11 Middel;49
+1773;Olst-Wijhe;Wijk 12 Herxen;46
+175;Ommen;Gemeente;
+175;Ommen;Ommen;51
+175;Ommen;Arrien;51
+175;Ommen;Beerze;50
+175;Ommen;Beerzerveld;57
+175;Ommen;Dalmsholte;49
+175;Ommen;Giethmen;52
+175;Ommen;Lemele;49
+175;Ommen;Stegeren;53
+175;Ommen;Vilsteren;53
+175;Ommen;Vinkenbuurt;51
+175;Ommen;Witharen;49
+881;Onderbanken;Gemeente;
+881;Onderbanken;Wijk 00 Onderbanken;58
+1586;Oost Gelre;Gemeente;
+1586;Oost Gelre;Wijk 01 Lichtenvoorde;51
+1586;Oost Gelre;Wijk 02 Harreveld;52
+1586;Oost Gelre;Wijk 03 Zieuwewnt;52
+1586;Oost Gelre;Wijk 04 Lievelde;52
+1586;Oost Gelre;Wijk 05 Vragender;49
+1586;Oost Gelre;Wijk 06 Groenlo;54
+1586;Oost Gelre;Wijk 07 Marienvelde;53
+826;Oosterhout;Gemeente;
+826;Oosterhout;Wijk 00 Oosterhout-Centrum;52
+826;Oosterhout;Wijk 01 Slotjes;52
+826;Oosterhout;Wijk 02 West;50
+826;Oosterhout;Wijk 03 Strijen;53
+826;Oosterhout;Wijk 04 Leijsenakkers;52
+826;Oosterhout;Wijk 05 Oosterheide;53
+826;Oosterhout;Wijk 06 Dommelbergen;53
+826;Oosterhout;Wijk 07 Vrachelen;50
+826;Oosterhout;Wijk 08 Industrieterrein Zuid;54
+826;Oosterhout;Wijk 09 Industrieterrein Noord;50
+826;Oosterhout;Wijk 10 Buitengebied Oosterhout;46
+826;Oosterhout;Wijk 11 Den Hout;50
+826;Oosterhout;Wijk 12 Oosteind;51
+826;Oosterhout;Wijk 13 Dorst;51
+85;Ooststellingwerf;Gemeente;
+85;Ooststellingwerf;Wijk 00 Oosterwolde;54
+85;Ooststellingwerf;Wijk 01 Donkerbroek;51
+85;Ooststellingwerf;Wijk 02 Makkinga;52
+85;Ooststellingwerf;Wijk 03 Oldeberkoop;51
+85;Ooststellingwerf;Wijk 04 Haulerwijk;54
+85;Ooststellingwerf;Wijk 05 Appelscha;55
+431;Oostzaan;Gemeente;
+431;Oostzaan;Wijk 00;51
+432;Opmeer;Gemeente;
+432;Opmeer;Wijk 00;47
+432;Opmeer;Wijk 01;47
+432;Opmeer;Wijk 02;47
+86;Opsterland;Gemeente;
+86;Opsterland;Wijk 00 Gorredijk;52
+86;Opsterland;Wijk 01 Langezwaag;49
+86;Opsterland;Wijk 02 Terwispel;47
+86;Opsterland;Wijk 03 Beetsterzwaag;52
+86;Opsterland;Wijk 04 Ureterp;53
+86;Opsterland;Wijk 05 Bakkeveen;52
+828;Oss;Gemeente;
+828;Oss;Centrum;54
+828;Oss;Schadewijk;55
+828;Oss;Industrieterreinen-Zuid;50
+828;Oss;Oss-Zuid;51
+828;Oss;Krinkelhoek;53
+828;Oss;Industrieterreinen-Noord;52
+828;Oss;Ruwaard;57
+828;Oss;Ussen;55
+828;Oss;Buitengebied-Noord;46
+828;Oss;Buitengebied-Zuid;46
+828;Oss;Berghem;52
+828;Oss;Haren;53
+828;Oss;Macharen;55
+828;Oss;Megen;55
+828;Oss;Ravenstein;53
+828;Oss;Herpen;54
+828;Oss;Overlangel;51
+828;Oss;Deursen en Dennenburg;52
+828;Oss;Lith;54
+828;Oss;Lithoijen;50
+828;Oss;Oijen;55
+828;Oss;Maren - Kessel;55
+828;Oss;Geffen;51
+584;Oud-Beijerland;Gemeente;
+584;Oud-Beijerland;Wijk 00;54
+1509;Oude IJsselstreek;Gemeente;
+1509;Oude IJsselstreek;Wijk 00 Ulft-Etten;57
+1509;Oude IJsselstreek;Wijk 01 Overig Gendringen;57
+1509;Oude IJsselstreek;Wijk 02 Silvolde-Terborg;58
+1509;Oude IJsselstreek;Wijk 03 Varsseveld;58
+437;Ouder-Amstel;Gemeente;
+437;Ouder-Amstel;Wijk 00;45
+589;Oudewater;Gemeente;
+589;Oudewater;Hekendorp;47
+589;Oudewater;Oudewater;51
+589;Oudewater;Papekop;50
+589;Oudewater;Snelrewaard;47
+1734;Overbetuwe;Gemeente;
+1734;Overbetuwe;Wijk 00 Elst;49
+1734;Overbetuwe;Wijk 01 Driel;53
+1734;Overbetuwe;Wijk 02 Zetten;55
+1734;Overbetuwe;Wijk 03 Oosterhout;55
+1734;Overbetuwe;Wijk 04 Hemmen;55
+590;Papendrecht;Gemeente;
+590;Papendrecht;Wijk 00 Papendrecht;53
+1894;Peel en Maas;Gemeente;
+1894;Peel en Maas;Wijk 00 Grashoek-Koningslust;53
+1894;Peel en Maas;Wijk 01 Panningen;51
+1894;Peel en Maas;Wijk 02 Kessel;52
+1894;Peel en Maas;Wijk 03 Maasbree;51
+1894;Peel en Maas;Wijk 04 Baarlo;51
+1894;Peel en Maas;Wijk 05 Meijel;50
+765;Pekela;Gemeente;
+765;Pekela;Wijk 00;62
+765;Pekela;Wijk 01;61
+1926;Pijnacker-Nootdorp;Gemeente;
+1926;Pijnacker-Nootdorp;Wijk 01 Pijnacker;49
+1926;Pijnacker-Nootdorp;Wijk 02 Nootdorp;47
+1926;Pijnacker-Nootdorp;Wijk 03 Delfgauw;48
+439;Purmerend;Gemeente;
+439;Purmerend;Wijk 01 Centrum;53
+439;Purmerend;Wijk 02 Overwhere;54
+439;Purmerend;Wijk 03 Wheermolen;57
+439;Purmerend;Wijk 04 Gors;56
+439;Purmerend;Wijk 05 Purmer-Noord;58
+439;Purmerend;Wijk 06 Purmer-Zuid;55
+439;Purmerend;Wijk 07 Weidevenne;53
+273;Putten;Gemeente;
+273;Putten;Wijk 00 Putten;52
+273;Putten;Wijk 01 Bosgebied en Krachtighuizen;52
+177;Raalte;Gemeente;
+177;Raalte;Wijk 00 Raalte-Kern;53
+177;Raalte;Wijk 01 Raalte-overig en buitengebied;48
+177;Raalte;Wijk 02 Heeten;48
+177;Raalte;Wijk 03 Luttenberg;48
+177;Raalte;Wijk 04 Broekland;49
+177;Raalte;Wijk 05 Mariënheem;49
+177;Raalte;Wijk 06 Nieuw Heeten;50
+177;Raalte;Wijk 08 Heino;51
+177;Raalte;Wijk 09 Laag Zuthem;48
+177;Raalte;Wijk 10 Lierderholthuis;47
+703;Reimerswaal;Gemeente;
+703;Reimerswaal;Wijk 00 Yerseke;50
+703;Reimerswaal;Wijk 01 Kruiningen;51
+703;Reimerswaal;Wijk 02 Krabbendijke;50
+703;Reimerswaal;Wijk 03 Waarde;48
+703;Reimerswaal;Wijk 04 Rilland-Bath;57
+703;Reimerswaal;Wijk 05 Hansweert;55
+703;Reimerswaal;Wijk 06 Oostdijk;46
+274;Renkum;Gemeente;
+274;Renkum;Wijk 00 Renkum;49
+274;Renkum;Wijk 01 Oosterbeek;46
+274;Renkum;Wijk 02 Doorwerth;49
+339;Renswoude;Gemeente;
+339;Renswoude;Wijk 00;49
+1667;Reusel-De Mierden;Gemeente;
+1667;Reusel-De Mierden;Wijk 00 Reusel;54
+1667;Reusel-De Mierden;Wijk 01 Hooge Mierde;52
+1667;Reusel-De Mierden;Wijk 02 Lage Mierde;50
+1667;Reusel-De Mierden;Wijk 03 Hulsel;46
+275;Rheden;Gemeente;
+275;Rheden;Wijk 00 Dieren;52
+275;Rheden;Wijk 01 Rheden;52
+275;Rheden;Wijk 02 Velp;48
+340;Rhenen;Gemeente;
+340;Rhenen;Wijk 00 Rhenen;50
+340;Rhenen;Wijk 01 Rhenen Oost;49
+340;Rhenen;Wijk 02 Rhenen West;51
+340;Rhenen;Wijk 03 Rhenen Noord;51
+340;Rhenen;Wijk 04 Grebbeberg;58
+340;Rhenen;Wijk 05 Randzone;50
+340;Rhenen;Wijk 06 Binnenveld;50
+340;Rhenen;Wijk 07 Achterberg;49
+340;Rhenen;Wijk 08 Uiterwaarden Rhenen;50
+340;Rhenen;Wijk 09 Remmerden;54
+340;Rhenen;Wijk 10 Heuvelrug Rhenen;56
+340;Rhenen;Wijk 11 Heuvelrug Elst;53
+340;Rhenen;Wijk 12 Uiterwaarden Elst;54
+340;Rhenen;Wijk 13 Elst;54
+597;Ridderkerk;Gemeente;
+597;Ridderkerk;Centrum;54
+597;Ridderkerk;West;59
+597;Ridderkerk;Oost;55
+597;Ridderkerk;Drievliet;56
+597;Ridderkerk;Het Zand;52
+597;Ridderkerk;Slikkerveer;54
+597;Ridderkerk;Bolnes;58
+597;Ridderkerk;Rijsoord;52
+597;Ridderkerk;Oostendam;51
+597;Ridderkerk;Donkersloot;51
+597;Ridderkerk;Cornelisland;52
+196;Rijnwaarden;Gemeente;
+196;Rijnwaarden;Wijk 00 Herwen en Aerdt;60
+196;Rijnwaarden;Wijk 01 Pannerden;59
+1742;Rijssen-Holten;Gemeente;
+1742;Rijssen-Holten;Wijk 00 Stad Rijssen;54
+1742;Rijssen-Holten;Wijk 01 Stadsrand;52
+1742;Rijssen-Holten;Wijk 02 Buitengebied Rijssen;49
+1742;Rijssen-Holten;Wijk 03 Holten;52
+1742;Rijssen-Holten;Wijk 04 Bedrijventerrein Holten;49
+1742;Rijssen-Holten;Wijk 05 Buitengebied Holten;49
+1742;Rijssen-Holten;Wijk 07 Bedrijventerrein Rijssen;49
+1742;Rijssen-Holten;Wijk 08 Recreatiegebied De Borkeld;54
+603;Rijswijk;Gemeente;
+603;Rijswijk;Wijk 01;46
+603;Rijswijk;Wijk 02;50
+603;Rijswijk;Wijk 03;49
+603;Rijswijk;Wijk 04;51
+603;Rijswijk;Wijk 05;53
+603;Rijswijk;Wijk 06;53
+603;Rijswijk;Wijk 07;52
+603;Rijswijk;Wijk 08;44
+603;Rijswijk;Wijk 09;46
+1669;Roerdalen;Gemeente;
+1669;Roerdalen;Montfort;54
+1669;Roerdalen;Sint Odiliënberg;54
+1669;Roerdalen;Melick;53
+1669;Roerdalen;Posterholt;56
+1669;Roerdalen;Herkenbosch;56
+1669;Roerdalen;Vlodrop;58
+957;Roermond;Gemeente;
+957;Roermond;Wijk 00 Centrum;49
+957;Roermond;Wijk 01 Roermond-Oost;53
+957;Roermond;Wijk 02 Roermond-Zuid;53
+957;Roermond;Wijk 03 Maasniel;52
+957;Roermond;Wijk 04 Donderberg en Roosendael;55
+957;Roermond;Wijk 05 Donderberg en Hoogvonderen;54
+957;Roermond;Wijk 06 Asenray;53
+957;Roermond;Wijk 07 Herten;49
+957;Roermond;Wijk 08 Swalmen;53
+957;Roermond;Wijk 09 Maasplassen;53
+1674;Roosendaal;Gemeente;
+1674;Roosendaal;Wijk 00 Centrum;52
+1674;Roosendaal;Wijk 01 Oost;54
+1674;Roosendaal;Wijk 02 Noord;54
+1674;Roosendaal;Wijk 03 West;55
+1674;Roosendaal;Wijk 04 Groot Kroeven;56
+1674;Roosendaal;Wijk 05 Langdonk;56
+1674;Roosendaal;Wijk 06 Kortendijk;54
+1674;Roosendaal;Wijk 07 Tolberg;53
+1674;Roosendaal;Wijk 08 Industriegebieden;51
+1674;Roosendaal;Wijk 10 Nispen;54
+1674;Roosendaal;Wijk 11 Wouw;54
+1674;Roosendaal;Wijk 12 Heerle;56
+1674;Roosendaal;Wijk 13 Moerstraten;55
+1674;Roosendaal;Wijk 14 Wouwse Plantage;54
+599;Rotterdam;Gemeente;
+599;Rotterdam;Rotterdam Centrum;40
+599;Rotterdam;Delfshaven;48
+599;Rotterdam;Overschie;52
+599;Rotterdam;Noord;43
+599;Rotterdam;Hillegersberg-Schiebroek;48
+599;Rotterdam;Kralingen-Crooswijk;43
+599;Rotterdam;Feijenoord;55
+599;Rotterdam;IJsselmonde;57
+599;Rotterdam;Pernis;58
+599;Rotterdam;Prins Alexander;53
+599;Rotterdam;Charlois;55
+599;Rotterdam;Hoogvliet;58
+599;Rotterdam;Hoek van Holland;54
+599;Rotterdam;Spaanse Polder;50
+599;Rotterdam;Nieuw Mathenesse;64
+599;Rotterdam;Waalhaven-Eemhaven;52
+599;Rotterdam;Botlek-Europoort-Maasvlakte;
+599;Rotterdam;Rotterdam-Noord-West;32
+599;Rotterdam;Rozenburg;57
+277;Rozendaal;Gemeente;
+277;Rozendaal;Wijk 00;44
+840;Rucphen;Gemeente;
+840;Rucphen;Wijk 00 Rucphen;53
+840;Rucphen;Wijk 01 Sint Willebrord;56
+840;Rucphen;Wijk 02 Sprundel;53
+840;Rucphen;Wijk 03 Schijf;53
+840;Rucphen;Wijk 04 Zegge;57
+441;Schagen;Gemeente;
+441;Schagen;Wijk 00;49
+441;Schagen;Wijk 01 Harenkarspel;47
+441;Schagen;Wijk 02 Sint Maarten;47
+441;Schagen;Wijk 03 Warmenhuizen;45
+441;Schagen;Wijk 04 Zijpe;50
+279;Scherpenzeel;Gemeente;
+279;Scherpenzeel;Wijk 00;51
+606;Schiedam;Gemeente;
+606;Schiedam;Wijk 00 Centrum;51
+606;Schiedam;Wijk 01 Oost;53
+606;Schiedam;Wijk 02 Tussen Havens en Grachten;51
+606;Schiedam;Wijk 03 West;54
+606;Schiedam;Wijk 04 Zuid;57
+606;Schiedam;Wijk 05 Nieuw Mathenesse;49
+606;Schiedam;Wijk 06 Nieuwland;58
+606;Schiedam;Wijk 07 Groenoord en Kethel;55
+606;Schiedam;Wijk 08 Industriegeb. ten N. v. Rijksweg;50
+606;Schiedam;Wijk 09 Woudhoek/Spaland /Sveaparken;54
+88;Schiermonnikoog;Gemeente;
+88;Schiermonnikoog;Wijk 00;51
+844;Schijndel;Gemeente;
+844;Schijndel;Wijk 00 West;52
+844;Schijndel;Wijk 01 Centrum;52
+844;Schijndel;Wijk 02 Oost;52
+844;Schijndel;Wijk 03 Wijbosch;52
+962;Schinnen;Gemeente;
+962;Schinnen;Wijk 00;54
+962;Schinnen;Wijk 01 Amstenrade - Oirsbeek;56
+1676;Schouwen-Duiveland;Gemeente;
+1676;Schouwen-Duiveland;Wijk 00 Zierikzee;51
+1676;Schouwen-Duiveland;Wijk 01 Brouwershaven;54
+1676;Schouwen-Duiveland;Wijk 02 Zonnemaire;51
+1676;Schouwen-Duiveland;Wijk 03 Dreischor;53
+1676;Schouwen-Duiveland;Wijk 04 Noordgouwe;52
+1676;Schouwen-Duiveland;Wijk 05 Bruinisse;53
+1676;Schouwen-Duiveland;Wijk 06 Nieuwerkerk;51
+1676;Schouwen-Duiveland;Wijk 07 Oosterland;52
+1676;Schouwen-Duiveland;Wijk 08 Ouwerkerk;51
+1676;Schouwen-Duiveland;Wijk 09 Scharendijke;51
+1676;Schouwen-Duiveland;Wijk 10 Kerkwerve;48
+1676;Schouwen-Duiveland;Wijk 11 Ellemeet;50
+1676;Schouwen-Duiveland;Wijk 12 Haamstede;49
+1676;Schouwen-Duiveland;Wijk 13 Renesse;50
+1676;Schouwen-Duiveland;Wijk 14 Noordwelle;50
+1676;Schouwen-Duiveland;Wijk 15 Serooskerke;53
+965;Simpelveld;Gemeente;
+965;Simpelveld;Wijk 00 Simpelveld;56
+965;Simpelveld;Wijk 01 Bocholtz;55
+845;Sint-Michielsgestel;Gemeente;
+845;Sint-Michielsgestel;Wijk 00 Sint-Michielsgestel;49
+845;Sint-Michielsgestel;Wijk 01 Gemonde;51
+845;Sint-Michielsgestel;Wijk 02 Den Dungen;47
+845;Sint-Michielsgestel;Wijk 03 Berlicum;48
+845;Sint-Michielsgestel;Wijk 04 Middelrode;48
+846;Sint-Oedenrode;Gemeente;
+846;Sint-Oedenrode;Wijk 00 Sint-Oedenrode;49
+846;Sint-Oedenrode;Wijk 01 Nijnsel;47
+846;Sint-Oedenrode;Wijk 02 Boskant;50
+846;Sint-Oedenrode;Wijk 03 Olland;48
+1702;Sint Anthonis;Gemeente;
+1702;Sint Anthonis;Wijk 00 Sint Anthonis;46
+1702;Sint Anthonis;Wijk 01 Oploo;49
+1702;Sint Anthonis;Wijk 02 Westerbeek;50
+1702;Sint Anthonis;Wijk 03 Stevensbeek;49
+1702;Sint Anthonis;Wijk 04 Wanroij;46
+1702;Sint Anthonis;Wijk 05 Landhorst;48
+1883;Sittard-Geleen;Gemeente;
+1883;Sittard-Geleen;Wijk 00 Limbrichterveld;55
+1883;Sittard-Geleen;Wijk 01 Sittard;52
+1883;Sittard-Geleen;Wijk 02 Overhoven;53
+1883;Sittard-Geleen;Wijk 03 Munstergeleen;55
+1883;Sittard-Geleen;Wijk 04 Guttecoven;54
+1883;Sittard-Geleen;Wijk 05 Geleen;55
+1883;Sittard-Geleen;Wijk 06 Holtum-Born;55
+1883;Sittard-Geleen;Wijk 07 Obbicht en Papenhoven;53
+610;Sliedrecht;Gemeente;
+610;Sliedrecht;Wijk 01 Sliedrecht-West;53
+610;Sliedrecht;Wijk 02 Sliedrecht-Centrum;53
+610;Sliedrecht;Wijk 03 Sliedrecht-Oost;54
+610;Sliedrecht;Wijk 04 Sliedrecht-Noord;51
+40;Slochteren;Gemeente;
+40;Slochteren;Wijk 00 Slochteren-Kolham;59
+40;Slochteren;Wijk 01 Schildwolde-Hellum;57
+40;Slochteren;Wijk 02 Siddeburen;58
+40;Slochteren;Wijk 03 Harkstede;53
+40;Slochteren;Wijk 04 Overschild;53
+1714;Sluis;Gemeente;
+1714;Sluis;Wijk 00 Sluis;55
+1714;Sluis;Wijk 01 Retranchement;53
+1714;Sluis;Wijk 02 Aardenburg;55
+1714;Sluis;Wijk 03 Eede;54
+1714;Sluis;Wijk 04 Sint Kruis;51
+1714;Sluis;Wijk 05 Oostburg;54
+1714;Sluis;Wijk 06 Zuidzande;55
+1714;Sluis;Wijk 07 Cadzand;53
+1714;Sluis;Wijk 08 Nieuwvliet;55
+1714;Sluis;Wijk 09 Groede;54
+1714;Sluis;Wijk 10 Breskens;58
+1714;Sluis;Wijk 11 Hoofdplaat;58
+1714;Sluis;Wijk 12 IJzendijke;54
+1714;Sluis;Wijk 13 Schoondijke;55
+1714;Sluis;Wijk 14 Waterlandkerkje;55
+90;Smallingerland;Gemeente;
+90;Smallingerland;Wijk 00 Drachten;54
+90;Smallingerland;Wijk 01 Overig Smallingerland;51
+342;Soest;Gemeente;
+342;Soest;Wijk 01 't Hart-Soestdijk;45
+342;Soest;Wijk 02 Klaarwater;49
+342;Soest;Wijk 03 Boerenstreek;47
+342;Soest;Wijk 04 de Eng-Soest-Midden;48
+342;Soest;Wijk 05 Smitsveen;50
+342;Soest;Wijk 06 Overhees;48
+342;Soest;Wijk 07 Soest-Zuid;43
+342;Soest;Wijk 08 Soesterberg;48
+847;Someren;Gemeente;
+847;Someren;Wijk 00 Someren;49
+847;Someren;Wijk 01 Lierop;47
+847;Someren;Wijk 02 Someren-Eind;49
+847;Someren;Wijk 03 Somerense Heide;47
+847;Someren;Wijk 09;51
+848;Son en Breugel;Gemeente;
+848;Son en Breugel;Wijk 00 Son;47
+848;Son en Breugel;Wijk 01 Breugel;49
+37;Stadskanaal;Gemeente;
+37;Stadskanaal;Stadskanaal;60
+37;Stadskanaal;Musselkanaal;63
+37;Stadskanaal;Onstwedde;60
+37;Stadskanaal;Mussel;59
+37;Stadskanaal;Alteveer;59
+180;Staphorst;Gemeente;
+180;Staphorst;Wijk 00 Staphorst (kern);48
+180;Staphorst;Wijk 01 Rouveen (kern);45
+180;Staphorst;Wijk 02 Rouveen (buitengebied);45
+180;Staphorst;Wijk 03 Staphorst (buitengebied);44
+180;Staphorst;Wijk 04 IJhorst;50
+180;Staphorst;Wijk 05 Punthorst;48
+180;Staphorst;Wijk 06 Lankhorst;47
+180;Staphorst;Wijk 07 Klooster;45
+532;Stede Broec;Gemeente;
+532;Stede Broec;Wijk 00;49
+532;Stede Broec;Wijk 01;51
+851;Steenbergen;Gemeente;
+851;Steenbergen;Wijk 00 Steenbergen;56
+851;Steenbergen;Wijk 01 Kruisland;57
+851;Steenbergen;Wijk 02 De Heen;59
+851;Steenbergen;Wijk 03 Dinteloord;58
+851;Steenbergen;Wijk 04 Nieuw-Vossemeer;61
+1708;Steenwijkerland;Gemeente;
+1708;Steenwijkerland;Wijk 00 Stad-Steenwijk;52
+1708;Steenwijkerland;Wijk 02 Oldemarkt;52
+1708;Steenwijkerland;Wijk 03 Kalenberg;58
+1708;Steenwijkerland;Wijk 04 Kuinre;54
+1708;Steenwijkerland;Wijk 05 Blankenham;52
+1708;Steenwijkerland;Wijk 06 Scheerwolde;54
+1708;Steenwijkerland;Wijk 07 Vollenhove;53
+1708;Steenwijkerland;Wijk 08 Sint Jansklooster;51
+1708;Steenwijkerland;Wijk 09 Heetveld;49
+1708;Steenwijkerland;Wijk 10 Belt-Schutsloot;51
+1708;Steenwijkerland;Wijk 11 Wanneperveen;54
+1708;Steenwijkerland;Wijk 12 Dinxterveen;51
+1708;Steenwijkerland;Wijk 13 Giethoorn-Zuid;54
+1708;Steenwijkerland;Wijk 14 Giethoorn-Noord;52
+1708;Steenwijkerland;Wijk 15 Dwarsgracht;52
+1708;Steenwijkerland;Wijk 16 Blokzijl;55
+971;Stein;Gemeente;
+971;Stein;Wijk 00 Stein;56
+971;Stein;Wijk 01 Elsloo;53
+971;Stein;Wijk 02 Urmond;55
+1904;Stichtse Vecht;Gemeente;
+1904;Stichtse Vecht;Wijk 01 Maarssen;47
+1904;Stichtse Vecht;Wijk 02 Breukelen;46
+1904;Stichtse Vecht;Wijk 03 Loenen aan de Vecht;47
+1904;Stichtse Vecht;Wijk 04 Nieuwer Ter Aa;45
+1904;Stichtse Vecht;Wijk 05 Kockengen;47
+1904;Stichtse Vecht;Wijk 06 Vreeland;46
+1904;Stichtse Vecht;Wijk 07 Tienhoven;48
+1904;Stichtse Vecht;Wijk 08 Nigtevecht;46
+1904;Stichtse Vecht;Wijk 09 Nieuwersluis;46
+1904;Stichtse Vecht;Wijk 10 Loenersloot;47
+1904;Stichtse Vecht;Wijk 11 Oud Zuilen;44
+1904;Stichtse Vecht;Wijk 12 Maarssenbroek;52
+617;Strijen;Gemeente;
+617;Strijen;Wijk 00 Strijen en buitengebied;55
+1900;Súdwest-Fryslân;Gemeente;
+1900;Súdwest-Fryslân;Wijk 00 Bolsward;50
+1900;Súdwest-Fryslân;Wijk 01 Sneek;49
+1900;Súdwest-Fryslân;Wijk 02 Nijefurd;51
+1900;Súdwest-Fryslân;Wijk 03 Koudum;51
+1900;Súdwest-Fryslân;Wijk 04 Hemelum;52
+1900;Súdwest-Fryslân;Wijk 05 IJlst;48
+1900;Súdwest-Fryslân;Wijk 06 Zuid IJlst;51
+1900;Súdwest-Fryslân;Wijk 07 Oost IJlst;48
+1900;Súdwest-Fryslân;Wijk 08 West IJlst;48
+1900;Súdwest-Fryslân;Wijk 09 Oosthem;47
+1900;Súdwest-Fryslân;Wijk 10 Noordwest IJlst;49
+1900;Súdwest-Fryslân;Wijk 11 Zuidoost IJLst;48
+1900;Súdwest-Fryslân;Wijk 12 Woudsend;47
+1900;Súdwest-Fryslân;Wijk 13 Bouwhoek;49
+1900;Súdwest-Fryslân;Wijk 14 Weidestreek Oost;48
+1900;Súdwest-Fryslân;Wijk 15 Weidestreek West;52
+1900;Súdwest-Fryslân;Wijk 16 Weidestreek Zuid;49
+1900;Súdwest-Fryslân;Wijk 17 Makkum;51
+1900;Súdwest-Fryslân;Wijk 18 Weidestreek Zuidwest;48
+1900;Súdwest-Fryslân;Wijk 19 Boarnsterhim;47
+9;Ten Boer;Gemeente;
+9;Ten Boer;Wijk 00 West;56
+9;Ten Boer;Wijk 01 Oost;58
+715;Terneuzen;Gemeente;
+715;Terneuzen;Terneuzen Centrum;55
+715;Terneuzen;Terneuzen West;53
+715;Terneuzen;Terneuzen Zuid;54
+715;Terneuzen;Terneuzen Noord;55
+715;Terneuzen;Terneuzen Oost;50
+715;Terneuzen;Buitengebied Terneuzen;52
+715;Terneuzen;Kern Axel;53
+715;Terneuzen;Buitengebied Axel;53
+715;Terneuzen;Kern Biervliet;55
+715;Terneuzen;Buitengebied Biervliet;52
+715;Terneuzen;Kern Hoek;55
+715;Terneuzen;Buitengebied Hoek;52
+715;Terneuzen;Kern Koewacht;55
+715;Terneuzen;Buitengebied Koewacht;54
+715;Terneuzen;Kern Overslag;52
+715;Terneuzen;Buitengebied Overslag;54
+715;Terneuzen;Kern Philippine;53
+715;Terneuzen;Buitengebied Philippine;48
+715;Terneuzen;Kern Sas van Gent;56
+715;Terneuzen;Buitengebied Sas van Gent;53
+715;Terneuzen;Kern Sluiskil;57
+715;Terneuzen;Buitengebied Sluiskil;54
+715;Terneuzen;Kern Spui;51
+715;Terneuzen;Buitengebied Spui;45
+715;Terneuzen;Kern Westdorpe;55
+715;Terneuzen;Buitengebied Westdorpe;53
+715;Terneuzen;Kern Zaamslag;50
+715;Terneuzen;Buitengebied Zaamslag;52
+715;Terneuzen;Kern Zuiddorpe;55
+715;Terneuzen;Buitengebied Zuiddorpe;54
+93;Terschelling;Gemeente;
+93;Terschelling;Wijk 00 West-Terschelling;43
+93;Terschelling;Wijk 01 Midsland;49
+93;Terschelling;Wijk 02 Formerum;49
+93;Terschelling;Wijk 03 Lies;51
+93;Terschelling;Wijk 04 Hoorn;52
+93;Terschelling;Wijk 05 Oosterend;51
+448;Texel;Gemeente;
+448;Texel;Wijk 00 Het Oude Land en duingebied;47
+448;Texel;Wijk 01 Het Nieuwe Land;47
+1525;Teylingen;Gemeente;
+1525;Teylingen;Wijk 00 Sassenheim;49
+1525;Teylingen;Wijk 01 Voorhout;49
+1525;Teylingen;Wijk 02 Warmond;49
+716;Tholen;Gemeente;
+716;Tholen;Tholen;55
+716;Tholen;Poortvliet;56
+716;Tholen;Scherpenisse;54
+716;Tholen;Sint-Maartensdijk;57
+716;Tholen;Stavenisse;58
+716;Tholen;Sint-Annaland;53
+716;Tholen;Oud-Vossemeer;56
+716;Tholen;Sint Philipsland;57
+281;Tiel;Gemeente;
+281;Tiel;Tiel kern;54
+281;Tiel;Tiel-Noord;55
+281;Tiel;Wadenoijen en Kapel Avezaath;53
+281;Tiel;Tiel-Zuid;51
+855;Tilburg;Gemeente;
+855;Tilburg;Wijk 00 Centrum;41
+855;Tilburg;Wijk 01 Oud-Zuid;47
+855;Tilburg;Wijk 02 Oud-Noord;48
+855;Tilburg;Wijk 03 West;52
+855;Tilburg;Wijk 04 Noord;58
+855;Tilburg;Wijk 05 Oost;50
+855;Tilburg;Wijk 06 Zuid;52
+855;Tilburg;Wijk 07 Berkel-Enschot;49
+855;Tilburg;Wijk 08 Reeshof;52
+855;Tilburg;Wijk 09 Udenhout;51
+183;Tubbergen;Gemeente;
+183;Tubbergen;Wijk 00 Tubbergen;48
+183;Tubbergen;Wijk 01 Albergen;50
+183;Tubbergen;Wijk 02 Harbrinkhoek;50
+183;Tubbergen;Wijk 03 Geesteren;49
+183;Tubbergen;Wijk 04 Langeveen;52
+183;Tubbergen;Wijk 05 Vasse;49
+183;Tubbergen;Wijk 06 Reutum;48
+183;Tubbergen;Wijk 07 Fleringen;42
+1700;Twenterand;Gemeente;
+1700;Twenterand;Wijk 00 Vriezenveen (kern);55
+1700;Twenterand;Wijk 01 Vriezenveen (buitengebied);54
+1700;Twenterand;Wijk 02 Westerhaar-Vriezenveensewijk;60
+1700;Twenterand;Wijk 03 Kloosterhaar;54
+1700;Twenterand;Wijk 04 Bruinehaar;59
+1730;Tynaarlo;Gemeente;
+1730;Tynaarlo;Wijk 00 Zuidlaren;51
+1730;Tynaarlo;Wijk 01 De Groeve;53
+1730;Tynaarlo;Wijk 02 Zuidlaarderveen;52
+1730;Tynaarlo;Wijk 03 Midlaren;48
+1730;Tynaarlo;Wijk 04 Westlaren;54
+1730;Tynaarlo;Wijk 05 Schuilingsoord;51
+1730;Tynaarlo;Wijk 06 Paterswolde;46
+1730;Tynaarlo;Wijk 07 Eelde;48
+1730;Tynaarlo;Wijk 08 Eelderwolde;41
+1730;Tynaarlo;Wijk 09 Vries;52
+1730;Tynaarlo;Wijk 10 Donderen;49
+1730;Tynaarlo;Wijk 11 Bunne;49
+1730;Tynaarlo;Wijk 12 Yde;51
+1730;Tynaarlo;Wijk 13 Tynaarlo;52
+1730;Tynaarlo;Wijk 14 Zeegse;52
+1730;Tynaarlo;Wijk 15 Zeijen;52
+737;Tytsjerksteradiel;Gemeente;
+737;Tytsjerksteradiel;Wijk 00 Burgum;53
+737;Tytsjerksteradiel;Wijk 01 Aldtsjerk;52
+737;Tytsjerksteradiel;Wijk 02 Mûnein;51
+737;Tytsjerksteradiel;Wijk 03 Ryptsjerk;49
+737;Tytsjerksteradiel;Wijk 04 Tytsjerk;50
+737;Tytsjerksteradiel;Wijk 05 Earnewâld;51
+737;Tytsjerksteradiel;Wijk 06 Sumar;52
+737;Tytsjerksteradiel;Wijk 07 Eastermar;51
+737;Tytsjerksteradiel;Wijk 08 Noordburgum;54
+737;Tytsjerksteradiel;Wijk 09 Hurdegaryp;52
+856;Uden;Gemeente;
+856;Uden;Wijk 01 Uden;50
+856;Uden;Wijk 02 Volkel;50
+856;Uden;Wijk 03 Odiliapeel;51
+450;Uitgeest;Gemeente;
+450;Uitgeest;Wijk 00 Uitgeest;46
+451;Uithoorn;Gemeente;
+451;Uithoorn;Wijk 15 Dorpscentrum;49
+451;Uithoorn;Wijk 25 Thamerdal;52
+451;Uithoorn;Wijk 35 Zijdelwaard;52
+451;Uithoorn;Wijk 45 Legmeer;48
+451;Uithoorn;Wijk 50 Langs de Vuurlinie;47
+451;Uithoorn;Wijk 55 Veilinggebied;45
+451;Uithoorn;Wijk 65 Meerwijk;48
+451;Uithoorn;Wijk 75 Bedrijventerrein;48
+451;Uithoorn;Wijk 85 Meerwijk;48
+451;Uithoorn;Wijk 90 Glastuinbouwgebied;44
+451;Uithoorn;Wijk 95 Veenweidegebied;45
+184;Urk;Gemeente;
+184;Urk;Wijk 00 Urk;53
+344;Utrecht;Gemeente;
+344;Utrecht;Wijk 01 West;36
+344;Utrecht;Wijk 02 Noordwest;40
+344;Utrecht;Wijk 03 Overvecht;49
+344;Utrecht;Wijk 04 Noordoost;33
+344;Utrecht;Wijk 05 Oost;29
+344;Utrecht;Wijk 06 Binnenstad;31
+344;Utrecht;Wijk 07 Zuid;39
+344;Utrecht;Wijk 08 Zuidwest;44
+344;Utrecht;Wijk 09 Leidsche Rijn;44
+344;Utrecht;Wijk 10 Vleuten-De Meern;46
+1581;Utrechtse Heuvelrug;Gemeente;
+1581;Utrechtse Heuvelrug;Wijk 00 Doorn;48
+1581;Utrechtse Heuvelrug;Wijk 01 Driebergen-Rijssenburg;45
+1581;Utrechtse Heuvelrug;Wijk 02 Leersum;47
+1581;Utrechtse Heuvelrug;Wijk 03 Amerongen;52
+1581;Utrechtse Heuvelrug;Wijk 04 Maarn;45
+981;Vaals;Gemeente;
+981;Vaals;Wijk 00 Vijlen-Lemiers;53
+981;Vaals;Wijk 01 Vaals;55
+994;Valkenburg aan de Geul;Gemeente;
+994;Valkenburg aan de Geul;Wijk 00: Valkenburg;53
+994;Valkenburg aan de Geul;Wijk 01: Houthem - Sint Gerlach;51
+994;Valkenburg aan de Geul;Wijk 02: Schin op Geul - Oud-Valkenburg;53
+994;Valkenburg aan de Geul;Wijk 03: Sibbe - IJzeren;50
+994;Valkenburg aan de Geul;Wijk 04: Berg en Terblijt - Vilt;51
+994;Valkenburg aan de Geul;Wijk 05: Walem;49
+858;Valkenswaard;Gemeente;
+858;Valkenswaard;Wijk 00 Valkenswaard;49
+858;Valkenswaard;Wijk 01 Kloosterakkers en Dommelen;49
+858;Valkenswaard;Wijk 02 Borkel en Schaft;50
+47;Veendam;Gemeente;
+47;Veendam;Wijk 00 Veendam-kern;59
+47;Veendam;Wijk 01 Veendam-buitengebied;59
+47;Veendam;Wijk 02 Wildervank;59
+345;Veenendaal;Gemeente;
+345;Veenendaal;Wijk 00 Centrum;54
+345;Veenendaal;Wijk 01 Noordoost;51
+345;Veenendaal;Wijk 02 Zuidoost;51
+345;Veenendaal;Wijk 03 Zuidwest;53
+345;Veenendaal;Wijk 04 Noordwest;52
+345;Veenendaal;Wijk 05 West;51
+717;Veere;Gemeente;
+717;Veere;Wijk 00 Veere;47
+717;Veere;Wijk 01 Gapinge;45
+717;Veere;Wijk 02 Vrouwenpolder;50
+717;Veere;Wijk 03 Serooskerke;46
+717;Veere;Wijk 04 Domburg;46
+717;Veere;Wijk 05 Oostkapelle;45
+717;Veere;Wijk 06 Aagtekerke;43
+717;Veere;Wijk 07 Grijpskerke;46
+717;Veere;Wijk 08 Meliskerke;43
+717;Veere;Wijk 09 Koudekerke;48
+717;Veere;Wijk 10 Biggekerke;46
+717;Veere;Wijk 11 Zoutelande;48
+717;Veere;Wijk 12 Westkapelle;47
+860;Veghel;Gemeente;
+860;Veghel;Wijk 00 Veghel;51
+860;Veghel;Wijk 01 Mariaheide;47
+860;Veghel;Wijk 02 Zijtaart;48
+860;Veghel;Wijk 03 Eerde;51
+860;Veghel;Wijk 04 Erp;49
+860;Veghel;Wijk 05 Keldonk;49
+860;Veghel;Wijk 06 Boerdonk;48
+861;Veldhoven;Gemeente;
+861;Veldhoven;Wijk 00 Veldhoven;50
+861;Veldhoven;Wijk 01 Noordelijk Woongebied;48
+861;Veldhoven;Wijk 02 Oerle;47
+453;Velsen;Gemeente;
+453;Velsen;Wijk 00 Velsen-Zuid en Driehuis;46
+453;Velsen;Wijk 01 IJmuiden-Noord;58
+453;Velsen;Wijk 02 IJmuiden-Zuid;54
+453;Velsen;Wijk 03 IJmuiden-West;56
+453;Velsen;Wijk 04 Zee- en Duinwijk;56
+453;Velsen;Wijk 05 Velsen-Noord;57
+453;Velsen;Wijk 06 Santpoort-Noord;46
+453;Velsen;Wijk 07 Santpoort-Zuid;40
+453;Velsen;Wijk 08 Velserbroek;50
+453;Velsen;Wijk 09 Spaarndammerpolder;48
+983;Venlo;Gemeente;
+983;Venlo;Wijk 11 Venlo-Centrum;48
+983;Venlo;Wijk 12 Venlo-Zuid;53
+983;Venlo;Wijk 13 Venlo-Oost-Noord;51
+983;Venlo;Wijk 14 Venlo-Noord;54
+983;Venlo;Wijk 15 Venlo-Oost-Zuid;53
+983;Venlo;Wijk 16 Het Ven;50
+983;Venlo;Wijk 21 Blerick-Midden;56
+983;Venlo;Wijk 22 Blerick-Noord;55
+983;Venlo;Wijk 23 Blerick-Zuid;59
+983;Venlo;Wijk 24 Vossener;56
+983;Venlo;Wijk 25 Klingerberg;53
+983;Venlo;Wijk 26 Hout-Blerick;50
+983;Venlo;Wijk 27 Boekend;52
+983;Venlo;Wijk 28 Trade-Port;50
+983;Venlo;Wijk 31 Tegelen-Centrum;54
+983;Venlo;Wijk 32 Op de Hei;56
+983;Venlo;Wijk 35 Steyl;54
+983;Venlo;Wijk 41 Velden;52
+983;Venlo;Wijk 43 Lomm;55
+983;Venlo;Wijk 44 Arcen;54
+983;Venlo;Wijk 51 Belfeld;54
+984;Venray;Gemeente;
+984;Venray;Wijk 10 Venray;52
+984;Venray;Wijk 20 Overige kernen;51
+620;Vianen;Gemeente;
+620;Vianen;Wijk 00 Vianen;54
+620;Vianen;Wijk 01 Hagestein;49
+620;Vianen;Wijk 02 Everdingen;50
+622;Vlaardingen;Gemeente;
+622;Vlaardingen;Wijk 01 Centrum;54
+622;Vlaardingen;Wijk 02 Westwijk;55
+622;Vlaardingen;Wijk 03 Vettenoordse Polder;62
+622;Vlaardingen;Wijk 04 Oostwijk;52
+622;Vlaardingen;Wijk 05 Vlaardinger Ambacht;53
+622;Vlaardingen;Wijk 06 Holy-Zuid;55
+622;Vlaardingen;Wijk 07 Holy-Noord;55
+622;Vlaardingen;Wijk 08 Broekpolder;
+48;Vlagtwedde;Gemeente;
+48;Vlagtwedde;Wijk 00 Sellingen;61
+48;Vlagtwedde;Wijk 01 Vlagtwedde;61
+48;Vlagtwedde;Wijk 02 Bourtange;60
+48;Vlagtwedde;Wijk 03 Sellingerbeetse;56
+48;Vlagtwedde;Wijk 04 Ter Apel;61
+48;Vlagtwedde;Wijk 05 Ter Wisch;54
+48;Vlagtwedde;Wijk 06 de Maten;57
+96;Vlieland;Gemeente;
+96;Vlieland;Wijk 00;52
+718;Vlissingen;Gemeente;
+718;Vlissingen;Binnenstad;48
+718;Vlissingen;Middengebied;50
+718;Vlissingen;Paauwenburg - Westduin;50
+718;Vlissingen;Lammerenburg;50
+718;Vlissingen;Oost-Souburg;51
+718;Vlissingen;Ritthem e.o.;48
+718;Vlissingen;Binnen- en Buitenhavens;48
+718;Vlissingen;Sloegebied;
+986;Voerendaal;Gemeente;
+986;Voerendaal;Wijk 01 Voerendaal;54
+986;Voerendaal;Wijk02 Kunrade;52
+986;Voerendaal;Wijk 03 Ubachsberg;53
+986;Voerendaal;Wijk 04 Klimmen;51
+986;Voerendaal;Wijk 05 Ransdaal;51
+986;Voerendaal;Wijk 09 Verspreide huizen Voerendaal;48
+626;Voorschoten;Gemeente;
+626;Voorschoten;Wijk 00;47
+285;Voorst;Gemeente;
+285;Voorst;Wijk 00 Voorst;54
+285;Voorst;Wijk 01 Twello-Nijbroek;52
+285;Voorst;Wijk 02 Klarenbeek-Teuge;51
+285;Voorst;Wijk 03 Wilp;55
+865;Vught;Gemeente;
+865;Vught;Wijk 00 Vught;45
+865;Vught;Wijk 01 Vught-Zuid;49
+865;Vught;Wijk 02 Cromvoirt;49
+866;Waalre;Gemeente;
+866;Waalre;Wijk 00 Waalre;44
+867;Waalwijk;Gemeente;
+867;Waalwijk;Wijk 00 Waalwijk;55
+867;Waalwijk;Wijk 01 Sprang-Capelle;53
+867;Waalwijk;Wijk 02 Waspik;54
+627;Waddinxveen;Gemeente;
+627;Waddinxveen;Wijk 01;53
+627;Waddinxveen;Wijk 02;49
+627;Waddinxveen;Wijk 03;51
+627;Waddinxveen;Wijk 04;50
+289;Wageningen;Gemeente;
+289;Wageningen;Wijk 00 Stedelijk gebied;37
+289;Wageningen;Wijk 01 Landelijk gebied;37
+629;Wassenaar;Gemeente;
+629;Wassenaar;Wijk 00 Zuidwestelijk deel der gemeente;41
+629;Wassenaar;Wijk 01 Noordoostelijk deel der gemeente;49
+852;Waterland;Gemeente;
+852;Waterland;Wijk 00 Monnickendam;50
+852;Waterland;Wijk 01 Katwoude;45
+852;Waterland;Wijk 02 Marken;50
+852;Waterland;Wijk 03 Broek in Waterland;47
+852;Waterland;Wijk 04 Ilpendam;50
+852;Waterland;Wijk 05 Watergang;47
+988;Weert;Gemeente;
+988;Weert;Wijk 01 Boshoven;48
+988;Weert;Wijk 02 Laar en Hushoven;48
+988;Weert;Wijk 03 Molenakker en Kampershoek;45
+988;Weert;Wijk 11 Weert-Centrum;49
+988;Weert;Wijk 12 Biest;49
+988;Weert;Wijk 13 Groenewoud;52
+988;Weert;Wijk 14 Fatima;51
+988;Weert;Wijk 21 Keent;50
+988;Weert;Wijk 22 Moesel;50
+988;Weert;Wijk 23 Graswinkel;47
+988;Weert;Wijk 24 Leuken;48
+988;Weert;Wijk 25 Kazernelaan;46
+988;Weert;Wijk 31 Altweerderheide;50
+988;Weert;Wijk 32 Tungelroy;50
+988;Weert;Wijk 33 Swartbroek;48
+988;Weert;Wijk 34 Stramproy;49
+457;Weesp;Gemeente;
+457;Weesp;Binnenstad;46
+457;Weesp;Zuid;48
+457;Weesp;Noord;49
+457;Weesp;Hogewey;52
+457;Weesp;Aetsveld;49
+457;Weesp;Aetsveldsepolder;41
+457;Weesp;Oostelijke Vechtoever;43
+457;Weesp;Bloemendalerpolder;41
+870;Werkendam;Gemeente;
+870;Werkendam;Wijk 01 Werkendam;52
+870;Werkendam;Wijk 02 Sleeuwijk;51
+870;Werkendam;Wijk 03 Nieuwendijk;53
+870;Werkendam;Wijk 04 Hank;55
+870;Werkendam;Wijk 05 Dussen;55
+668;West Maas en Waal;Gemeente;
+668;West Maas en Waal;Wijk 01 Alphen;51
+668;West Maas en Waal;Wijk 02 Altforst;49
+668;West Maas en Waal;Wijk 03 Appeltern;54
+668;West Maas en Waal;Wijk 04 Beneden-Leeuwen;52
+668;West Maas en Waal;Wijk 05 Boven-Leeuwen;54
+668;West Maas en Waal;Wijk 06 Dreumel;52
+668;West Maas en Waal;Wijk 07 Maasbommel;56
+668;West Maas en Waal;Wijk 08 Wamel;52
+1701;Westerveld;Gemeente;
+1701;Westerveld;Wijk 00 Diever;55
+1701;Westerveld;Wijk 01 Wapse;55
+1701;Westerveld;Wijk 02 Zorgvlied;57
+1701;Westerveld;Wijk 03 Dwingeloo;55
+1701;Westerveld;Wijk 04 Lhee;52
+1701;Westerveld;Wijk 05 Eemster;51
+1701;Westerveld;Wijk 06 Geeuwenbrug;55
+1701;Westerveld;Wijk 07 Dieverbrug;54
+1701;Westerveld;Wijk 08 Havelte;54
+1701;Westerveld;Wijk 09 Uffelte;54
+1701;Westerveld;Wijk 10 Wapserveen;53
+1701;Westerveld;Wijk 11 Vledder;51
+1701;Westerveld;Wijk 12 Frederiksoord;55
+1701;Westerveld;Wijk 13 Nijensleek;52
+1701;Westerveld;Wijk 14 Vledderveen;54
+1701;Westerveld;Wijk 15 Wilhelminaoord;57
+1701;Westerveld;Wijk 16 Doldersum;54
+1701;Westerveld;Wijk 17 Boschoord;61
+293;Westervoort;Gemeente;
+293;Westervoort;Wijk 00;53
+1783;Westland;Gemeente;
+1783;Westland;Wijk 01 Naaldwijk;49
+1783;Westland;Wijk 02 Honselersdijk;46
+1783;Westland;Wijk 03 Maasdijk;48
+1783;Westland;Wijk 04 's-Gravenzande;49
+1783;Westland;Wijk 05 Monster;50
+1783;Westland;Wijk 06 Wateringen;49
+1783;Westland;Wijk 07 De Lier;46
+1783;Westland;Wijk 08 Kwintsheul;49
+1783;Westland;Wijk 09 Poeldijk;49
+1783;Westland;Wijk 10 Ter Heijde;55
+98;Weststellingwerf;Gemeente;
+98;Weststellingwerf;Wijk 00 Wolvega;55
+98;Weststellingwerf;Wijk 01 Sonnega;50
+98;Weststellingwerf;Wijk 02 Helomavaart;49
+98;Weststellingwerf;Wijk 03 Munnekeburen;51
+98;Weststellingwerf;Wijk 04 Scherpenzeel;51
+98;Weststellingwerf;Wijk 05 Oldeholtpade;51
+98;Weststellingwerf;Wijk 06 Blesdijke;51
+98;Weststellingwerf;Wijk 07 Steggerda;50
+98;Weststellingwerf;Wijk 08 Noordwolde;54
+614;Westvoorne;Gemeente;
+614;Westvoorne;Wijk 00 Rockanje;54
+614;Westvoorne;Wijk 01 Oostvoorne;51
+189;Wierden;Gemeente;
+189;Wierden;Wijk 00 Wierden (kern);52
+189;Wierden;Wijk 01 Landelijk gebied Wierden;50
+189;Wierden;Wijk 02 Hooge-Hexel;52
+189;Wierden;Wijk 03 Enter (kern);54
+189;Wierden;Wijk 04 Landelijk gebied Enter;52
+189;Wierden;Wijk 05 Rectum - Notter - Zuna;50
+296;Wijchen;Gemeente;
+296;Wijchen;Wijk 00 Wijchen buitengebied;50
+296;Wijchen;Wijk 01 Wijchen kern;53
+296;Wijchen;Wijk 02 Balgoij;50
+296;Wijchen;Wijk 03 Batenburg;54
+296;Wijchen;Wijk 04 Bergharen;51
+296;Wijchen;Wijk 05 Hernen;53
+296;Wijchen;Wijk 06 Leur;49
+296;Wijchen;Wijk 07 Niftrik;56
+296;Wijchen;Wijk 08 Alverna;53
+1696;Wijdemeren;Gemeente;
+1696;Wijdemeren;Wijk 00 's-Graveland;45
+1696;Wijdemeren;Wijk 01 Kortenhoef;46
+1696;Wijdemeren;Wijk 02 Ankeveen;46
+1696;Wijdemeren;Wijk 03 Loosdrecht;47
+1696;Wijdemeren;Wijk 04 Nieuw-Loosdrecht;47
+1696;Wijdemeren;Wijk 05 Breukeleveen;44
+1696;Wijdemeren;Wijk 06 Nederhorst den Berg;46
+352;Wijk bij Duurstede;Gemeente;
+352;Wijk bij Duurstede;Wijk 00 Wijk bij Duurstede;51
+352;Wijk bij Duurstede;Wijk 01 Landelijk gebied;49
+352;Wijk bij Duurstede;Wijk 02 Cothen;50
+352;Wijk bij Duurstede;Wijk 03 Langbroek;51
+53;Winsum;Gemeente;
+53;Winsum;Wijk 00;51
+53;Winsum;Wijk 01;53
+53;Winsum;Wijk 02;54
+53;Winsum;Wijk 03;51
+294;Winterswijk;Gemeente;
+294;Winterswijk;Wijk 00 Stad;52
+294;Winterswijk;Wijk 01 Land;53
+873;Woensdrecht;Gemeente;
+873;Woensdrecht;Wijk 00 Hoogerheide en Woensdrecht;56
+873;Woensdrecht;Wijk 01 Huijbergen;53
+873;Woensdrecht;Wijk 02 Ossendrecht;57
+873;Woensdrecht;Wijk 03 Putte;56
+632;Woerden;Gemeente;
+632;Woerden;Wijk 01 Woerden-Midden;49
+632;Woerden;Wijk 02 Woerden-West;47
+632;Woerden;Wijk 03 Woerden-Oost;45
+632;Woerden;Wijk 04 Buitengebied Woerden-West;46
+632;Woerden;Wijk 05 Buitengebied Woerden-Oost;45
+632;Woerden;Wijk 06 Harmelen;47
+632;Woerden;Wijk 07 Kamerik;48
+632;Woerden;Wijk 08 Zegveld;50
+880;Wormerland;Gemeente;
+880;Wormerland;Wijk 00 Wormer;51
+880;Wormerland;Wijk 01 Wijdewormer;51
+880;Wormerland;Wijk 02 Jisp;51
+351;Woudenberg;Gemeente;
+351;Woudenberg;Wijk 00 Woudenberg;49
+874;Woudrichem;Gemeente;
+874;Woudrichem;Wijk 00 Woudrichem;54
+874;Woudrichem;Wijk 01 Almkerk;51
+874;Woudrichem;Wijk 02 Rijswijk;54
+874;Woudrichem;Wijk 03 Giessen;54
+874;Woudrichem;Wijk 04 Andel;55
+874;Woudrichem;Wijk 05 Uitwijk en Waardhuizen;52
+479;Zaanstad;Gemeente;
+479;Zaanstad;Wijk 11 Zaandam Zuid;52
+479;Zaanstad;Wijk 12 Poelenburg;58
+479;Zaanstad;Wijk 13 Pelders- en Hoornseveld;56
+479;Zaanstad;Wijk 14 Rosmolenwijk;52
+479;Zaanstad;Wijk 15 Kogerveldwijk;52
+479;Zaanstad;Wijk 16 Zaandam Noord;54
+479;Zaanstad;Wijk 21 Oude Haven;47
+479;Zaanstad;Wijk 22 Zaandam West;47
+479;Zaanstad;Wijk 23 Nieuw West;47
+479;Zaanstad;Wijk 31 Oud Koog a/d Zaan;52
+479;Zaanstad;Wijk 32 Westerkoog;51
+479;Zaanstad;Wijk 41 Oud Zaandijk;54
+479;Zaanstad;Wijk 42 Rooswijk;53
+479;Zaanstad;Wijk 51 Wormerveer;53
+479;Zaanstad;Wijk 61 Krommenie Oost;53
+479;Zaanstad;Wijk 62 Krommenie West;52
+479;Zaanstad;Wijk 71 Assendelft-Zuid;51
+479;Zaanstad;Wijk 72 Assendelft-Noord;50
+479;Zaanstad;Wijk 81 Westzaan;49
+297;Zaltbommel;Gemeente;
+297;Zaltbommel;Wijk 00 Zaltbommel;53
+297;Zaltbommel;Wijk 01 Brakel;54
+297;Zaltbommel;Wijk 02 Kerkwijk;53
+297;Zaltbommel;Wijk 03 Nederhemert;50
+473;Zandvoort;Gemeente;
+473;Zandvoort;Zandvoort Noord;50
+473;Zandvoort;Zandvoort Zuid;47
+473;Zandvoort;Bentveld;45
+473;Zandvoort;Buitengebied;47
+707;Zederik;Gemeente;
+707;Zederik;Wijk 01 Lexmond;51
+707;Zederik;Wijk 02 Ameide;52
+707;Zederik;Wijk 03 Tienhoven;50
+707;Zederik;Wijk 04 Meerkerk;50
+707;Zederik;Wijk 05 Hei- en Boeicop;48
+707;Zederik;Wijk 06 Leerbroek;46
+707;Zederik;Wijk 07 Nieuwland;48
+50;Zeewolde;Gemeente;
+50;Zeewolde;Wijk 00;47
+355;Zeist;Gemeente;
+355;Zeist;Wijk 01 Centrum Zeist;44
+355;Zeist;Wijk 02 Zeist-Noord;44
+355;Zeist;Wijk 03 Zeist-West;48
+355;Zeist;Wijk 04 Zeist-Oost, Zeister Bos e.o.;45
+355;Zeist;Wijk 05 Huis Ter Heide, Bosch en Duin;46
+299;Zevenaar;Gemeente;
+299;Zevenaar;Wijk 00 Zevenaar;53
+299;Zevenaar;Wijk 01 Babberich;55
+299;Zevenaar;Wijk 02 Angerlo;57
+299;Zevenaar;Wijk 03 Giesbeek;57
+299;Zevenaar;Wijk 04 Lathum;54
+637;Zoetermeer;Gemeente;
+637;Zoetermeer;Centrum;53
+637;Zoetermeer;Meerzicht;54
+637;Zoetermeer;Buytenwegh de Leyens;53
+637;Zoetermeer;Seghwaert;52
+637;Zoetermeer;Noordhove;52
+637;Zoetermeer;Rokkeveen;52
+637;Zoetermeer;Oosterheem;50
+637;Zoetermeer;Industriegebied;52
+637;Zoetermeer;Buitengebied;45
+638;Zoeterwoude;Gemeente;
+638;Zoeterwoude;Wijk 00 Zoeterwoude;50
+638;Zoeterwoude;Wijk 01 Hoge Rijndijk;51
+56;Zuidhorn;Gemeente;
+56;Zuidhorn;Wijk 00;50
+56;Zuidhorn;Wijk 01;53
+56;Zuidhorn;Wijk 02;51
+56;Zuidhorn;Wijk 03;52
+1892;Zuidplas;Gemeente;
+1892;Zuidplas;Wijk 01 Moerkapelle;50
+1892;Zuidplas;Wijk 02 Zevenhuizen;51
+1892;Zuidplas;Wijk 03 Moordrecht;53
+1892;Zuidplas;Wijk 04 Nieuwerkerk aan den IJssel;51
+879;Zundert;Gemeente;
+879;Zundert;Wijk 00 Zundert;52
+879;Zundert;Wijk 01 Klein - Zundert;49
+879;Zundert;Wijk 02 Wernhout;54
+879;Zundert;Wijk 03 Achtmaal;53
+879;Zundert;Wijk 04 Rijsbergen;51
+301;Zutphen;Gemeente;
+301;Zutphen;Wijk 00 Centrum - De Hoven;49
+301;Zutphen;Wijk 01 Waterkwartier;53
+301;Zutphen;Wijk 02 Noordveen;50
+301;Zutphen;Wijk 03 Zuidwijken;54
+301;Zutphen;Wijk 04 Leesten;51
+301;Zutphen;Wijk 05 Warnsveld;52
+1896;Zwartewaterland;Gemeente;
+1896;Zwartewaterland;Wijk 00 Genemuiden;52
+1896;Zwartewaterland;Wijk 01 Kamperzeedijk;52
+1896;Zwartewaterland;Wijk 02 Hasselt;53
+1896;Zwartewaterland;Wijk 03 Landelijk gebied Hasselt;48
+1896;Zwartewaterland;Wijk 04 Zwartsluis;55
+1896;Zwartewaterland;Wijk 05 Mastenbroek;50
+642;Zwijndrecht;Gemeente;
+642;Zwijndrecht;Wijk 01 Walburg;55
+642;Zwijndrecht;Wijk 02 Centrum;54
+642;Zwijndrecht;Wijk 03 Noord;53
+642;Zwijndrecht;Wijk 04 Heer Oudelands Ambacht;54
+642;Zwijndrecht;Wijk 05 Kort Ambacht;55
+642;Zwijndrecht;Wijk 06 Nederhoven;57
+642;Zwijndrecht;Wijk 07 Verspreide bebouwing;49
+642;Zwijndrecht;Wijk 08 Bebouwde kom Heerjansdam;53
+642;Zwijndrecht;Wijk 09 Landelijk gebied Heerjansdam;51
+193;Zwolle;Gemeente;
+193;Zwolle;Wijk 10 Binnenstad;34
+193;Zwolle;Wijk 11 Diezerpoort;42
+193;Zwolle;Wijk 12 Wipstrik;42
+193;Zwolle;Wijk 13 Assendorp;39
+193;Zwolle;Wijk 14 Kamperpoort-Veerallee;42
+193;Zwolle;Wijk 20 Poort van Zwolle;46
+193;Zwolle;Wijk 21 Westenholte;49
+193;Zwolle;Wijk 22 Stadshagen;46
+193;Zwolle;Wijk 30 Holtenbroek;48
+193;Zwolle;Wijk 31 Aalanden;51
+193;Zwolle;Wijk 32 Vechtlanden;47
+193;Zwolle;Wijk 40 Berkum;49
+193;Zwolle;Wijk 41 Marsweteringlanden;49
+193;Zwolle;Wijk 50 Schelle;45
+193;Zwolle;Wijk 51 Ittersum;47
+193;Zwolle;Wijk 52 Soestweteringlanden;53
